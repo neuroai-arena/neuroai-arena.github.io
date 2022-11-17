@@ -27,7 +27,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+destination: docs/
 
 # Markdown Processing
 kramdown:
