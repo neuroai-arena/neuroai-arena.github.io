@@ -5,8 +5,11 @@ excerpt: "About the website."
 sitemap: false
 permalink: /aboutwebsite.html
 ---
+# About Website
 
-# Use this website as a template for your academic research group
+This website is adapted from the [Allan Lab](https://github.com/allanlab/allanlab) template. The following is taken from their original "About the website" page... 
+
+## Use this website as a template for your academic research group
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 

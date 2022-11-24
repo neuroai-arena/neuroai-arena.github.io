@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "ARENA News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Recent news from ARENA"
 sitemap: false
 permalink: /allnews.html
 ---
