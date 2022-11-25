@@ -10,7 +10,7 @@ title: ARENA
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation.
-baseurl: "/arenasite"
+baseurl: ""
 url: ""
 
 include:
