@@ -9,7 +9,18 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+<!-- only show highlighted publications title if any publications are selected to be highlighted -->
+
+{% for publi in site.data.publist %}
+
+{% if publi.highlight == 1 %}
+  <h2>Group highlights</h2>
+  {% break %}
+{% endif %}
+
+{% endfor %}
+
+<!-- show the highlighted publications -->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -50,7 +61,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## Full List of Related Publications
 
 {% for publi in site.data.publist %}
 
