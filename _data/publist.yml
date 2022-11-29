@@ -1,8 +1,50 @@
-- title: "Traces of Meaning Itself: Encoding Distributional Word Vectors in Brain Activity"
+- title: "Traces of meaning itself: Encoding distributional word vectors in brain activity"
   image: tracesofmeaning.png
   description: We show evidence that distributional word vector models can describe brain activity, measured by EEG, elicited words without context. These results suggest that empiricist, prediction-based vectorial representations of meaning are a viable candidate for the representational architecture of human semantic knowledge.
   authors: J Sassenhagen, CJ Fiebach
   link:
     url: https://doi.org/10.1162/nol_a_00003
     display: Neurobiology of Language (2022)
-  highlight: 1
+  highlight: 0
+
+- title: "Net2Brain: A Toolbox to compare artificial vision models with human brain responses. Conference on Cognitive computational Neuroscience"
+  authors: D Bersch, K Dwivedi, M Vilas, RM Cichy, G Roig
+  link:
+    url: https://doi.org/10.48550/arXiv.2208.09677
+    display: arXiv (2022)
+  highlight: 0
+
+- title: "Combining computational controls with natural text reveals aspects of meaning composition"
+  authors: M Toneva, T Mitchell, L Wehbe
+  link:
+    url: https://doi.org/10.1038/s43588-022-00354-6
+    display: Nature Computational Science (2022)
+  highlight: 0
+
+- title: "Unveiling functions of the visual cortex using task-specific deep neural networks"
+  authors: K Dwivedi, MF Bonner, RM Cichy, G Roig
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1009267
+    display: PLoS Computational Biology (2021)
+  highlight: 0
+
+- title: "Unraveling representations in scene-selective brain regions using scene-parsing deep neural networks"
+  authors: K Dwivedi, RM Cichy, G Roig
+  link:
+    url: https://doi.org/10.1162/jocn_a_01624
+    display: Journal of Cognitive Neuroscience (2021)
+  highlight: 0
+
+- title: "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)"
+  authors: M Toneva, L Wehbe
+  link:
+    url: https://doi.org/10.48550/arXiv.1905.11833
+    display: In Proceedings of NeurIPS (2019)
+  highlight: 0
+
+- title: "Inducing brain-relevant bias in natural language processing models"
+  authors: D Schwartz, M Toneva, L Wehbe
+  link:
+    url: https://doi.org/10.48550/arXiv.1911.03268
+    display: In Proceedings of NeurIPS (2019)
+  highlight: 0

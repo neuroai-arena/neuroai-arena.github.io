@@ -58,10 +58,20 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
+<!-- add space between the sections and add the subsection title if any are highlighted (otherwise no title, as just one "publications" section) -->
 
-## Full List of Related Publications
+{% for publi in site.data.publist %}
+
+{% if publi.highlight == 1 %}
+  <p> &nbsp; </p>
+  <h2>Full List of Related Publications</h2>
+  {% break %}
+{% endif %}
+
+{% endfor %}
+
+<!-- full list of publications (highlighted and unhighlighted) -->
 
 {% for publi in site.data.publist %}
 
@@ -69,3 +79,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+<p> &nbsp; </p>
