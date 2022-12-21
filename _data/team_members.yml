@@ -48,7 +48,7 @@
 
 - name: Mariya Toneva
   photo: toneva.jpg
-  info: Mariya Toneva is an Associate Professor and Research Group at the MPI for Software Systems in Saarbrücken. Her research is located at the intersection of Machine Learning, Natural Language Processing, and Neuroscience, with a focus on building computational models of language processing in the brain that can also improve natural language processing systems.
+  info: Mariya Toneva is a tenure-track faculty at the MPI for Software Systems in Saarbrücken. Her research is located at the intersection of Machine Learning, Natural Language Processing, and Neuroscience, with a focus on building computational models of language processing in the brain that can also improve natural language processing systems.
   email: mtoneva(at)mpi-sws.org
   url: http://mtoneva.com/
   show_url: True
@@ -72,9 +72,9 @@
 
 - name: Melissa Vo
   photo: vo.jpg
-  info: Melissa Vo is Professor of Cognitive Psychology at Goethe University Frankfurt. Her main research interests are in TBD, using eye tracking methods as well as behavioral experiments and EEG.
+  info: Melissa Vo is Professor of Cognitive Psychology at Goethe University Frankfurt. Her core research areas include top-down guidance in scene search, neural representation and development of scene knowledge, rapid object and scene categorization, as well as action-perception interactions in real-world scenarios. The lab uses a variety of methods, including psychophysics, stationary, real-world and VR eye-tracking, EEG, as well as computational modelling approaches.
   email: mlvo(at)psych.uni-frankfurt.de
-  url: https://www.goethe-university-frankfurt.de/120691319/Prof__Dr__Melissa_L%C3%AA_Hoa_V%C3%B5?
+  url: https://www.SceneGrammarLab.com
   show_url: True
   number_educ: 0
   education1:
