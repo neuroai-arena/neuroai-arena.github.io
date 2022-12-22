@@ -13,8 +13,8 @@ permalink: /vacancies
 We are happy to announce that the DFG funded research unit ARENA - Abstract Representations in Neural Architectures, situated at Goethe University Frankfurt, the Frankfurt Institute of Advanced Studies (FIAS) and the Max Planck Institute for Software Systems Saarbrücken, invites applications for
 
 <div align="center">
-4 Postdoc positions (f/m/d) (E 13, full time),
-1 PhD positions (f/m/d) (E 13, full time) and
+4 Postdoc positions (f/m/d) (E 13, full time), \
+1 PhD positions (f/m/d) (E 13, full time) and \
 1 position as scientific coordinator (f/m/d) (E 13, 50 % part time)
 </div>
     
@@ -47,7 +47,7 @@ The ARENA research unit is a collaborative project of Goethe University Frankfur
 
 Goethe University, FIAS, and the Max Planck Institute are committed to a policy of providing equal employment opportunities for both men and women alike, and we therefore encourage particularly women to apply for the position/s offered. Individuals with severe disability will be prioritized in case of equal aptitude and ability.
 
-If you are interested in joining ARENA, please send a CV, a statement of research interests, one (PhD positions) or two (PostDoc positions) publications, and the names and contact details of at least two academic references﻿ (all in one pdf document) until January 11, 2023 to neuroai.arena@gmail.com. In your application, please specify the project(s) you are particularly interested in and cc your application to the respective principal investigators specified above. 
+If you are interested in joining ARENA, please send a CV, a statement of research interests, one (PhD positions) or two (PostDoc positions) publications, and the names and contact details of at least two academic references﻿ (all in one pdf document) until **January 11, 2023** to neuroai.arena@gmail.com. In your application, please specify the project(s) you are particularly interested in and cc your application to the respective principal investigators specified above. 
 
 <br /><br />
 <figure>
