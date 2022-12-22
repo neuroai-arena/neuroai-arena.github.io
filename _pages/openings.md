@@ -13,9 +13,9 @@ permalink: /vacancies
 We are happy to announce that the DFG funded research unit ARENA - Abstract Representations in Neural Architectures, situated at Goethe University Frankfurt, the Frankfurt Institute of Advanced Studies (FIAS) and the Max Planck Institute for Software Systems Saarbrücken, invites applications for
 
 <div align="center">
-4 Postdoc positions (f/m/d) (E 13, full time), \
-1 PhD positions (f/m/d) (E 13, full time) and \
-1 position as scientific coordinator (f/m/d) (E 13, 50 % part time)
+4 Postdoc positions (f/m/d) (E 13, full time), <br/>
+1 PhD positions (f/m/d) (E 13, full time) and <br/>
+1 position as scientific coordinator (f/m/d) (E 13, 50 % part time) <br/>
 </div>
     
 Preferred starting dates are between February and April, 2023. The duration of contracts will be up to four years. The salary grades will be based on the rules of the institution, at which the respective position is located.
