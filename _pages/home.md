@@ -8,7 +8,7 @@ permalink: /
 
 Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.
 
-**We are currently looking for enthusiastic Postdocs and PhD students to join the ARENA team in 2023! LINK: click here for more information (not yet posted - check back soon).**
+**We are currently looking for enthusiastic Postdocs and PhD students to join the ARENA team in 2023! LINK: [click here for more information](/vacancies).**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
