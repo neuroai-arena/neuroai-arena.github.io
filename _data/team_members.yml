@@ -81,3 +81,15 @@
   education2:
   education3:
   education4:
+
+- name: Maral Dadvar
+  photo: dadvar.jpg
+  info: Maral Dadvar is a scientific coordinator at the Department of Psychology of the Goethe University Frankfurt. With a Ph.D. in computer science, her expertise lies in information retrieval, Linked Open Data, and Semantic Web. She brings extensive experience in scientific project management, coordination, and knowledge communication.
+  email: dadvar(at)ub.uni-frankfurt.de
+  url: http://www.fiebachlab.org/people
+  show_url: True
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
