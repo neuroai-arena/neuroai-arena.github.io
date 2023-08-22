@@ -22,10 +22,10 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
   {% if member.show_url %}
-  site: <i><a href="{{ member.url }}">{{ member.url }}</a></i><br>
-  email: <{{ member.email }}>
+  Website: <i><a href="{{ member.url }}">{{ member.url }}</a></i><br>
+  E-mail: {{ member.email }}
   {% else %}
-  email: <{{ member.email }}>
+  E-mail: {{ member.email }}
   {% endif %}
 
   <ul style="overflow: hidden">
