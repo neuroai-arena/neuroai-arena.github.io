@@ -16,11 +16,14 @@ permalink: /team/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
+img  {
+  float: none;
+  margin-left: auto; 
+  margin-right: auto
+}
 <div class="col-sm-6 clearfix">
   <a href="{{member.url}}">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: none" margin-left: auto;
-  margin-right: auto>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%">
     </a>
   <br>
   <h4><b>{{ member.name }}</b></h4>
