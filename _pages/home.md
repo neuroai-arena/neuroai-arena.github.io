@@ -5,7 +5,8 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 sitemap: false
 permalink: /
 ---
-<img src="images/newspic/ARENA.png" class="img-responsive" style="max-width: 192px">
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 192px">
 
 Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.
 
