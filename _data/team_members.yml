@@ -1,9 +1,9 @@
 - name: Christian Fiebach (Speaker)
   photo: fiebach.jpg
-  info: Christian Fiebach is a Professor of Cognitive Neuroscience at Goethe University Frankfurt. He is also a PI at Goethe University’s Brain Imaging Center. His research is aimed at understanding the brain mechanisms underlying higher cognitive abilities such as language comprehension and visual word recognition, cognitive flexibility, as well as neurobiological correlates of individual differences in general cognitive ability (intelligence). To this end, he uses non-invasive neuroimaging methods, in particular functional magnetic resonance imaging and electrophysiology.
-  email: Fiebach(at)psych.uni-frankfurt.de
+  #info: Christian Fiebach is a Professor of Cognitive Neuroscience at Goethe University Frankfurt. He is also a PI at Goethe University’s Brain Imaging Center. His research is aimed at understanding the brain mechanisms underlying higher cognitive abilities such as language comprehension and visual word recognition, cognitive flexibility, as well as neurobiological correlates of individual differences in general cognitive ability (intelligence). To this end, he uses non-invasive neuroimaging methods, in particular functional magnetic resonance imaging and electrophysiology.
+  #email: Fiebach(at)psych.uni-frankfurt.de
   url: http://www.fiebachlab.org/
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -12,10 +12,10 @@
 
 - name: Gemma Roig (co-speaker)
   photo: roig.jpg
-  info: Gemma Roig is a Professor of Data Analytics and Modeling at the Computer Science Department of Goethe University Frankfurt., Her research focuses on understanding the computational principles underlying visual intelligence of humans and artificial systems, with the aim of developing a general artificial intelligence framework. To this end, she develops computational models using deep learning and state-of-the-art artificial intelligence algorithms, and uses those to explain behavioural and brain data, including fMRI and EEG.
-  email: Roig(at)cs.uni-frankfurt.de
-  url: http://www.cvai.cs.uni-frankfurt.de/team.html
-  show_url: True
+  #info: Gemma Roig is a Professor of Data Analytics and Modeling at the Computer Science Department of Goethe University Frankfurt., Her research focuses on understanding the computational principles underlying visual intelligence of humans and artificial systems, with the aim of developing a general artificial intelligence framework. To this end, she develops computational models using deep learning and state-of-the-art artificial intelligence algorithms, and uses those to explain behavioural and brain data, including fMRI and EEG.
+  #email: Roig(at)cs.uni-frankfurt.de
+  #url: http://www.cvai.cs.uni-frankfurt.de/team.html
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -24,10 +24,10 @@
 
 - name: Mathias Kaschube
   photo: kaschube.jpg
-  info: Matthias Kaschube is a Professor of Computational Neuroscience and Computational Vision in the Department of Computer Science and Mathematics at Goethe University and a Senior Research Fellow at the Frankfurt Institute of Advanced Studies. His research focuses on the interplay of the different factors (like genetic vs. sensory input) leading to the development of cortical circuits, on relevant features of brain circuits that support cognitive processes, as well as the robustness of cortical circuits against cellular, subcellular and molecular changes.
+  #info: Matthias Kaschube is a Professor of Computational Neuroscience and Computational Vision in the Department of Computer Science and Mathematics at Goethe University and a Senior Research Fellow at the Frankfurt Institute of Advanced Studies. His research focuses on the interplay of the different factors (like genetic vs. sensory input) leading to the development of cortical circuits, on relevant features of brain circuits that support cognitive processes, as well as the robustness of cortical circuits against cellular, subcellular and molecular changes.
   email: Kaschube(at)fias.uni-frankfurt.de
   url: https://www.fias.science/en/fellows/detail/kaschube-matthias/
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -36,10 +36,10 @@
 
 - name: Yee Lee Shing
   photo: shing.jpg
-  info: Yee Lee Shing is a Professor of Developmental Psychology at Goethe University Frankfurt. Her research focuses on the development of cognitive and brain functions across the human lifespan, with an emphasis on long-term memory and predictive processing. She makes use of neuroimaging techniques (e.g., structural and functional MRI, EEG) and multivariate developmental methodology (e.g., structural equation and latent growth curve modeling) to investigate the unfolding of brain-behavior relationships across time.
-  email: Shing(at)psych.uni-frankfurt.de
+  #info: Yee Lee Shing is a Professor of Developmental Psychology at Goethe University Frankfurt. Her research focuses on the development of cognitive and brain functions across the human lifespan, with an emphasis on long-term memory and predictive processing. She makes use of neuroimaging techniques (e.g., structural and functional MRI, EEG) and multivariate developmental methodology (e.g., structural equation and latent growth curve modeling) to investigate the unfolding of brain-behavior relationships across time.
+  #email: Shing(at)psych.uni-frankfurt.de
   url: https://www.psychologie.uni-frankfurt.de/69824239/005_Prof_-Yee-Lee-Shing
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -48,10 +48,10 @@
 
 - name: Mariya Toneva
   photo: toneva.jpg
-  info: Mariya Toneva is a tenure-track faculty at the MPI for Software Systems in Saarbrücken. Her research is located at the intersection of Machine Learning, Natural Language Processing, and Neuroscience, with a focus on building computational models of language processing in the brain that can also improve natural language processing systems.
+  #info: Mariya Toneva is a tenure-track faculty at the MPI for Software Systems in Saarbrücken. Her research is located at the intersection of Machine Learning, Natural Language Processing, and Neuroscience, with a focus on building computational models of language processing in the brain that can also improve natural language processing systems.
   email: Mtoneva(at)mpi-sws.org
   url: http://mtoneva.com/
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -60,10 +60,10 @@
 
 - name: Jochen Triesch
   photo: triesch.jpg
-  info: Jochen Triesch is Johanna Quandt Professor for Theoretical Life Sciences at the Frankfurt Institute of Advanced Studies. He is also affiliated as Professor with Goethe University Frankfurt’s Departments of Physics, Computer Science and Mathematics. His research uses computer models to simulate brain function, particularly to investigate how cognitive processes and intelligent perception, action and thought arise from the interplay of millions of relatively simple nerve cells and their self-organization into networks.
-  email: triesch(at)fias.uni-frankfurt.de
+  #info: Jochen Triesch is Johanna Quandt Professor for Theoretical Life Sciences at the Frankfurt Institute of Advanced Studies. He is also affiliated as Professor with Goethe University Frankfurt’s Departments of Physics, Computer Science and Mathematics. His research uses computer models to simulate brain function, particularly to investigate how cognitive processes and intelligent perception, action and thought arise from the interplay of millions of relatively simple nerve cells and their self-organization into networks.
+  #email: triesch(at)fias.uni-frankfurt.de
   url: https://www.fias.science/en/fellows/detail/triesch-jochen/
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -72,10 +72,10 @@
 
 - name: Melissa Vo
   photo: vo.jpg
-  info: Melissa Vo is a Professor of Cognitive Psychology at Goethe University Frankfurt. Her core research areas include top-down guidance in scene search, neural representation and development of scene knowledge, rapid object and scene categorization, as well as action-perception interactions in real-world scenarios. The lab uses a variety of methods, including psychophysics, stationary, real-world and VR eye-tracking, EEG, as well as computational modelling approaches.
-  email: mlvo(at)psych.uni-frankfurt.de
+  #info: Melissa Vo is a Professor of Cognitive Psychology at Goethe University Frankfurt. Her core research areas include top-down guidance in scene search, neural representation and development of scene knowledge, rapid object and scene categorization, as well as action-perception interactions in real-world scenarios. The lab uses a variety of methods, including psychophysics, stationary, real-world and VR eye-tracking, EEG, as well as computational modelling approaches.
+  #email: mlvo(at)psych.uni-frankfurt.de
   url: https://SceneGrammarLab.com
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
@@ -84,10 +84,10 @@
 
 - name: Maral Dadvar
   photo: dadvar.jpg
-  info: Maral Dadvar is a scientific coordinator at the Department of Psychology of the Goethe University Frankfurt. With a Ph.D. in computer science, her expertise lies in information retrieval, Linked Open Data, and Semantic Web. She brings extensive experience in scientific project management, coordination, and knowledge communication.
-  email: dadvar(at)ub.uni-frankfurt.de
+  #info: Maral Dadvar is a scientific coordinator at the Department of Psychology of the Goethe University Frankfurt. With a Ph.D. in computer science, her expertise lies in information retrieval, Linked Open Data, and Semantic Web. She brings extensive experience in scientific project management, coordination, and knowledge communication.
+  #email: dadvar(at)ub.uni-frankfurt.de
   url: http://www.fiebachlab.org/people
-  show_url: True
+  show_url: False
   number_educ: 0
   education1:
   education2:
