@@ -22,6 +22,7 @@ permalink: /team/
     </a>
   <br>
   <h4><b>{{ member.name }}</b></h4>
+  <p tyle="color:SteelBlue;"><h5>{{ member.affiliation }}</h5></p>
 
   <ul style="overflow: hidden">
 
