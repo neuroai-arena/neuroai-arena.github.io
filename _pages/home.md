@@ -8,7 +8,7 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 265px">
 
-Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.
+<h1>Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.</h1>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -28,7 +28,7 @@ Welcome to the DFG Research Unit “Abstract Representations in Neural Architect
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider02.png" alt="Slide 2" height=300px />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider03.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider03.png" alt="Slide 3" height=300px />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
