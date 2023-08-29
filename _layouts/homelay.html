@@ -1,9 +1,36 @@
 ---
 layout: default
 ---
-
-  <div id="homeid" class="container">
+<head>
+    <style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .image {
+        flex-basis: 70%;
+        order: 2;
+      }
+      .text {
+        color: #CD5C5C;
+        padding-left: 20px;
+        font: italic 10px "Fira Sans", serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 265px">
+      </div>
+      <div class="text">
         <h1>ARENA</h1>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 265px">
-	{{ content }}
+      </div>
+    </div>
+  </body>
+{{ content }}
   </div>
