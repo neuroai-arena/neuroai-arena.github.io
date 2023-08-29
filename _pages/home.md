@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 192px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ARENA.png" class="img-responsive" style="max-width: 265px">
 
 Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.
 
