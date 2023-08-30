@@ -1,18 +1,19 @@
-- name: Christian Fiebach (Speaker)
+- name: Christian Fiebach
   photo: fiebach.jpg
   url: http://www.fiebachlab.org/
-  affiliation: Fiebach Lab
-  show_url: False
+  affiliation: Goethe University Frankfurt
+  title: Speaker
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-- name: Gemma Roig (co-speaker)
+- name: Gemma Roig
   photo: roig.jpg
-  affiliation: Fiebach Lab
+  affiliation:  Goethe University Frankfurt
   url: http://www.cvai.cs.uni-frankfurt.de/team.html
+  title: Co-Speaker
   number_educ: 0
   education1:
   education2:
@@ -23,7 +24,7 @@
   photo: kaschube.jpg
   affiliation: Frankfurt Institute for Advanced Studies
   url: https://www.fias.science/en/fellows/detail/kaschube-matthias/
-  show_url: False
+  title: Principal Investigator
   number_educ: 0
   education1:
   education2:
@@ -35,6 +36,8 @@
   affiliation: Goethe University Frankfurt
   number_educ: 0
   url: https://www.psychologie.uni-frankfurt.de/69824239/005_Prof_-Yee-Lee-Shing
+  title: Principal Investigator
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -44,6 +47,7 @@
   photo: toneva.jpg
   affiliation: Max Planck Institute for Software Systems
   url: http://mtoneva.com/
+  title: Principal Investigator
   number_educ: 0
   education1:
   education2:
@@ -52,8 +56,9 @@
 
 - name: Jochen Triesch
   photo: triesch.jpg
-  affiliation: Goethe University Frankfurt
+  affiliation: Frankfurt Institute for Advanced Studies and Goethe University Frankfurt 
   url: https://www.fias.science/en/fellows/detail/triesch-jochen/
+  title: Principal Investigator
   number_educ: 0
   education1:
   education2:
@@ -64,6 +69,7 @@
   photo: vo.jpg
   affiliation: Goethe University Frankfurt
   url: https://SceneGrammarLab.com
+  title: Principal Investigator
   number_educ: 0
   education1:
   education2:
@@ -72,8 +78,9 @@
 
 - name: Maral Dadvar
   photo: dadvar.jpg
-  affiliation: Fiebach Lab
+  affiliation:  Goethe University Frankfurt
   url: http://www.fiebachlab.org/people
+  title: Research Coordinator
   number_educ: 0
   education1:
   education2:
