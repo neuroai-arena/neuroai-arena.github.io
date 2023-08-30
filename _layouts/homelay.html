@@ -1,9 +1,33 @@
 ---
 layout: default
 ---
-
-  <div id="homeid" class="col-sm-8">
-        <h1>ARENA</h1>
-
-	{{ content }}
+<head>
+    <style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .image {
+        flex-basis: 70%;
+        order: 2;
+      }
+      .text {
+        color: #CD5C5C;
+        padding-left: 20px;
+        font: italic 10px "Fira Sans", serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" class="img-responsive" style="max-width: 400px">
+      </div>
+    </div>
+  </body>
+{{ content }}
   </div>

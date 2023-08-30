@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -16,17 +16,13 @@ permalink: /team/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i><br>
-  {% if member.show_url %}
-  Website: <i><a href="{{ member.url }}">{{ member.url }}</a></i><br>
-  E-mail: {{ member.email }}
-  {% else %}
-  E-mail: {{ member.email }}
-  {% endif %}
+  <a href="{{member.url}}">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%">
+    </a>
+  <br>
+  <h4><b>{{member.name }}</b>, {{member.title}}</h4>
+  <h5>{{ member.affiliation }}</h5>
 
   <ul style="overflow: hidden">
 

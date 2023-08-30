@@ -5,8 +5,13 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 sitemap: false
 permalink: /
 ---
+<h3>Welcome to the Arena Research Unit “Abstract Representations in Neural Architectures”.</h3>
 
-Welcome to the DFG Research Unit “Abstract Representations in Neural Architectures”.
+<br>
+ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
+- How abstract representations are learned.
+- How these representations are mapped onto decisions in various task contexts.
+- Whether and how these representations are coded in neural activity elicited during human perception.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -38,11 +43,6 @@ Welcome to the DFG Research Unit “Abstract Representations in Neural Architect
   </a>
 </div>
 
-ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
-- How abstract representations are learned.
-- How these representations are mapped onto decisions in various task contexts.
-- Whether and how these representations are coded in neural activity elicited during human perception.
-
 <br /><br />
 The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
 
@@ -50,20 +50,20 @@ The ARENA project is jointly carried out by researchers from [Goethe University 
   <div class="container-fluid">
   <div class="row">
 
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-4" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dfg_logo_schriftzug_blau_foerderung_en.jpg" style="height: 90px">
   </div>
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-4" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross.png" style="height: 75px">
   </div>
 
   </div>
   <div class="row">
 
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-8" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FIAS.jpg" style="height: 65px">
   </div>
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-8" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MPISS.png" style="height: 45px">
   </div>
 

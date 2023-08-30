@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://neuroai-arena.github.io/"
 
+
 include:
   - .htaccess
   - _pages

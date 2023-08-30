@@ -1,28 +1,35 @@
 
 - title: "Learning Object Representations via Active Exploration"
   pi: "Jochen Triesch"
+  students: "Arthur Aubert"
   info: "This project asks how human infants can learn to form abstract object representations so much more autonomously than current AI systems. It proposes a new approach for learning object representations, integrating classic ideas from Neuroscience (exploiting temporal structure, intrinsic motivation) and Machine Learning (self-supervised contrastive learning, artificial curiosity). Through this, it hopes to further our understanding of human learning and contribute to developing autonomously learning AI models."
 
 - title: "Emergence of Abstract Representations for Categorization in Learning and Development"
   pi: "Yee Lee Shing"
+  students: "Iryna Schommartz"
   info: "This project examines the emergence of abstract representations in the form of categorical knowledge, how this interacts with episodic memory of specific experiences, and the age differences therein. We will incorporate fMRI-based neural measures with age-appropriate characterization of memories for generalization (i.e. categorical knowledge abstracted away from individual objects), tracking their emergence across training phases, and compare the representational structures from human data with those from AI models."
 
 - title: "The Hierarchical Structure of Scene Representations"
   pi: "Melissa Vo"
+  students: "Vicky Nicholls"
   info: "This project investigates the degree to which abstract scene representations are hierarchically structured and whether this structure may change as a function of task. We will leverage the synergies created by ARENA's multidisciplinary team to address these questions using both a mixture of experimental methods (e.g.behavioral similarity judgments of semantic concepts, EEG and fMRI recordings, or eye tracking in  VR environments) as well as computational modeling (contrastive learning, hierarchical DNNs)."
 
 - title: "Hierarchical Organization of Distributed Semantic Knowledge in the Human Language System"
-  pi: "Chrstian Fiebach"
+  pi: "Christian Fiebach"
+  students: "Cosimo Iaia"
   info: "This project will use word, sentence, and object embedding models to investigate the organization of increasingly more abstract modality-specific, modality-independent, as well as domain-general (i.e., linguistic and non-linguistic) representations in the human language system (particularly along the language areas of the temporal lobe). To this end, we will collect fMRI and MEG data while participants perform language comprehension tasks."
 
 - title: "Bridging Levels of Abstraction in Brains and Natural Language Processing Machines"
   pi: "Mariya Toneva"
+  students: "Emin Celik"
   info: "This project aims to improve our understanding of how semantic knowledge at various levels of abstraction is represented in the human brain and to elucidate how these insights can be integrated into NLP machines. To this end, we will leverage machine learning tools that allow us to establish a data-driven connection between three important sources of information about linguistic meaning: fMRI/MEG recordings of people comprehending language, deep NLP models, and human judgements about fine-grained semantic properties of words."
 
 - title: "Emergence of Abstract Representations in Contextualized Multi-modal Models"
   pi: "Gemma Roig"
+  students: "Timothy Schaumlöffel, Bhavin Choksi"
   info: "This project investigates multimodal DNN models for learning abstract representations that are independent of input modality. Those DNNs will integrate context through text, as well as visual and auditory information. This will be done by leveraging the co-occurence of the input stimuli using a self-learning paradigm reducing the amount of labeled examples needed. The computational advantages of multimodal models, as well as different manners of integrating the different modalities will be assessed and compared to unimodal models. These models will then be used to explain human data collected in ARENA's experimental projects."
 
 - title: "Navigating Knowledge Spaces Using Cognitive Maps"
   pi: "Matthias Kaschube"
+  students: "Santiago Galella"
   info: "While humans learn efficiently from small samples, current AI systems need large datasets. This project aims to test whether a fundamental feature of human cognition—cognitive maps—can be constructed using the well-structured latent space of generative adversarial networks (GANs). Therewith, we seek to develop techniques to learn from small samples and across tasks. We will explore the ability of this model to organize cognitive representations at different levels of abstraction and how this can be harnessed for the improvement of AI models."
