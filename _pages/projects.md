@@ -25,6 +25,7 @@ permalink: /projects/
   <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
   {% endif %}
   <p ><em>{{ proj.pi }}</em></p>
+  <p ><em>{{ proj.students }}</em></p>
   <p align="justify">{{ proj.info }}</p>
  </div>
 </div>
