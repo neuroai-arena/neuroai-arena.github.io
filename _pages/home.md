@@ -50,20 +50,20 @@ The ARENA project is jointly carried out by researchers from [Goethe University 
   <div class="container-fluid">
   <div class="row">
 
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-4" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dfg_logo_schriftzug_blau_foerderung_en.jpg" style="height: 90px">
   </div>
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-4" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross.png" style="height: 75px">
   </div>
 
   </div>
   <div class="row">
 
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-8" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FIAS.jpg" style="height: 65px">
   </div>
-  <div class="col-sm-6" align="center">
+  <div class="col-sm-8" align="left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MPISS.png" style="height: 45px">
   </div>
 
