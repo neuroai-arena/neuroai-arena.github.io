@@ -12,6 +12,7 @@
 - name: Gemma Roig (co-speaker)
   photo: roig.jpg
   affiliation: Fiebach Lab
+  url: http://www.cvai.cs.uni-frankfurt.de/team.html
   number_educ: 0
   education1:
   education2:
@@ -21,6 +22,7 @@
 - name: Mathias Kaschube
   photo: kaschube.jpg
   affiliation: Frankfurt Institute for Advanced Studies
+  url: https://www.fias.science/en/fellows/detail/kaschube-matthias/
   show_url: False
   number_educ: 0
   education1:
@@ -32,6 +34,7 @@
   photo: shing.jpg
   affiliation: Goethe University Frankfurt
   number_educ: 0
+  url: https://www.psychologie.uni-frankfurt.de/69824239/005_Prof_-Yee-Lee-Shing
   education1:
   education2:
   education3:
@@ -40,6 +43,7 @@
 - name: Mariya Toneva
   photo: toneva.jpg
   affiliation: Max Planck Institute for Software Systems
+  url: http://mtoneva.com/
   number_educ: 0
   education1:
   education2:
@@ -49,6 +53,7 @@
 - name: Jochen Triesch
   photo: triesch.jpg
   affiliation: Goethe University Frankfurt
+  url: https://www.fias.science/en/fellows/detail/triesch-jochen/
   number_educ: 0
   education1:
   education2:
@@ -58,6 +63,7 @@
 - name: Melissa Vo
   photo: vo.jpg
   affiliation: Goethe University Frankfurt
+  url: https://SceneGrammarLab.com
   number_educ: 0
   education1:
   education2:
@@ -67,6 +73,7 @@
 - name: Maral Dadvar
   photo: dadvar.jpg
   affiliation: Fiebach Lab
+  url: http://www.fiebachlab.org/people
   number_educ: 0
   education1:
   education2:
