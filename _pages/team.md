@@ -21,7 +21,7 @@ permalink: /team/
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%">
     </a>
   <br>
-  <h4><b>{{member.name }}</b>,({{member.title}})</h4>
+  <h4><b>{{member.name }}</b>, {{member.title}}</h4>
   <h5>{{ member.affiliation }}</h5>
 
   <ul style="overflow: hidden">
