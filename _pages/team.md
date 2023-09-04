@@ -22,7 +22,6 @@ permalink: /team/
     </a>
   <br>
   <h4><b>{{member.name }}</b></h4>
-  <br>
   <h4>{{member.title}}</h4>
   <h5>{{ member.affiliation }}</h5>
 
