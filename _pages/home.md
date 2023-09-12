@@ -46,7 +46,7 @@ ARENA is an interdisciplinary research project aimed at better understanding how
 <br /><br />
 The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
 
-<b>ARENA repository:</b> 
+<b>ARENA repository:</b> <br>
 [ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
 
 
