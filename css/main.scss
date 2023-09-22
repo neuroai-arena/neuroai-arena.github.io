@@ -82,6 +82,18 @@ firstp {
 	padding-right: 26px;
 }
 
+#cover {
+  width: 300;
+  height: 300;
+  margin: 0 auto;
+}
+
+#cover > img {
+  float: left;
+  border: 2px solid black;
+  width: 45%;
+  margin: 1.66%;
+}
 
 /* Carusel */
 

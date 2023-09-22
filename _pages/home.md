@@ -5,7 +5,6 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 sitemap: false
 permalink: /
 ---
-<h3>Welcome to the Arena Research Unit “Abstract Representations in Neural Architectures”.</h3>
 
 <br>
 ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
@@ -50,27 +49,4 @@ The ARENA project is jointly carried out by researchers from [Goethe University 
 [ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
 
 
-<figure class="fourth">
-  <div class="container-fluid">
-  <div class="row">
 
-  <div class="col-sm-4" align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dfg_logo_schriftzug_blau_foerderung_en.jpg" style="height: 90px">
-  </div>
-  <div class="col-sm-8" align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross.png" style="height: 75px">
-  </div>
-
-  </div>
-  <div class="row">
-
-  <div class="col-sm-4" align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FIAS.jpg" style="height: 65px">
-  </div>
-  <div class="col-sm-8" align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MPISS.png" style="height: 45px">
-  </div>
-
-  </div>
-  </div>
-</figure>
