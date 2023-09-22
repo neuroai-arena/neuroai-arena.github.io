@@ -86,3 +86,69 @@
   education2:
   education3:
   education4:
+  
+- name: Arthur Aubret
+  photo: Arthur.jpeg
+  affiliation:  Frankfurt Institute for Advanced Studies and Goethe University Frankfurt
+  url: https://scholar.google.com/citations?user=Bwx5cyAAAAAJ&hl=fr
+  title: Postdoc 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Iryna Schommartz
+  photo: Iryna.jpg
+  affiliation:  Goethe University Frankfurt
+  url: https://www.psychologie.uni-frankfurt.de/74178156/Iryna_Schommartz__M_Sc
+  title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Vicky Nicholls
+  photo: Vicky.jpg
+  affiliation:  Goethe University Frankfurt
+  URL: https://www.goethe-university-frankfurt.de/141030991/Dr__Victoria_Nicholls
+  title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Cosimo Iaia
+  photo: Cosimo.jpg
+  affiliation:  Goethe University Frankfurt
+  url: https://www.researchgate.net/profile/Cosimo-Iaia
+  title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Emin Celik
+  photo: Emin.jpg
+  affiliation:  Max Planck Institute for Software Systems
+  url: https://scholar.google.com/citations?user=5lw__nIAAAAJ&hl=en
+  title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Bhavin Choksi
+  photo: Bhavin.jpg
+  affiliation:  Goethe University Frankfurt
+  url: https://scholar.google.com/citations?user=mGVoADYAAAAJ&hl=en
+  title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
