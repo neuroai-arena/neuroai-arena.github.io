@@ -5,9 +5,12 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 sitemap: false
 permalink: /
 ---
+<div class="image">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" class="img-responsive" style="max-width: 400px;align: left">
+      </div>
 
 <br>
-ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
+<b>ARENA</b> is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
 - How abstract representations are learned.
 - How these representations are mapped onto decisions in various task contexts.
 - Whether and how these representations are coded in neural activity elicited during human perception.
