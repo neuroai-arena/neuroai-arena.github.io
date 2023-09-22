@@ -5,7 +5,6 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 sitemap: false
 permalink: /
 ---
-<h3>Welcome to the Arena Research Unit “Abstract Representations in Neural Architectures”.</h3>
 
 <br>
 ARENA is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
