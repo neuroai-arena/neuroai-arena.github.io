@@ -1,3 +1,10 @@
+- title: "Caregivers’ Speech during Dyadic Play Session Can Enhance Visual Representations of Toddlers"
+  authors: Timothy Schaumlöffel, Arthur Aubret, Gemma Roig, Jochen Triesch
+  link: 
+    url:
+    display: IEEE International Conference on Development and Learning 2023 (ICDL)
+  highlight: 0
+
 - title: "Traces of meaning itself: Encoding distributional word vectors in brain activity"
   image: tracesofmeaning.png
   description: We show evidence that distributional word vector models can describe brain activity, measured by EEG, elicited words without context. These results suggest that empiricist, prediction-based vectorial representations of meaning are a viable candidate for the representational architecture of human semantic knowledge.
