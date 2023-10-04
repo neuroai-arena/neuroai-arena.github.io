@@ -78,7 +78,7 @@ permalink: /publications/
 
 {% endfor %}
 
-<p> &nbsp; </p>
+
 
 # Background Publications
 
