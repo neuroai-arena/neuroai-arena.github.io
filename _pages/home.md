@@ -10,6 +10,10 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 400px;align: left">
 </div>
 
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/FiebachLab?ref_src=twsrc%5Etfw">Tweets by FiebachLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <br>
 <b>ARENA</b> is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
 - How abstract representations are learned.
