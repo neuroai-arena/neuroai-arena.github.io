@@ -78,11 +78,11 @@
 
 - name: Tomaso Poggio
   photo: poggio.jpg
-  affiliation: MIT
+  affiliation: Eugene McDermott Professor, MIT
   url: https://poggio-lab.mit.edu/people/tomaso-poggio
   title: Mercator Fellow
-  number_educ: 1
-  education1: Eugene McDermott Professor
+  number_educ: 0
+  education1: 
   education2:
   education3:
   education4:
