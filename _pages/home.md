@@ -11,8 +11,7 @@ permalink: /
 </div>
 
 
-<a class="twitter-timeline" data-width="600" data-height="400" data-dnt="true" href="https://twitter.com/MaralDadvar?ref_src=twsrc%5Etfw">Tweets by MaralDadvar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<div id="homeid" class="col-sm-8">
 
 <br>
 <b>ARENA</b> is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
@@ -52,6 +51,12 @@ permalink: /
 
 <br /><br />
 The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
+</div>
+  <div id="twitter" class="col-sm-4" >
+<a class="twitter-timeline" data-width="600" data-height="400" data-dnt="true" href="https://twitter.com/MaralDadvar?ref_src=twsrc%5Etfw">Tweets by MaralDadvar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+
+
 
 <b>ARENA repository:</b> <br>
 [ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
