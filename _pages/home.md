@@ -11,7 +11,7 @@ permalink: /
 </div>
 
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/FiebachLab?ref_src=twsrc%5Etfw">Tweets by FiebachLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="600" data-height="400" data-dnt="true" href="https://twitter.com/MaralDadvar?ref_src=twsrc%5Etfw">Tweets by MaralDadvar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 <br>
