@@ -51,15 +51,14 @@ permalink: /
 
 <br /><br />
 The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
+
+<b>ARENA repository:</b> <br>
+[ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
+
 </div>
   <div id="twitter" class="col-sm-4" >
 <a class="twitter-timeline" data-width="600" data-height="400" data-dnt="true" href="https://twitter.com/MaralDadvar?ref_src=twsrc%5Etfw">Tweets by MaralDadvar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
-
-
-
-<b>ARENA repository:</b> <br>
-[ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
 
 
 
