@@ -57,7 +57,8 @@ The ARENA project is jointly carried out by researchers from [Goethe University 
 
 </div>
   <div id="twitter" class="col-sm-4" >
-<a class="twitter-timeline" data-width="600" data-height="400" data-dnt="true" href="https://twitter.com/MaralDadvar?ref_src=twsrc%5Etfw">Tweets by MaralDadvar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p><span class="small">To see the integrated timeline, make sure you're logged into Twitter/X.</span></p>
 </div>
 
 
