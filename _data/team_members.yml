@@ -141,6 +141,7 @@
   education2:
   education3:
   education4:
+
   
 - name: Emin Celik
   photo: Emin.jpg
@@ -156,8 +157,19 @@
 - name: Bhavin Choksi
   photo: Bhavin.jpeg
   affiliation:  Goethe University Frankfurt
-  url: https://scholar.google.com/citations?user=mGVoADYAAAAJ&hl=en
+  url: http://www.cvai.cs.uni-frankfurt.de/team.html
   title: Postdoc
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education:
+  
+- name: Timothy Schaumlöffel 
+  photo: schaumloeffel.jpg
+  affiliation:  Goethe University Frankfurt
+  url: http://www.cvai.cs.uni-frankfurt.de/team.html
+  title: PhD Student
   number_educ: 0
   education1:
   education2:
