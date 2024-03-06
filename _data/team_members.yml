@@ -164,6 +164,17 @@
   education2:
   education3:
   education:
+
+- name: Santiago Galella
+  photo: galella.jpeg
+  affiliation:  Frankfurt Institute for Advanced Studies
+  url: https://www.fias.science/de/lebens-und-neurowissenschaften/gruppen/matthias-kaschube/
+  title: PhD Student
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
   
 - name: Timothy Schaumlöffel 
   photo: schaumloeffel.jpg
