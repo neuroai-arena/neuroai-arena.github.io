@@ -24,7 +24,7 @@ permalink: /talks/
 }
 
 /* Style the collapsible content. Note: hidden by default */
-.content {
+.content_collapse {
   padding: 0 18px;
   display: none;
   overflow: hidden;
@@ -40,7 +40,7 @@ permalink: /talks/
   <h4>{{talks.speaker}},  {{talks.date}}</h4>
   <h5> {{talks.location}} </h5>
   <button type="button" class="collapsible"> Open Collapsible </button>
-  <div class="content">
+  <div class="content_collapse">
     <p> {{talks.abstract}} </p>
   </div>
   {% endfor %}
