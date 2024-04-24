@@ -1,10 +1,9 @@
 ---
 title: "ARENA - Talks and Events"
 layout: gridlay
-excerpt: "ARENA - Talks and Events"
-sitemap: false
 permalink: /talks/
 ---
+
 <style>
  /* Style the button that is used to open and close the collapsible content */
 .collapsible {
@@ -37,17 +36,19 @@ permalink: /talks/
 
 <div class="row">
 {% for talks in site.data.talks %}
-  <div class="col-sm-6 clearfix">
-    <h4><b>{% raw %}{{ talks.title }}{% endraw %}</b></h4>
-    <h4>{% raw %}{{ talks.speaker }},  {{ talks.date }}{% endraw %}</h4>
-    <h5>{% raw %}{{ talks.location }}{% endraw %}</h5>
-    <button type="button" class="collapsible">Open Collapsible</button>
+  <div class="col-sm-6">
+    <h4><b>{{talks.title}}</b></h4>
+    <h4>{{talks.speaker}},  {{talks.date}}</h4>
+    <h5> {{talks.location}} </h5>
+    <button type="button" class="collapsible"> Open Collapsible </button>
     <div class="content2">
-      <p>{% raw %}{{ talks.abstract }}{% endraw %}</p>
+      {{talks.abstract}}
     </div>
   </div>
 {% endfor %}
 </div>
+
+
 
 
 
