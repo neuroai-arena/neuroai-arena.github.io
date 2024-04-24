@@ -38,19 +38,16 @@ permalink: /talks/
 <div class="row">
 {% for talks in site.data.talks %}
   <div class="col-sm-6 clearfix">
-    <h4><b>{{ talks.title | escape }}</b></h4>
-    <h4>{{ talks.speaker | escape }},  {{ talks.date | escape }}</h4>
-    <h5>{{ talks.location | escape }} </h5>
+    <h4><b>{% raw %}{{ talks.title }}{% endraw %}</b></h4>
+    <h4>{% raw %}{{ talks.speaker }},  {{ talks.date }}{% endraw %}</h4>
+    <h5>{% raw %}{{ talks.location }}{% endraw %}</h5>
     <button type="button" class="collapsible">Open Collapsible</button>
     <div class="content2">
-      <p>{{ talks.abstract | escape }}</p>
+      <p>{% raw %}{{ talks.abstract }}{% endraw %}</p>
     </div>
   </div>
 {% endfor %}
 </div>
-
-
-
 
 
 
