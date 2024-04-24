@@ -50,8 +50,6 @@ permalink: /talks/
     <div class="content">
       <p>{{ talks.abstract}} </p>
     </div>
-  </div>
-
   {% assign number_printed = number_printed | plus: 1 %}
 
   {% if even_odd == 1 %}
@@ -64,6 +62,9 @@ permalink: /talks/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -79,4 +80,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 } 
-    </script>
+</script>
