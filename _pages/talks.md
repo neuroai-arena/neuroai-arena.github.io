@@ -6,7 +6,7 @@ permalink: /talks/
 
 <style>
  /* Style the button that is used to open and close the collapsible content */
-.collapsible2 {
+.collapsible {
   background-color: #eee;
   color: #444;
   cursor: pointer;
@@ -19,12 +19,12 @@ permalink: /talks/
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active2, .collapsible2:hover {
+.active, .collapsible:hover {
   background-color: #ccc;
 }
 
 /* Style the collapsible content. Note: hidden by default */
-.content2 {
+.content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
@@ -38,12 +38,12 @@ permalink: /talks/
 {% for talks in site.data.talks %}
   <div class="col-sm-6">
     <h4><b>{{talks.title}}</b></h4>
-    <h4>{{talks.speaker}}  {{talks.date}}</h4>
+    <h4>{{talks.speaker}},  {{talks.date}}</h4>
     <h5> {{talks.location}} </h5>
-    <button type="button" class="collapsible2"> Open Collapsible </button>
-    <div class="content2">
+    <button type="button" class="collapsible"> Open Collapsible </button>
+    <p class="content">
       {{talks.abstract}}
-    </div>
+    </p>
   </div>
 {% endfor %}
 </div>
@@ -53,12 +53,12 @@ permalink: /talks/
 
 
 <script>
-var coll = document.getElementsByClassName("collapsible2");
+var coll = document.getElementsByClassName("collapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
-    this.classList.toggle("active2");
+    this.classList.toggle("active");
     var content = this.nextElementSibling;
     if (content.style.display === "block") {
       content.style.display = "none";
