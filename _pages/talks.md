@@ -5,29 +5,15 @@ permalink: /talks/
 ---
 
 <style>
- div.text-container {
-  margin: 0 auto;
-  width: 75%;
-}
-
 .hideContent {
-  overflow: hidden;
-  line-height: 1em;
-  height: 2em;
+    overflow: hidden;
+    line-height: 1em;
+    height: 2em;
 }
 
 .showContent {
-  line-height: 1em;
-  height: auto;
-}
-
-.showContent {
-  height: auto;
-}
-
-.show-more {
-  padding: 10px 0;
-  text-align: center;
+    line-height: 1em;
+    height: auto;
 }
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
