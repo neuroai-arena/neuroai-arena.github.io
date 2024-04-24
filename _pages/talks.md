@@ -34,33 +34,15 @@ permalink: /talks/
 
 # Talks and Events
 
-
-{% for talks in site.data.talks %}
-<h4><b>{{talks.title}}</b></h4>
-<h4>{{talks.speaker}},  {{talks.date}}</h4>
-<h5> {{talks.location}} </h5>
-<button type="button" class="collapsible"> Open Collapsible </button>
-<div class="content">
-  <p> {{talks.abstract}} </p>
+<div>
+  {% for talks in site.data.talks %}
+  <h4><b>{{talks.title}}</b></h4>
+  <h4>{{talks.speaker}},  {{talks.date}}</h4>
+  <h5> {{talks.location}} </h5>
+  <button type="button" class="collapsible"> Open Collapsible </button>
+  <div class="content">
+    <p> {{talks.abstract}} </p>
+  </div>
+  {% endfor %}
+  </div>
 </div>
-{% endfor %}
-
-
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-} 
-</script>
