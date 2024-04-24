@@ -6,13 +6,9 @@ sitemap: false
 permalink: /talks/
 ---
 <style>
-* {
-    box-sizing: border-box;
-  }
 
   .column {
     float: left;
-    width: 33.33%;
     padding: 50px;
     text-align: center;
     font-size: 25px;
@@ -58,6 +54,7 @@ permalink: /talks/
   <ul style="overflow: hidden">
 
   </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
