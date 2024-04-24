@@ -40,9 +40,9 @@ permalink: /talks/
 <h4>{{talks.speaker}},  {{talks.date}}</h4>
 <h5> {{talks.location}} </h5>
 <button type="button" class="collapsible"> Open Collapsible </button>
-<p class="content">
-  {{talks.abstract}}
-</p>
+<div class="content">
+  <p> {{talks.abstract}} </p>
+</div>
 {% endfor %}
 
 
