@@ -36,14 +36,15 @@ permalink: /talks/
 
 <div class="row">
 {% for talks in site.data.talks %}
-  <div class="col-sm-6">
-    <h4><b>{{talks.title}}</b></h4>
-    <h4>{{talks.speaker}},  {{talks.date}}</h4>
-    <h5> {{talks.location}} </h5>
-    <button type="button" class="collapsible"> Open Collapsible </button>
+<button type="button" class="collapsible"> Open Collapsible </button>
     <div class="content2">
       {{talks.abstract}}
     </div>
+  <div class="col-sm-6">
+    <h4><b>{{talks.title}}</b></h4>
+    <h4>{{talks.speaker}}  {{talks.date}}</h4>
+    <h5> {{talks.location}} </h5>
+    
   </div>
 {% endfor %}
 </div>
