@@ -32,6 +32,7 @@ permalink: /talks/
   background-color: #f1f1f1;
 } 
 </style>
+
 # Talks and Events
 
 {% assign number_printed = 0 %}
@@ -48,10 +49,12 @@ permalink: /talks/
     <h5>{{ talks.location }}</h5>
     <button type="button" class="collapsible">Open Collapsible</button>
     <div class="content">
-      <p>{{ talks.abstract}} </p>
+      <p> {{ talks.abstract}} </p>
     </div>
-  {% assign number_printed = number_printed | plus: 1 %}
 
+
+  {% assign number_printed = number_printed | plus: 1 %}
+  </div>
   {% if even_odd == 1 %}
   </div>
 {% endif %}
