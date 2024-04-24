@@ -1,14 +1,15 @@
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content_collapse = this.nextElementSibling;
-    if (content_collapse.style.display === "block") {
-        content_collapse.style.display = "none";
+$(".show-more a").on("click", function() {
+    var $this = $(this);
+    var $content = $this.parent().prev("div.content");
+    var linkText = $this.text().toUpperCase();
+  
+    if (linkText === "SHOW MORE") {
+      linkText = "Show less";
+      $content.switchClass("hideContent", "showContent", 400);
     } else {
-        content_collapse.style.display = "block";
-    }
+      linkText = "Show more";
+      $content.switchClass("showContent", "hideContent", 400);
+    };
+  
+    $this.text(linkText);
   });
-} 

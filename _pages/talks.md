@@ -5,33 +5,33 @@ permalink: /talks/
 ---
 
 <style>
- /* Style the button that is used to open and close the collapsible content */
-.collapsible {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
+ div.text-container {
+  margin: 0 auto;
+  width: 75%;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.content_collapse {
-  padding: 0 18px;
-  display: none;
+.hideContent {
   overflow: hidden;
-  background-color: #f1f1f1;
-} 
-</style>
+  line-height: 1em;
+  height: 2em;
+}
 
+.showContent {
+  line-height: 1em;
+  height: auto;
+}
+
+.showContent {
+  height: auto;
+}
+
+.show-more {
+  padding: 10px 0;
+  text-align: center;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 # Talks and Events
 
 <div>
@@ -39,9 +39,11 @@ permalink: /talks/
   <h4><b>{{talks.title}}</b></h4>
   <h4>{{talks.speaker}},  {{talks.date}}</h4>
   <h5> {{talks.location}} </h5>
-  <button type="button" class="collapsible"> Open Collapsible </button>
-  <div class="content_collapse">
+  <<div class="content hideContent">
     <p> {{talks.abstract}} </p>
+  </div>
+    <div class="show-more">
+    <a href="#">Show more</a>
   </div>
   {% endfor %}
   </div>
