@@ -15,11 +15,11 @@ permalink: /talks/
 <h4>{{talks.speaker}},  {{talks.date}}</h4>
 <h5> {{talks.location}} </h5>
 <p>
-<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample_@i" aria-expanded="false" aria-controls="collapseExample_@i">
+<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
   Description
 </button>
 </p>
-<div class="collapse" id="collapseExample_@i">
+<div class="collapse" id="collapseExample{{ i }}">
   <div class="card card-body">
     {{talks.abstract}}
   </div>
