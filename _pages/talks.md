@@ -44,7 +44,7 @@ permalink: /talks/
 </style>
 
 # Talks and Events
-
+<p>
 <div class="row">
   {% for talks in site.data.talks %}
   <div class="col-md-6">
@@ -58,3 +58,4 @@ permalink: /talks/
   </div>
   {% endfor %}
 </div>
+</p>
