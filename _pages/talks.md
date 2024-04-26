@@ -15,7 +15,7 @@ permalink: /talks/
 <div class="row">
   {% endif %}
 
-  <div class="col-md-6">
+  <div class="col-sm-6 clearfix">
     <p>
     <h4> <b>{{talks.title}}</b> </h4>
     <h4>{{talks.speaker}},  {{talks.date}}</h4>
