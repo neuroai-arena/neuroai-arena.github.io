@@ -20,7 +20,9 @@ permalink: /talks/
 </button>
 </p>
 <div class="collapse" id="collapseExample{{ i }}">
+<p>
     {{talks.abstract}}
+    </p>
 </div>
 {% assign i = i | plus: 1 %}
 {% endfor %}
