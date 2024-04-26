@@ -6,9 +6,10 @@ permalink: /talks/
 
 # Talks and Events
 
-{% i=0 %}
+
 
 {% for talks in site.data.talks %}
+{% increment i %}
 <b><h4> {{talks.title}} </h4></b>
 <h4>{{talks.speaker}},  {{talks.date}}</h4>
 <h5> {{talks.location}} </h5>
@@ -22,5 +23,4 @@ permalink: /talks/
     {{talks.abstract}}
   </div>
 </div>
-{% i=i+1 %}
 {% endfor %}
