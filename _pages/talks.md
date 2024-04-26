@@ -11,7 +11,7 @@ permalink: /talks/
 
 {% for talks in site.data.talks %}
 
-<b><h4> {{talks.title}} </h4></b>
+<h4 style='font-weight: bold;'> {{talks.title}} </h4>
 <h4>{{talks.speaker}},  {{talks.date}}</h4>
 <h5> {{talks.location}} </h5>
 <p>
