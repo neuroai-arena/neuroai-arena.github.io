@@ -16,11 +16,9 @@ permalink: /talks/
   {% endif %}
 
   <div class="col-sm-6 clearfix">
-    <p>
-    <h4> <b>{{talks.title}}</b> </h4>
+    <b><h4> {{talks.title}} </h4></b>
     <h4>{{talks.speaker}},  {{talks.date}}</h4>
     <h5> {{talks.location}} </h5>
-    </p>
     <p>
     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
       Description
