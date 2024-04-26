@@ -1,10 +1,9 @@
 ---
 title: "ARENA - Talks and Events"
-layout: gridlay
 permalink: /talks/
 ---
-
 <style>
+
 .show-hide-text {
   display: flex;
   flex-wrap: wrap;
@@ -64,4 +63,3 @@ permalink: /talks/
     {% endfor %}
   </div>
 </div>
-
