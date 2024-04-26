@@ -7,9 +7,10 @@ permalink: /talks/
 # Talks and Events
 
 
+{% assign i = 1 %}
 
 {% for talks in site.data.talks %}
-{% increment i %}
+
 <b><h4> {{talks.title}} </h4></b>
 <h4>{{talks.speaker}},  {{talks.date}}</h4>
 <h5> {{talks.location}} </h5>
@@ -23,4 +24,5 @@ permalink: /talks/
     {{talks.abstract}}
   </div>
 </div>
+{% assign assign = assign | plus: 1 %}
 {% endfor %}
