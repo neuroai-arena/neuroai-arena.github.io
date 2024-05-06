@@ -9,7 +9,7 @@ permalink: /opportunities/
 
 {% assign i = 1 %}
 <div class="row">
-{% for tabs in site.equal_opp.tab %}
+{% for tabs in site.data.equal_opp %}
 <div class="col-sm-6 clearfix">
 <h4 style='font-weight: bold;'> {{tabs.tab}} </h4>
 <h4>{{tabs.text}}</h4>
