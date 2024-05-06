@@ -1,3 +1,24 @@
+- title: "Self-Supervised Learning of Color Constancy"
+  authors: Markus R. Ernst, Francisco M. López, Arthur Aubret, Roland W. Fleming, Jochen Triesch
+  link:
+    url: https://arxiv.org/pdf/2404.08127
+    display: IEEE International Conference on Development and Learning (ICDL 2024)
+  highlight: 0
+
+- title: "Learning Object Semantic Similarity with Self-Supervision"
+  authors: Arthur Aubret, Timothy Schaumlöffel, Gemma Roig, Jochen Triesch
+  link:
+    url: $PLACEHOLDER$
+    display: IEEE International Conference on Development and Learning (ICDL 2024)
+  highlight: 0
+
+- title: "Visual features are processed before navigational affordances in the human brain"
+  authors: K. Dwivedi, S. Sadiya, M.P. Balode, et al.
+  link:
+    url: https://www.nature.com/articles/s41598-024-55652-y#citeas
+    display: Sci Rep 14, 5573 (2024)
+  highlight: 0
+
 - title: "Traces of meaning itself: Encoding distributional word vectors in brain activity"
   image: tracesofmeaning.png
   description: We show evidence that distributional word vector models can describe brain activity, measured by EEG, elicited words without context. These results suggest that empiricist, prediction-based vectorial representations of meaning are a viable candidate for the representational architecture of human semantic knowledge.
