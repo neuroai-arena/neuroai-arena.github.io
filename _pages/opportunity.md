@@ -1,7 +1,7 @@
 ---
-title: "ARENA - Equal Opportunity"
+title: "ARENA - Equal Opportunities"
 layout: homelay
-permalink: /talks/
+permalink: /opportunities
 ---
 
 # Equal Opportunity
