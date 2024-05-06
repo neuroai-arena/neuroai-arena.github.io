@@ -1,10 +1,10 @@
 ---
 title: "ARENA - Equal Opportunities"
 layout: homelay
-permalink: /opportunities
+permalink: /opportunities/
 ---
 
-# Equal Opportunity
+# Equal Opportunities
 
 
 {% assign i = 1 %}
