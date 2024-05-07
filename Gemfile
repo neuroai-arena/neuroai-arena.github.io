@@ -1,25 +1,30 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "jekyll", ">= 3.6.3"
-gem "github-pages"
-gem "error_highlight", "= 0.3.0"
-gem "did_you_mean", "= 1.6.1"
-gem "pathname", "= 0.2.0"
-gem "etc", "= 1.3.0"
-gem "fileutils", "= 1.6.0"
-gem "timeout", "= 0.2.0"
-gem "io-wait", "= 0.2.1"
-gem "net-protocol", "= 0.1.2"
-gem "uri", "= 0.11.0"
-gem "net-http", "= 0.2.0"
-gem "zlib", "= 2.1.1"
-gem "openssl", "= 3.0.0"
-gem "digest", "= 3.1.0"
-gem "io-nonblock", "= 0.1.0"
-gem "ipaddr", "= 1.2.4"
-gem "strscan", "= 3.0.1"
-gem "set", "= 1.0.2"
-gem "forwardable", "= 1.3.2"
-gem "tsort", "= 0.1.0"
-gem "wdm", ">= 0.1.0"
-gem "webrick"
+#gem "github-pages", group: :jekyll_plugins
+
+gem "tzinfo-data"
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+#gem "jekyll-include-cache", group: :jekyll_plugins
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "jekyll"
+  gem "jekyll-paginate"
+  gem 'webrick'
+  gem 'bootstrap'
+  gem "minimal-mistakes-jekyll"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+  gem "jekyll-scholar"
+  gem "kramdown-parser-gfm"
+  gem "jekyll-github-metadata"
+end
+
+group :assets do
+  gem 'sass-rails'
+  gem 'coffee-rails'
+  gem 'uglifier'
+  gem 'bootstrap-sass'
+end

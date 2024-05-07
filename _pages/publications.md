@@ -1,6 +1,5 @@
 ---
-title: "ARENA - Publications"
-layout: gridlay
+author_profile: false
 excerpt: "ARENA -- Publications."
 sitemap: false
 permalink: /publications/

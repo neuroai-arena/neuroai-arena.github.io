@@ -1,6 +1,6 @@
 ---
-title: "ARENA News"
-layout: textlay
+author_profile: false
+classes: wide
 excerpt: "Recent news from ARENA"
 sitemap: false
 permalink: /allnews.html

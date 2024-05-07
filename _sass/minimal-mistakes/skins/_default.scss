@@ -1,0 +1,23 @@
+/* ==========================================================================
+   Default skin
+   ========================================================================== */
+
+// Intentionally left blank
+$primary-color: #00618F !default;
+$footer-background-color: $primary-color !default;
+$body-color: #4D4B46 !default;
+$text-color: #4D4B46 !default;
+$masthead-link-color: #00618F !default;
+$muted-text-color:#454545; 
+$link-color:  #2e006f !default;
+// $background-color:  #878787;
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $primary-color;
+}

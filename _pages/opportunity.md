@@ -1,19 +1,8 @@
 ---
-title: "ARENA - Equal Opportunities"
-layout: homelay
+title: Equal Opportunities
+layout: collection
 permalink: /opportunities/
+collection: posts
+entries_layout: grid
+author_profile: false
 ---
-
-# Equal Opportunities
-
-
-{% assign i = 1 %}
-<div class="row">
-{% for tabs in site.data.equal_opp %}
-<div class="col-sm-6 clearfix">
-<h4 style='font-weight: bold;'> {{tabs.tab}} </h4>
-<h4>{{tabs.text}}</h4>
-{% assign i = i | plus: 1 %}
-</div>
-{% endfor %}
-</div>

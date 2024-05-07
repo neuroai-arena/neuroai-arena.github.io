@@ -1,21 +1,21 @@
 ---
-title: "ARENA - Talks and Events"
-layout: homelay
+author_profile: false
+classes: wide
 permalink: /talks/
 ---
-
-# Talks and Events
-
+<h2> <b> Talks and Events </b></h2>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 {% assign i = 1 %}
 <div class="row">
 {% for talks in site.data.talks %}
 <div class="col-sm-6 clearfix">
-<h4 style='font-weight: bold;'> {{talks.title}} </h4>
-<h4>{{talks.speaker}},  {{talks.date}}</h4>
-<h5> {{talks.location}} </h5>
+<h6 style='text-align: center;font-weight:bold'> {{talks.title}} </h6>
+ <b>Who and When?</b> {{talks.speaker}},  {{talks.date}} <br>
+<b>Where?</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
 <p>
-<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
+<button class="btn btn-primary" style='text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
   Description
 </button>
 </p>
@@ -27,4 +27,4 @@ permalink: /talks/
 {% assign i = i | plus: 1 %}
 </div>
 {% endfor %}
-</div>
+</div>*

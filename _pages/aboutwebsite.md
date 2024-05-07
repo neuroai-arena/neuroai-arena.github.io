@@ -1,6 +1,7 @@
 ---
 title: "About the website"
-layout: textlay
+classes: wide
+author_profile: false
 excerpt: "About the website."
 sitemap: false
 permalink: /aboutwebsite.html

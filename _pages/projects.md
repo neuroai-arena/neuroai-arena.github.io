@@ -1,8 +1,8 @@
 ---
-title: "ARENA - Projects"
-layout: gridlay
+classes: wide
 excerpt: "ARENA -- Projects."
 sitemap: false
+author_profile: false
 permalink: /projects/
 ---
 
@@ -22,7 +22,7 @@ permalink: /projects/
  <div class="well">
   <pubtit>{{ proj.title }}</pubtit>
   {% if proj.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left">
   {% endif %}
   <p ><em>{{ proj.pi }}</em><br>
   <em>{{ proj.students }}</em></p>
