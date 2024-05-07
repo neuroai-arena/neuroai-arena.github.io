@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-scholar"
+  gem 'faraday-retry', '~> 2.2'
   gem "kramdown-parser-gfm"
   gem "jekyll-github-metadata"
 end
