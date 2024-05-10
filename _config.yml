@@ -126,4 +126,3 @@ scholar:
 sass:
     load_paths: 
         - _sass
-        
