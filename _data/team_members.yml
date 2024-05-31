@@ -1,6 +1,6 @@
 - name: Christian Fiebach
   photo: fiebach.jpg
-  url: http://www.fiebachlab.org/people
+  url: http://www.fiebachlab.org/team
   affiliation: Goethe University Frankfurt
   title: Speaker
   number_educ: 0
@@ -90,7 +90,7 @@
 - name: Maral Dadvar
   photo: dadvar.jpg
   affiliation:  Goethe University Frankfurt
-  url: http://www.fiebachlab.org/people
+  url: http://www.fiebachlab.org/team
   title: Scientific Coordinator 
   number_educ: 0
   education1:
