@@ -1,9 +1,7 @@
 ---
 author_profile: false
-classes: wide
+layout: splash
 excerpt: "ARENA: Abstract Representations in Neural Architectures"
-sitemap: false
-permalink: /
 ---
 
 <style>
