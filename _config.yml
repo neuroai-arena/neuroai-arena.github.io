@@ -51,6 +51,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll/scholar
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
   
 author:
   name   : "Fiebach Lab"

@@ -11,9 +11,3 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "jekyll-github-metadata"
 end
-
-group :assets do
-  gem 'sass-rails'
-  gem 'coffee-rails'
-  gem 'uglifier'
-end
