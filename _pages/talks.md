@@ -11,9 +11,9 @@ permalink: /talks/
 <div class="row">
   {% for talks in site.data.talks %}
     <h5 style='font-weight:bold'> {{talks.title}} </h5>
-    <p> <b>Speaker:</b> {{talks.speaker}}</p >
-    <p><b>Date: </b> <span> {{talks.date}}</span><br></p >
-    <p><b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span></p >
+     <b>Speaker:</b> {{talks.speaker}}
+    <b>Date: </b> <span> {{talks.date}}</span>
+    <b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
     {{if talks.abstract  != blank}}
       <p>
         <button class="btn btn-primary" style='display: inline-block; text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
