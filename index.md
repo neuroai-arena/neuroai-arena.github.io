@@ -28,13 +28,13 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
     <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider01.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider01.jpg" class="d-block w-100" style="max-width: 400px" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider02.png" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider02.png" class="d-block w-100" style="max-width: 400px" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider03.png" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider03.png" class="d-block w-100" style="max-width: 400px" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -49,7 +49,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 
   </div>
   <div id="twitter" class="col-sm-4" >
-    <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
     <p><span class="small">To see the integrated timeline, make sure you're logged into Twitter/X.</span></p>
   </div>
 </div>
@@ -59,6 +59,7 @@ The ARENA project is jointly carried out by researchers from [Goethe University 
 
 <b>ARENA repository:</b> <br>
 [ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
+<br>
 
 
 
