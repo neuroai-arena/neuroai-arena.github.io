@@ -10,7 +10,7 @@ permalink: /talks/
 {% assign i = 1 %}
 <div class="row">
 {% for talks in site.data.talks %}
-<h5 style='font-weight:bold'> {{talks.title}} </h6>
+<h5 style='font-weight:bold'> {{talks.title}} </h5>
 <b>Speaker:</b> {{talks.speaker}}<br>
 <b>Date: </b> <span> {{talks.date}}</span><br>
 <b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
