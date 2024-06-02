@@ -9,25 +9,26 @@ permalink: /talks/
 
 {% assign i = 1 %}
 <div class="row">
-{% for talks in site.data.talks %}
-<h5 style='font-weight:bold'> {{talks.title}} </h5>
-<b>Speaker:</b> {{talks.speaker}}<br>
-<b>Date: </b> <span> {{talks.date}}</span><br>
-<b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
-<p>
-<button class="btn btn-primary" style='text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
-  Description
-</button>
-</p>
-<div class="collapse" id="collapseExample{{ i }}">
-<p>
-    {{talks.abstract}}
+  {% for talks in site.data.talks %}
+    <h5 style='font-weight:bold'> {{talks.title}} </h5>
+    <b>Speaker:</b> {{talks.speaker}}<br>
+    <b>Date: </b> <span> {{talks.date}}</span><br>
+    <b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+    <p>
+      <button class="btn btn-primary" style='text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
+        Description
+      </button>
     </p>
-</div>
-{{if talks.recording != ""}}
-    <a href="{{talks.recording}}" class="btn btn-primary">Recording</a>
-{{endif}}
-{% assign i = i | plus: 1 %}
-</div>
-{% endfor %}
+    <div class="collapse" id="collapseExample{{ i }}">
+      <p>
+          {{talks.abstract}}
+          </p>
+    </div>
+    <div>    
+      {{if talks.recording != ""}}
+        <button type="button" class="btn btn-primary"> <a href="{{talks.recording}}"> Recording</a></button>
+      {{endif}}
+    </div>
+  {% assign i = i | plus: 1 %}
+  {% endfor %}
 </div>*
