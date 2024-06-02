@@ -7,12 +7,10 @@ permalink: /talks/
 <style>
   .buttons {
   width: 960px;
-  margin: 0 auto;
 }
 
 .btn {
   display: inline-block;
-  margin: 0 auto;
 }
 </style> 
 
@@ -31,12 +29,12 @@ permalink: /talks/
     </p>
     <div class="buttons">
         {% if talks.abstract  != blank %}
-        <button class="btn btn-primary" style=' text-align: center,color: green' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
+        <button class="btn btn-primary" style=' text-align: center'  data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
           Description
         </button>
         {% endif %}
         {% if talks.recording  != blank %}
-        <a type="button2" class="btn btn-primary" href="{{talks.recording}}" style="color: white;"> Recording</a>
+        <a class="btn button2" href="{{talks.recording}}" style="color: white;"> Recording</a>
         {% endif %}
       <div class="collapse" id="collapseExample{{ i }}">
         <p>
