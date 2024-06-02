@@ -7,7 +7,7 @@ permalink: /talks/
 <style>
 #boxcolor {
   background-color: #F5F5F5;
-  border-radius:20px;
+  border-radius:35px;
   padding: 10px;
 } 
 
