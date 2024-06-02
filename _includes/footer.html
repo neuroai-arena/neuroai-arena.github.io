@@ -1,35 +1,56 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-md-4" style="color:white; font-size:smaller">
-			Funding:<br />
-	      	<a href="https://www.dfg.de/en/">German Research Foundation (DFG)</a><br />
-			DFG Research Unit For 5368
-		  <p>&copy 2023 ARENA</p>
+<div class="container">
+	<div class="row">
+	  <div class="col-md-6">
+		<div class="page__footer-follow">
+		  <ul class="social-icons">
+			{% if site.data.ui-text[site.locale].follow_label %}
+			  <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+			{% endif %}
+  
+			{% if site.footer.links %}
+			  {% for link in site.footer.links %}
+				{% if link.label and link.url %}
+				  <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+				{% endif %}
+			  {% endfor %}
+			{% endif %}
+			{% unless site.atom_feed.hide %}
+			  <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+			{% endunless %}
+		  </ul>
 		</div>
-		<div class="col-md-4" style="color:white ; font-size:smaller" >
-		  Contact:<br />
-		  <a href="https://goo.gl/maps/52chUmW1rLgne7vAA">Department of Psychology<br />
-		  Theodor-W.-Adorno-Platz 6<br />
-		  D-60323 Frankfurt am Main<br />
-		  Germany  </a>
+		<div class= "page__footer-copyright" > 
+			<div class="smaller"><strong>Funding:</strong><br></div>
+			<div class="page__footer-copyright">
+				<a href="https://www.dfg.de/en/">German Research Foundation (DFG)</a>
+				<a href=impressum>Impressum</a> <br>
+				<a href=datenschutzhinweise>Datenschutzhinweise</a></div>
+			</div>
+			<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+			</div>
+	  	</div>
+	<div class="col-md-3">
+		<div class="smaller">
+			<strong>Postal and Visitor Address </strong> <br>
 		</div>
-		<div class="col-md-4 ; font-size:smaller">
-			<div class="row"id="cover">			
-				<div class="col-sm-6">
-					<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross-removebg-preview(1).png">		
-					<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dfg_logo_schriftzug_blau_foerderung_en-removebg-preview.png" >
-				</div>	
-				<div class="col-sm-6">
-					<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FIAS-removebg-preview.png" >
-					<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MPISS-removebg-preview.png" >
-				</div>	
+		<div class="page__footer-copyright">
+			Department of Psychology<br>
+			Theodor-W.-Adorno-Platz 6<br>
+			D-60323 Frankfurt am Main
 		</div>
-		</div>
-	  </div>
 	</div>
-  </div>
+	<div class="col-md-3">
+		<div class="row"id="cover">			
+			<div class="col-sm-6">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross-removebg-preview(1).png">		
+				<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dfg_logo_schriftzug_blau_foerderung_en-removebg-preview.png" >
+			</div>	
+			<div class="col-sm-6">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FIAS-removebg-preview.png" >
+				<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MPISS-removebg-preview.png" >
+			</div>	
+	  	</div>  
+	</div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
