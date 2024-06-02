@@ -12,7 +12,6 @@ permalink: /talks/
 
 .btn {
   display: inline-block;
-  width: calc(50% - 4px);
   margin: 0 auto;
 }
 </style> 
@@ -31,14 +30,14 @@ permalink: /talks/
       <b>Place:</b> {{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}<br>
     </p>
     <div class="buttons">
-        {{if talks.abstract  != blank}}
+        {if talks.abstract  != blank}
         <button class="btn btn-primary" style=' text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
           Description
         </button>
-        {{endif}} 
-        {{if talks.recording  != blank}}
+        {endif}
+        {if talks.recording  != blank}
         <button type="button" class="btn btn-primary"> <a href="{{talks.recording}}" style="color: white;"> Recording</a></button>
-        {{endif}}
+        {endif}
       <div class="collapse" id="collapseExample{{ i }}">
         <p>
           {{talks.abstract}}
