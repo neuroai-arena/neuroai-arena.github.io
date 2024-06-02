@@ -10,9 +10,10 @@ permalink: /talks/
 {% assign i = 1 %}
 <div class="row">
 {% for talks in site.data.talks %}
-<h6 style='text-align: center;font-weight:bold'> {{talks.title}} </h6>
- <b>Who and When?</b> {{talks.speaker}},  {{talks.date}} <br>
-<b>Where?</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+<h5 style='font-weight:bold'> {{talks.title}} </h6>
+<b>Speaker:</b> {{talks.speaker}}<br>
+<b>Date: </b> <span> {{talks.date}}</span><br>
+<b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
 <p>
 <button class="btn btn-primary" style='text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
   Description
@@ -22,10 +23,10 @@ permalink: /talks/
 <p>
     {{talks.abstract}}
     </p>
+</div>
 {{if talks.recording}}
     <a href="{{talks.recording}}" class="btn btn-primary">Recording</a>
 {{endif}}
-</div>
 {% assign i = i | plus: 1 %}
 </div>
 {% endfor %}
