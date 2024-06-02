@@ -9,9 +9,7 @@ permalink: /talks/
   width: 960px;
 }
 
-.btn {
-  display: inline-block;
-}
+
 </style> 
 
 <h4> <b> Talks and Events </b></h4>
@@ -34,7 +32,7 @@ permalink: /talks/
         </button>
         {% endif %}
         {% if talks.recording  != blank %}
-        <a class="btn button2" href="{{talks.recording}}" style="color: white;"> Recording</a>
+        <a class="btn btn-link" href="{{talks.recording}}" style="color: white;text-decoration: none"> Recording</a>
         {% endif %}
       <div class="collapse" id="collapseExample{{ i }}">
         <p>
