@@ -24,7 +24,7 @@ permalink: /talks/
     {{talks.abstract}}
     </p>
 </div>
-{{if talks.recording}}
+{{if talks.recording != ""}}
     <a href="{{talks.recording}}" class="btn btn-primary">Recording</a>
 {{endif}}
 {% assign i = i | plus: 1 %}
