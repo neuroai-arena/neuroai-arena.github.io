@@ -16,7 +16,7 @@ url: "https://neuroai-arena.github.io"
 twitter_username: username
 github_username: username
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: default
+minimal_mistakes_skin: theme
 search: true
 # Build settings
 markdown: kramdown

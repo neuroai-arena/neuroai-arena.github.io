@@ -1,0 +1,24 @@
+/* ==========================================================================
+  theme skin
+  ========================================================================== */
+
+// Updated colors
+$background-color: #fff;
+$text-color: #2F3E46;
+$muted-text-color: #52796F;
+$primary-color: #84A98C;
+$border-color: mix(#fff, #393e46, 75%);
+$footer-background-color: $primary-color;
+$link-color: #393e46;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $text-color;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%);
+
+.page__footer {
+  color: #CAD2C5 !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
