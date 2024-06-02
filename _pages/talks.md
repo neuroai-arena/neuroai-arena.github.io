@@ -23,7 +23,7 @@ permalink: /talks/
     <p>
       <b>Speaker: </b> {{talks.speaker}} <br>
       <b>Date: </b>  {{talks.date}}<br>
-      <b>Place:</b> {{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}<br>
+      <b>Place:</b> {{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}
     </p>
     <div class="buttons">
         {% if talks.abstract  != blank %}
@@ -32,7 +32,7 @@ permalink: /talks/
         </button>
         {% endif %}
         {% if talks.recording  != blank %}
-        <a class="btn btn-link" href="{{talks.recording}}" style="color: white;text-decoration: none"> Recording</a>
+        <a class="btn btn-secondary" href="{{talks.recording}}" style="color: white;text-decoration: none"> Recording</a>
         {% endif %}
       <div class="collapse" id="collapseExample{{ i }}">
         <p>
