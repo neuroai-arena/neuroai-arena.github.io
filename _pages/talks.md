@@ -25,7 +25,7 @@ permalink: /talks/
           </p>
     </div>
     <div>    
-      {{if talks.recording != ""}}
+      {{if talks.recording  != blank}}
         <button type="button" class="btn btn-primary"> <a href="{{talks.recording}}"> Recording</a></button>
       {{endif}}
     </div>
