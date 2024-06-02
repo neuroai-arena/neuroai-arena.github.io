@@ -13,9 +13,8 @@ permalink: /talks/
 
 </style> 
 
-<h4> <b> Talks and Events </b></h4>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<h3 style="text-align:center;font-weight:bold"> Talks and Events </h3>
+
 
 {% assign i = 1 %}
 {% for talks in site.data.talks %}

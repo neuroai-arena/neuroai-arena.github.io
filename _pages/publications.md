@@ -5,8 +5,8 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Projects Publications
 
+<h3 style="text-align:center;font-weight:bold">Projects Publications </h3>
 
 {% for publi in site.data.project_publist %}
 
