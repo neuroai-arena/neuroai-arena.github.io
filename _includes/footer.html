@@ -1,6 +1,7 @@
 <div class="container">
 	<div class="row">
-	  	<div class="col-md-4">
+		<div class="col-md-1">	</div>
+	  	<div class="col-md-3">
 			<div class="smaller">
 				<strong>Funding:</strong>
 			</div>
@@ -10,23 +11,7 @@
 				<a href=datenschutzhinweise>Datenschutzhinweise</a>
 				&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
 			</div>
-			<div class="page__footer-follow">
-				<ul class="social-icons">
-					{% if site.data.ui-text[site.locale].follow_label %}
-					<li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-					{% endif %}
-					{% if site.footer.links %}
-					{% for link in site.footer.links %}
-						{% if link.label and link.url %}
-						<li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-						{% endif %}
-					{% endfor %}
-					{% endif %}
-					{% unless site.atom_feed.hide %}
-					<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-					{% endunless %}
-				</ul>
-			</div>
+			
 		</div>	
 		<div class="col-md-4">
 			<div class="smaller">
@@ -38,7 +23,7 @@
 				D-60323 Frankfurt am Main
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-3">
 			<div class="row"id="cover">			
 				<div class="col-sm-6">
 					<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GU-Logo-blau-gross-removebg-preview(1).png">		
@@ -51,6 +36,23 @@
 			</div>  
 		</div>
 	</div>
+</div>
+<div class="page__footer-follow" style="text-align: center;">
+	<ul class="social-icons">
+		{% if site.data.ui-text[site.locale].follow_label %}
+		<li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+		{% endif %}
+		{% if site.footer.links %}
+		{% for link in site.footer.links %}
+			{% if link.label and link.url %}
+			<li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+			{% endif %}
+		{% endfor %}
+		{% endif %}
+		{% unless site.atom_feed.hide %}
+		<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+		{% endunless %}
+	</ul>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
