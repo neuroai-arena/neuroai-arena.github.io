@@ -9,7 +9,7 @@
 title: ARENA
 repository: neuroai-arena.github.io/neuroai-arena.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "https://neuroai-arena.github.io"
+url: "https://neuroai-arena.github.io"
 
 
 
