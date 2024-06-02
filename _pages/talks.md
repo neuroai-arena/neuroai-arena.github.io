@@ -36,7 +36,7 @@ permalink: /talks/
         </button>
         {% endif %}
         {% if talks.recording  != blank %}
-        <button type="button" class="btn btn-primary"> <a href="{{talks.recording}}" style="color: white;"> Recording</a></button>
+        <a type="button2" class="btn btn-primary" href="{{talks.recording}}" style="color: white;"> Recording</a>
         {% endif %}
       <div class="collapse" id="collapseExample{{ i }}">
         <p>
@@ -45,5 +45,7 @@ permalink: /talks/
       </div>
     </div>
   {% assign i = i | plus: 1 %}
+  <br>
+
   {% endfor %}
 </div>
