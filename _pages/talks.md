@@ -14,21 +14,21 @@ permalink: /talks/
     <p> <b>Speaker:</b> {{talks.speaker}}</p >
     <p><b>Date: </b> <span> {{talks.date}}</span><br></p >
     <p><b>Place:</b> <span>{{talks.location | markdownify | remove: '<p>' | remove: '</p>'}}</span></p >
-    <p>
-      <button class="btn btn-primary" style='display: inline-block; text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
-        Description
-      </button>
-    </p>
-    <div class="collapse" id="collapseExample{{ i }}">
+    {{if talks.abstract  != blank}}
       <p>
-          {{talks.abstract}}
-          </p>
-    </div>
-    <div>    
-      {{if talks.recording  != blank}}
-        <button type="button" class="btn btn-primary" style="display: inline-block;" > <a href="{{talks.recording}}" style="color: white;"> Recording</a></button>
-      {{endif}}
-    </div>
+        <button class="btn btn-primary" style='display: inline-block; text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
+          Description
+        </button>
+      </p>
+      <div class="collapse" id="collapseExample{{ i }}">
+        <p>
+            {{talks.abstract}}
+            </p>
+      </div>
+    {{endif}} 
+    {{if talks.recording  != blank}}
+      <button type="button" class="btn btn-primary" style="display: inline-block;" > <a href="{{talks.recording}}" style="color: white;"> Recording</a></button>
+    {{endif}}
   {% assign i = i | plus: 1 %}
   {% endfor %}
 </div>*
