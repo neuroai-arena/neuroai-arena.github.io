@@ -79,7 +79,7 @@ permalink: /publications/
 
 
 
-# Background Publications
+<h3 style="text-align:center;font-weight:bold">Background Publications</h3>
 
 <!-- only show highlighted publications title if any publications are selected to be highlighted -->
 
