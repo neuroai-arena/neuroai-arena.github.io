@@ -28,13 +28,13 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
     <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider01.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider01.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider02.png" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider02.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider03.png" class="d-block w-100" alt="...">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider7001400/slider03.png" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
