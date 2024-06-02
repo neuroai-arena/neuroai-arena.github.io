@@ -40,6 +40,6 @@ permalink: /talks/
       </div>
     </div>
     {% assign i = i | plus: 1 %}
-    <br>
   </div>
+  <br>
 {% endfor %}
