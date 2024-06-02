@@ -31,7 +31,7 @@ permalink: /talks/
     </p>
     <div class="buttons">
         {% if talks.abstract  != blank %}
-        <button class="btn btn-primary" style=' text-align: center' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
+        <button class="btn btn-primary" style=' text-align: center,color: green' type="button" data-toggle="collapse" data-target="#collapseExample{{ i }}" aria-expanded="false" aria-controls="collapseExample{{ i }}">
           Description
         </button>
         {% endif %}
