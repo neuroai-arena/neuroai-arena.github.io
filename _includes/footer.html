@@ -1,6 +1,15 @@
 <div class="container">
 	<div class="row">
 	  	<div class="col-md-4">
+			<div class="smaller">
+				<strong>Funding:</strong>
+			</div>
+			<div class="page__footer-copyright">
+				<a href="https://www.dfg.de/en/">German Research Foundation (DFG)</a> <br>
+				<a href=impressum>Impressum</a> <br>
+				<a href=datenschutzhinweise>Datenschutzhinweise</a>
+				&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+			</div>
 			<div class="page__footer-follow">
 				<ul class="social-icons">
 					{% if site.data.ui-text[site.locale].follow_label %}
@@ -17,15 +26,6 @@
 					<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
 					{% endunless %}
 				</ul>
-			</div>
-			<div class="smaller">
-				<strong>Funding:</strong>
-			</div> <br>
-			<div class="page__footer-copyright">
-				<a href="https://www.dfg.de/en/">German Research Foundation (DFG)</a>
-				<a href=impressum>Impressum</a> <br>
-				<a href=datenschutzhinweise>Datenschutzhinweise</a>
-				&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
 			</div>
 		</div>	
 		<div class="col-md-4">
