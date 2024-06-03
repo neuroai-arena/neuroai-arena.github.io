@@ -1,3 +1,21 @@
+- title: "Self-Supervised Learning of Color Constancy"
+  authors: Markus R. Ernst, Francisco M. López, Arthur Aubret, Roland W. Fleming, Jochen Triesch
+  link: 
+    url: https://arxiv.org/pdf/2404.08127
+    display: In the Proceedings of IEEE International Conference on Development and Learning (ICDL 2024)
+
+- title: "Learning Object Semantic Similarity with Self-Supervision"
+  authors: Arthur Aubret, Timothy Schaumlöffel, Gemma Roig, Jochen Triesch
+  link: 
+    url: 
+    display: In the Proceedings of IEEE International Conference on Development and Learning (ICDL 2024)
+
+- title: "Dwivedi, K., Sadiya, S., Balode, M.P. et al. Visual features are processed before navigational affordances in the human brain. Sci Rep 14, 5573 (2024)."
+  authors: 
+  link: 
+    url: https://www.nature.com/articles/s41598-024-55652-y#citeas
+    display: 
+
 - title: "Peacs: Prefix encoding for auditory caption synthesis"
   authors: T Schaumlöffel, MG Vilas, G Roig
   link: 
