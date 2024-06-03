@@ -6,8 +6,8 @@ permalink: /talks/
 
 <style>
 #boxcolor {
-  background-color: #A1CCD1;
-  border-radius:20px;
+  background-color: #CAD2C5;
+  border-radius:10px;
   padding: 20px;
 } 
 </style> 
