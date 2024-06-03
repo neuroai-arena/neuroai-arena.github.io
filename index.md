@@ -16,7 +16,6 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 <div class="row justify-content-center">
-
   <div class="col-sm-7" >
     <br>
     <div class="image">
@@ -49,12 +48,12 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
       </button>
     </div>
     <br><br>
-    <p>
+    <div>
       The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
       <b>ARENA repository:</b> <br>
       [ARENA Zenodo Community](https://zenodo.org/csommunities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
       <br>
-    </p>
+    </div>
   </div>
   <div id="twitter" class="col-sm-3" >
     <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
