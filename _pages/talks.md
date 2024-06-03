@@ -20,7 +20,7 @@ permalink: /talks/
 {% for talks in site.data.talks %}
 <div style="margin-bottom: 20px;">
   <div id="boxcolor">
-    <h5 style='font-weight:bold; color: #84A98C'> {{talks.title}} </h5>
+    <h5 style='font-weight:bold; color: #2F3E46'> {{talks.title}} </h5>
     <p>
       <b>Speaker: </b> {{talks.speaker}} <br>
       <b>Date: </b>  {{talks.date}}<br>
