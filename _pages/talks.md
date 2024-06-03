@@ -6,11 +6,10 @@ permalink: /talks/
 
 <style>
 #boxcolor {
-  background-color: #F5F5F5;
+  background-color: #EEF7FF;
   border-radius:20px;
-  padding: 30px;
+  padding: 20px;
 } 
-
 </style> 
 
 <h3 style="text-align:center;font-weight:bold"> Talks and Events </h3>
@@ -19,6 +18,7 @@ permalink: /talks/
 
 {% assign i = 1 %}
 {% for talks in site.data.talks %}
+<div style="margin-bottom: 20px;">
   <div id="boxcolor">
     <h5 style='font-weight:bold'> {{talks.title}} </h5>
     <p>
@@ -41,5 +41,5 @@ permalink: /talks/
     </div>
     {% assign i = i | plus: 1 %}
   </div>
-  <br>
+</div>
 {% endfor %}
