@@ -17,7 +17,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 
 <div class="row justify-content-center">
 
-  <div class="col-sm-6" >
+  <div class="col-sm-7" >
     <br>
     <div class="image">
       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 400px;align: left">
