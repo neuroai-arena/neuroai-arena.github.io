@@ -17,8 +17,8 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 <div class="image">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 400px;align: left">
 </div>
-<div class="row">
-  <div class="col-sm-8" >
+<div class="row justify-content-center">
+  <div class="col-sm-6" >
     <br>
     <p><b>ARENA</b> is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
     - How abstract representations are learned.
@@ -48,7 +48,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 </div>
 
   </div>
-  <div id="twitter" class="col-sm-4" >
+  <div id="twitter" class="col-sm-3" >
     <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
     <p><span class="small">To see the integrated timeline, make sure you're logged into Twitter/X.</span></p>
   </div>
