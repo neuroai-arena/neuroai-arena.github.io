@@ -3,22 +3,10 @@ author_profile: false
 classes: wide
 permalink: /talks/
 ---
-$text-color: #2F3E46;
-$muted-text-color: #52796F;
-$primary-color: #84A98C;
-$border-color: mix(#fff, #393e46, 75%);
-$footer-background-color: $primary-color;
-$link-color: #393e46;
-$masthead-link-color: $text-color;
-$masthead-link-color-hover: $text-color;
-$masthead-background-color: #CAD2C5;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%);
 
-.page__footer {
-  color: #CAD2C5 !important; // override
 <style>
 #boxcolor {
-  background-color: #84A98C;
+  background-color: #CAD2C5;
   border-radius:10px;
   padding: 20px;
 } 
@@ -32,7 +20,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%);
 {% for talks in site.data.talks %}
 <div style="margin-bottom: 20px;">
   <div id="boxcolor">
-    <h5 style='font-weight:bold;color:#CAD2C5"'> {{talks.title}} </h5>
+    <h5 style='font-weight:bold; color: #84A98C'> {{talks.title}} </h5>
     <p>
       <b>Speaker: </b> {{talks.speaker}} <br>
       <b>Date: </b>  {{talks.date}}<br>
