@@ -20,7 +20,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
   <div class="col-sm-7" >
     <br>
     <div class="image">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 400px;align: left">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 300px;align: left">
     </div>
     <p><b>ARENA</b> is an interdisciplinary research project aimed at better understanding how (conceptual-semantic) knowledge is organized at different levels of abstraction – both in the brain as well as in AI models, and both in the form of concrete visual objects as well as in their linguistic representation. A central part of this research endeavor is to understand
     - How abstract representations are learned.
@@ -49,10 +49,12 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
       </button>
     </div>
     <br><br>
-    The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
-    <b>ARENA repository:</b> <br>
-    [ARENA Zenodo Community](https://zenodo.org/communities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
-    <br>
+    <p>
+      The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
+      <b>ARENA repository:</b> <br>
+      [ARENA Zenodo Community](https://zenodo.org/csommunities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
+      <br>
+    </p>
   </div>
   <div id="twitter" class="col-sm-3" >
     <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

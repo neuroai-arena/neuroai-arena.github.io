@@ -1,75 +1,75 @@
-- title: ARENA Journal Club
-  speaker: Iryna Schommartz
-  date: 25th June 2024, 12:00 - 14:00
+- title: "ARENA Journal Club"
+  speaker: "Iryna Schommartz"
+  date: "25th June 2024, 12:00 - 14:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
-- title: ARENA Journal Club
-  speaker: Cosimo Iaia
-  date: 28th May 2024, 12:00 - 14:00
-  location: Online
+- title: "ARENA Journal Club"
+  speaker: "Cosimo Iaia"
+  date: "28th May 2024, 12:00 - 14:00"
+  location: "Online"
 
-- title: The Science and the Engineering of Intelligence
-  speaker: Professor Tomaso A. Poggio
-  date: 24th May 2024, 12:00 – 14:00
+- title: "ARENA Lecture Series: The Science and the Engineering of Intelligence"
+  speaker: "Professor Tomaso A. Poggio"
+  date: "24th May 2024, 12:00 – 14:00"
   abstract: "In recent years, artiﬁcial intelligence researchers have built impressive systems. Two of my former postdocs — Demis Hassabis and Amnon Shashua — are behind two main recent success stories of AI: AlphaGo and Mobileye, based on two key algorithms, both originally suggested by discoveries in neuroscience: deep learning and reinforcement learning. But now recent engineering advances of the last 4 years — such as transformers, perceivers and MLP mixers— prompt new questions: will science or engineering win the race for AI? Do we need to understand the brain in order to build intelligent machines? or not? A related question is whether there exist theoretical principles underlying those architectures, including the human brain, that perform so well in learning tasks. A theory of deep learning could solve many of today’s problems around AI, such as explainability and control. Though we do not have a full theory as yet, there are very good reasons to believe in the existence of some fundamental principles of learning and intelligence. I will describe one of them which revolves around the curse of dimensionality. Others are about key properties of transformers and LLMs such as ChatGPT. I will argue that in the race for intelligence, understanding fundamental principles of learning and applying them to brains and machines is a compelling and urgent need."
-  location: PEG, Seminar room 1G 161  , Westend Campus, Goethe University
-  recording: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4
+  location: "PEG, Seminar room 1G 161  , Westend Campus, Goethe University"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4"
   
-- title: A European perspective on structural barriers to women`s career progression in neuroscience
-  speaker: Teresa Spano, Ashly Bourke
-  date: 07th May 2024, 12:00 - 14:00
+- title: "ARENA Lecture Series: A European perspective on structural barriers to women`s career progression in neuroscience"
+  speaker: "Teresa Spano, Ashly Bourke"
+  date: "07th May 2024, 12:00 - 14:00"
   abstract: "Despite an unprecedented number of women entering neuroscience, and decades-long recruitment and retention efforts, women continue to be disproportionately underrepresented in European academic tenure-track faculty and leadership positions. This Perspective focuses on two major career points where women exhibit diminished representation: the transition from postdoctoral fellow to junior professor and the promotion to more senior (tenured) faculty positions. We discuss below recently implemented country-specific and Europe-wide initiatives supporting equal career progression and propose further concrete steps to be taken to break down the structural barriers that prevent women’s progression up the academic career ladder as European neuroscientists."
-  location: Seminar room 5G 170,PEG, Westend Campus, Goethe University
-  recording:  https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fihTr4GQLTkzYcGQ8NNic/video1728784654.mp4
+  location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
+  recording:  "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fihTr4GQLTkzYcGQ8NNic/video1728784654.mp4"
 
-- title: ARENA Journal Club
-  speaker: Bhavin Choksi and Martina Vilas
-  date: 30th April 2024, 12:00 - 14:00
+- title: "ARENA Journal Club"
+  speaker: "Bhavin Choksi and Martina Vilas"
+  date: "30th April 2024, 12:00 - 14:00"
   abstract: "Getting Aligned on Representational Alignment"
-  location: Online
+  location: "Online"
 
-- title: Distilling the core visual and semantic dimensions underlying mental representations of objects
-  speaker: Martin Hebart
-  date: 9th April 2024 , 12:00 - 14:00
+- title: "ARENA Lecture Series: Distilling the core visual and semantic dimensions underlying mental representations of objects"
+  speaker: "Martin Hebart"
+  date: "9th April 2024 , 12:00 - 14:00"
   abstract: "Understanding the nature of our mental representations is a central aim of the cognitive sciences. In this talk, I will discuss past, present, and future work from our lab targeted at (1) unraveling the nature of these representations, (2) revealing their neural substrate along the ventral visual system, and (3) identifying the representations uniquely associated with vision and semantics. To achieve these aims, we draw on a range of methods ranging from computational modeling of large-scale online behavioral data, the development and use of densely-sampled neuroimaging datasets comparing representations of images and words and those of sighted and blind individuals, and a direct comparison of neural representations of objects in humans and macaque monkeys. Together, our present results support a multifaceted view where humans make sense of the world around them by combining a set of representational dimensions to structure their environments, form categories and communicate their knowledge with others."
-  location: Seminar room 5G 170,PEG, Westend Campus, Goethe University
-  recording: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiQ25PiMWEa97fYrc3Zx9c/video1919812684.mp4
+  location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiQ25PiMWEa97fYrc3Zx9c/video1919812684.mp4"
 
-- title: Frankfurter Bürger-Universität Winter Semester Event, Bridging AI and Brain; Exploring Abstract Knowledge
-  speaker: Gemma Roig
-  date: 15th February 2024, 18:00 - 19:00
+- title: "ARENA Lecture Series: Frankfurter Bürger-Universität Winter Semester Event, Bridging AI and Brain; Exploring Abstract Knowledge"
+  speaker: "Gemma Roig"
+  date: "15th February 2024, 18:00 - 19:00"
   abstract: "You can find the program here: [buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf](https://www.buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf)"
-  location: Goethe University, Campus Westend, Seminarhaus, room SH 3.102
-  recording: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiR4UndNKeDsEZ5tXkBmVs/Burger%20Unit%20records.mp4
+  location: "Goethe University, Campus Westend, Seminarhaus, room SH 3.102"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiR4UndNKeDsEZ5tXkBmVs/Burger%20Unit%20records.mp4"
   
-- title: ARENA Workshops - Computational Models for Neuroscience, introducing Net2Brain toolbox
-  speaker: Timothy Schaumlöffel, Bhavin Choksi
-  date: 6th February 2024, 10:00 - 12:00 
+- title: "ARENA Lecture Series: ARENA Workshops - Computational Models for Neuroscience, introducing Net2Brain toolbox"
+  speaker: "Timothy Schaumlöffel, Bhavin Choksi"
+  date: "6th February 2024, 10:00 - 12:00"
   abstract: "Welcome to our workshop on Computational Models for Neuroscience, where we will delve into the fascinating intersection of artificial intelligence and cognitive research. In recent years, deep neural networks (DNNs) have emerged as powerful computational models for understanding the complexities of the primate visual cortex. Numerous studies have highlighted the potential of DNNs in unravelling the computational principles and neurobiological mechanisms behind visual processing. <br>To facilitate this cutting-edge research, we introduce Net2Brain, a comprehensive toolbox designed to map model representations to human brain data. Unlike existing toolboxes that primarily focus on supervised image classification models, Net2Brain goes beyond by enabling the extraction of activations from diverse visual tasks, including semantic segmentation, depth estimation, and action recognition. With over 600 pre-trained DNNs and support for custom models, Net2Brain simplifies the entire process from feature extraction to analysis, offering a seamless pipeline for researchers. The toolbox computes representational dissimilarity matrices (RDMs) over activations, allowing for in-depth comparisons with brain recordings using representational similarity analysis (RSA) and weighted RSA, employing both ROI-based and searchlight analyses.<br>Net2Brain is an open-source toolbox that comes with preloaded brain data for immediate testing, and it seamlessly accommodates the integration of your own recorded data. Join us as we explore the vast potential of Net2Brain in advancing our understanding of the brain's visual processing through computational models."
-  location: PEG 5.G170, Westend Campus, Goethe University 
+  location: "PEG 5.G170, Westend Campus, Goethe University"
 
-- title: ARENA Workshops - MNE-Python 
-  speaker: Jack Taylor
-  date: 30th January 2024, 09:00 - 12:00 
-  abstract: MNE-Python is a library that has rapidly become one of the most widely used tools for M/EEG analysis. In this brief workshop, after a recap on the basics of the event-related potential (ERP) approach to M/EEG analysis, we'll walk through an analysis of some example data in MNE-Python and explore options for pre-processing and epoching the data. Finally, most likely in R, we will explore options for fitting robust models to epoched data that can be used to describe patterns and test hypotheses.
-  location: PEG 5.170, Westend Campus, Goethe University
+- title: "ARENA Lecture Series: ARENA Workshops - MNE-Python"
+  speaker: "Jack Taylor"
+  date: "30th January 2024, 09:00 - 12:00"
+  abstract: "MNE-Python is a library that has rapidly become one of the most widely used tools for M/EEG analysis. In this brief workshop, after a recap on the basics of the event-related potential (ERP) approach to M/EEG analysis, we'll walk through an analysis of some example data in MNE-Python and explore options for pre-processing and epoching the data. Finally, most likely in R, we will explore options for fitting robust models to epoched data that can be used to describe patterns and test hypotheses."
+  location: "PEG 5.170, Westend Campus, Goethe University"
 
-- title: ARENA Journal Club
-  speaker:  Vicky Nicholls
-  date: 28th November 2023
-  location: Online
+- title: "ARENA Journal Club"
+  speaker: "Vicky Nicholls"
+  date: "28th November 2023"
+  location: "Online"
 
-- title: ARENA Journal Club
-  speaker: Timothy Schaumlöffel and Arthur Aubret
-  date: 24th October. 2023
-  location: Online
+- title: "ARENA Journal Club"
+  speaker: "Timothy Schaumlöffel and Arthur Aubret"
+  date: "24th October. 2023"
+  location: "Online"
 
-- title: ARENA Journal Club
-  speaker: Iryna Schommartz
-  date: 26th September. 2023
-  location: Online
+- title: "ARENA Journal Club"
+  speaker: "Iryna Schommartz"
+  date: "26th September. 2023"
+  location: "Online"
 
-- title: ARENA Journal Club
-  speaker: Cosimo Iaia
-  date: 25th July. 2023
-  location: Online
+- title: "ARENA Journal Club"
+  speaker: "Cosimo Iaia"
+  date: "25th July. 2023"
+  location: "Online"
