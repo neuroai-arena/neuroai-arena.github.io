@@ -49,9 +49,9 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
     </div>
     <br><br>
     <div>
-      The ARENA project is jointly carried out by researchers from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/), the [Frankfurt Institute of Advanced Studies (FIAS)](https://fias.institute/en/), and the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Saarbrücken.
+      The ARENA project is jointly carried out by researchers from <a href="https://www.goethe-university-frankfurt.de/">Goethe University Frankfurt</a>, the <a href="https://fias.institute/en/">Frankfurt Institute of Advanced Studies (FIAS)</a>, and the <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems</a> in Saarbrücken. <br>
       <b>ARENA repository:</b> <br>
-      [ARENA Zenodo Community](https://zenodo.org/csommunities/arena) is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
+      <a href="https://zenodo.org/csommunities/arena">ARENA Zenodo Community</a> is the repository where all the publications, data, and other materials and outcomes of the ARENA projects and the unit will be accessible.
       <br>
     </div>
   </div>
