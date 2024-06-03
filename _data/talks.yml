@@ -1,7 +1,12 @@
 - title: ARENA Journal Club
   speaker: Iryna Schommartz
   date: 25th June  2024, 12:00 - 14:00
-  location: [Online](https://uni-frankfurt.zoom.us/j/4671141696)
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+
+- title: ARENA Journal Club
+  speaker: Cosimo Iaia
+  date: 28th May 2024, 12:00 - 14:00
+  location: Online
 
 - title: The Science and the Engineering of Intelligence
   speaker: Professor Tomaso A. Poggio
@@ -9,11 +14,6 @@
   abstract: "In recent years, artiﬁcial intelligence researchers have built impressive systems. Two of my former postdocs — Demis Hassabis and Amnon Shashua — are behind two main recent success stories of AI: AlphaGo and Mobileye, based on two key algorithms, both originally suggested by discoveries in neuroscience: deep learning and reinforcement learning. But now recent engineering advances of the last 4 years — such as transformers, perceivers and MLP mixers— prompt new questions: will science or engineering win the race for AI? Do we need to understand the brain in order to build intelligent machines? or not? A related question is whether there exist theoretical principles underlying those architectures, including the human brain, that perform so well in learning tasks. A theory of deep learning could solve many of today’s problems around AI, such as explainability and control. Though we do not have a full theory as yet, there are very good reasons to believe in the existence of some fundamental principles of learning and intelligence. I will describe one of them which revolves around the curse of dimensionality. Others are about key properties of transformers and LLMs such as ChatGPT. I will argue that in the race for intelligence, understanding fundamental principles of learning and applying them to brains and machines is a compelling and urgent need."
   location: PEG, Seminar room 1G 161  , Westend Campus, Goethe University
   recording: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4
-
-- title: ARENA Journal Club
-  speaker: Cosimo Iaia
-  date: 28th May 2024, 12:00 - 14:00
-  location: Online
   
 - title: ARENA Journal Club
   speaker: Bhavin Choksi and Martina Vilas
