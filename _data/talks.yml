@@ -1,6 +1,6 @@
 - title: ARENA Journal Club
   speaker: Iryna Schommartz
-  date: 25th June  2024, 12:00 - 14:00
+  date: 25th June 2024, 12:00 - 14:00
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: ARENA Journal Club
@@ -10,23 +10,23 @@
 
 - title: The Science and the Engineering of Intelligence
   speaker: Professor Tomaso A. Poggio
-  date: 24th May 2024 , 12:00 – 14:00
+  date: 24th May 2024, 12:00 – 14:00
   abstract: "In recent years, artiﬁcial intelligence researchers have built impressive systems. Two of my former postdocs — Demis Hassabis and Amnon Shashua — are behind two main recent success stories of AI: AlphaGo and Mobileye, based on two key algorithms, both originally suggested by discoveries in neuroscience: deep learning and reinforcement learning. But now recent engineering advances of the last 4 years — such as transformers, perceivers and MLP mixers— prompt new questions: will science or engineering win the race for AI? Do we need to understand the brain in order to build intelligent machines? or not? A related question is whether there exist theoretical principles underlying those architectures, including the human brain, that perform so well in learning tasks. A theory of deep learning could solve many of today’s problems around AI, such as explainability and control. Though we do not have a full theory as yet, there are very good reasons to believe in the existence of some fundamental principles of learning and intelligence. I will describe one of them which revolves around the curse of dimensionality. Others are about key properties of transformers and LLMs such as ChatGPT. I will argue that in the race for intelligence, understanding fundamental principles of learning and applying them to brains and machines is a compelling and urgent need."
   location: PEG, Seminar room 1G 161  , Westend Campus, Goethe University
   recording: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4
   
-- title: ARENA Journal Club
-  speaker: Bhavin Choksi and Martina Vilas
-  date: 30th April 2024, 12:00 - 14:00
-  abstract: "Getting Aligned on Representational Alignment"
-  location: Online
-
 - title: A European perspective on structural barriers to women`s career progression in neuroscience
   speaker: Teresa Spano, Ashly Bourke
   date: 07th May 2024, 12:00 - 14:00
   abstract: "Despite an unprecedented number of women entering neuroscience, and decades-long recruitment and retention efforts, women continue to be disproportionately underrepresented in European academic tenure-track faculty and leadership positions. This Perspective focuses on two major career points where women exhibit diminished representation: the transition from postdoctoral fellow to junior professor and the promotion to more senior (tenured) faculty positions. We discuss below recently implemented country-specific and Europe-wide initiatives supporting equal career progression and propose further concrete steps to be taken to break down the structural barriers that prevent women’s progression up the academic career ladder as European neuroscientists."
   location: Seminar room 5G 170,PEG, Westend Campus, Goethe University
   recording:  https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fihTr4GQLTkzYcGQ8NNic/video1728784654.mp4
+
+- title: ARENA Journal Club
+  speaker: Bhavin Choksi and Martina Vilas
+  date: 30th April 2024, 12:00 - 14:00
+  abstract: "Getting Aligned on Representational Alignment"
+  location: Online
 
 - title: Distilling the core visual and semantic dimensions underlying mental representations of objects
   speaker: Martin Hebart
