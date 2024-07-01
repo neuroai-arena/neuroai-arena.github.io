@@ -21,7 +21,7 @@ permalink: /publications/
 <h6 class="centeralign2"> Project Publications</h6>
 
 {% bibliography -f project_publications  %}
------------
 
+-----------
 <h6 class="centeralign2"> Background Publications</h6>
 {% bibliography -f background_publications  %}

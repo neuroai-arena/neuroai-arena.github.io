@@ -109,6 +109,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
 scholar:
   style: apa
   locale: en
@@ -119,8 +120,7 @@ scholar:
   repository: /publications
   repository_file_delimiter: "." 
   sort_by: year
-  order: ascending
-  group_by: year
+  order: descending
 
   source: ./_bibliography
   query: "@*"
