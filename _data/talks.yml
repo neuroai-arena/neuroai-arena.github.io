@@ -1,4 +1,17 @@
 - title: "ARENA Journal Club"
+  speaker: ""
+  date: "30th July 2024, 12:00 - 14:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+
+- title: "ARENA Lecture Series: Decoding Mental Disorders: Pharmacological Challenges and LLM-Brain Interfaces"
+  speaker: "PD Dr. med. Oliver Grimm, MSc "
+  date: "23rd July 2024, 14:00 – 16:00"
+  location: "PEG, Room 5G 170, Westend Campus, Goethe University"
+  abstract: "AI language models like ChatGPT are transforming psychiatry, offering potential for improved diagnosis, treatment planning, and patient support. These models also provide insights into brain function, showing similarities with various mental states.
+The LOEWE DYNAMIC Center is embarking on innovative research projects that aim to understand psychopathology from a dynamic network perspective. For this endeavour, Grimm and colleagues are interested in the alignment between brain activity and large language models (LLMs) to advance our understanding of mental disorders. Upcoming studies will utilize pharmacological fMRI (Grimm et al. 2021) and MEG techniques, focusing on the effects of ketamine and dopaminergic agents on processing in the brain. The talk will discuss, how LLM brain alignment might help with that and how collaboration within the ARENA framework is of interest.
+The research might explore several key areas of alignment between human brain function and LLM processing via pharmacological challenge or in psychiatric patients. Key areas of study include next-word prediction, surprise calculation, or contextual embeddings. This research builds on recent findings of shared computational principles between human brains and LLMs, aiming to provide novel insights into language processing and its alterations in mental disorders. Studies have shown that both systems engage in continuous next-word prediction, calculate post-onset surprise, and rely on contextual embeddings for word representation (Goldstein et al., 2022). By investigating how pharmacological challenge tasks modulate these alignment patterns, the planned studies aim to gain novel insights into the neural basis of language processing and its potential alterations in mental disorders. The talk will offer some background from psychiatry, AI and discuss the research plan as well as collaboration opportunities. "
+
+- title: "ARENA Journal Club"
   speaker: "Iryna Schommartz"
   date: "25th June 2024, 12:00 - 14:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
