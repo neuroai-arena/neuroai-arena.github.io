@@ -3,36 +3,36 @@
 References
 ==========
 
-@online{aubretLearningObjectSemantic2024,
+@inproceedings{aubretLearningObjectSemantic2024,
   title = {Learning {{Object Semantic Similarity}} with {{Self-Supervision}}},
+  booktitle = {Proceedings of the 2024 {{IEEE International Conference}} on {{Development}} and {{Learning}} ({{ICDL}})},
   author = {Aubret, Arthur and Schaumlöffel, Timothy and Roig, Gemma and Triesch, Jochen},
   date = {2024-04-19},
-  series = {Proceedings of the 2024 {{IEEE International Conference}} on {{Development}} and {{Learning}} ({{ICDL}})},
   eprint = {2405.05143},
   eprinttype = {arXiv},
   eprintclass = {cs},
+  publisher = {arXiv},
   doi = {10.48550/arXiv.2405.05143},
   url = {http://arxiv.org/abs/2405.05143},
   urldate = {2024-07-01},
   abstract = {Humans judge the similarity of two objects not just based on their visual appearance but also based on their semantic relatedness. However, it remains unclear how humans learn about semantic relationships between objects and categories. One important source of semantic knowledge is that semantically related objects frequently co-occur in the same context. For instance, forks and plates are perceived as similar, at least in part, because they are often experienced together in a ``kitchen" or ``eating'' context. Here, we investigate whether a bio-inspired learning principle exploiting such co-occurrence statistics suffices to learn a semantically structured object representation \{\textbackslash em de novo\} from raw visual or combined visual and linguistic input. To this end, we simulate temporal sequences of visual experience by binding together short video clips of real-world scenes showing objects in different contexts. A bio-inspired neural network model aligns close-in-time visual representations while also aligning visual and category label representations to simulate visuo-language alignment. Our results show that our model clusters object representations based on their context, e.g. kitchen or bedroom, in particular in high-level layers of the network, akin to humans. In contrast, lower-level layers tend to better reflect object identity or category. To achieve this, the model exploits two distinct strategies: the visuo-language alignment ensures that different objects of the same category are represented similarly, whereas the temporal alignment leverages that objects from the same context are frequently seen in succession to make their representations more similar. Overall, our work suggests temporal and visuo-language alignment as plausible computational principles for explaining the origins of certain forms of semantic knowledge in humans.},
-  pubstate = {prepublished},
   keywords = {Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Computer Science - Neural and Evolutionary Computing},
   file = {C\:\\Users\\felix\\Zotero\\storage\\X3EFC5TM\\Aubret et al. - 2024 - Learning Object Semantic Similarity with Self-Supe.pdf;C\:\\Users\\felix\\Zotero\\storage\\C43SMCQ9\\2405.html}
 }
 
-@online{ernstSelfSupervisedLearningColor2024,
+@inproceedings{ernstSelfSupervisedLearningColor2024,
   title = {Self-{{Supervised Learning}} of {{Color Constancy}}},
+  booktitle = {Proceedings of the 2024 {{IEEE International Conference}} on {{Development}} and {{Learning}} ({{ICDL}})},
   author = {Ernst, Markus R. and López, Francisco M. and Aubret, Arthur and Fleming, Roland W. and Triesch, Jochen},
   date = {2024-04-11},
-  series = {Proceedings of the 2024 {{IEEE International Conference}} on {{Development}} and {{Learning}} ({{ICDL}})},
   eprint = {2404.08127},
   eprinttype = {arXiv},
   eprintclass = {cs},
+  publisher = {arXiv},
   url = {http://arxiv.org/abs/2404.08127},
   urldate = {2024-07-01},
   abstract = {Color constancy (CC) describes the ability of the visual system to perceive an object as having a relatively constant color despite changes in lighting conditions. While CC and its limitations have been carefully characterized in humans, it is still unclear how the visual system acquires this ability during development. Here, we present a first study showing that CC develops in a neural network trained in a self-supervised manner through an invariance learning objective. During learning, objects are presented under changing illuminations, while the network aims to map subsequent views of the same object onto close-by latent representations. This gives rise to representations that are largely invariant to the illumination conditions, offering a plausible example of how CC could emerge during human cognitive development via a form of self-supervised learning.},
   langid = {english},
-  pubstate = {prepublished},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning},
   file = {C:\Users\felix\Zotero\storage\TSYSWQ9R\2404.pdf}
 }
@@ -70,18 +70,18 @@ References
   file = {C:\Users\felix\Zotero\storage\QGZCWPRS\Oota et al. - 2023 - Joint processing of linguistic properties in brain.pdf}
 }
 
-@online{ootaSpeechLanguageModels2024,
+@inproceedings{ootaSpeechLanguageModels2024,
   title = {Speech Language Models Lack Important Brain-Relevant Semantics},
   author = {Oota, Subba Reddy and Çelik, Emin and Deniz, Fatma and Toneva, Mariya},
   date = {2024-06-16},
   eprint = {2311.04664},
   eprinttype = {arXiv},
   eprintclass = {cs, eess, q-bio},
+  publisher = {arXiv},
   doi = {10.48550/arXiv.2311.04664},
   url = {http://arxiv.org/abs/2311.04664},
   urldate = {2024-07-01},
   abstract = {Despite known differences between reading and listening in the brain, recent work has shown that text-based language models predict both text-evoked and speech-evoked brain activity to an impressive degree. This poses the question of what types of information language models truly predict in the brain. We investigate this question via a direct approach, in which we systematically remove specific low-level stimulus features (textual, speech, and visual) from language model representations to assess their impact on alignment with fMRI brain recordings during reading and listening. Comparing these findings with speech-based language models reveals starkly different effects of low-level features on brain alignment. While text-based models show reduced alignment in early sensory regions post-removal, they retain significant predictive power in late language regions. In contrast, speech-based models maintain strong alignment in early auditory regions even after feature removal but lose all predictive power in late language regions. These results suggest that speech-based models provide insights into additional information processed by early auditory regions, but caution is needed when using them to model processing in late language regions. We make our code publicly available. [https://github.com/subbareddy248/speech-llm-brain]},
-  pubstate = {prepublished},
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Electrical Engineering and Systems Science - Audio and Speech Processing,Quantitative Biology - Neurons and Cognition},
   file = {C\:\\Users\\felix\\Zotero\\storage\\2W5MRDIE\\Oota et al. - 2024 - Speech language models lack important brain-releva.pdf;C\:\\Users\\felix\\Zotero\\storage\\SCRZEMZV\\2311.html}
 }
@@ -138,12 +138,12 @@ References
 @inproceedings{vilasPositionInnerInterpretability2024,
   title = {Position: {{An Inner Interpretability Framework}} for {{AI Inspired}} by {{Lessons}} from {{Cognitive Neuroscience}}},
   shorttitle = {Position},
+  booktitle = {Forty-First {{International Conference}} on {{Machine Learning}}},
   author = {Vilas, Martina G. and Adolfi, Federico and Poeppel, David and Roig, Gemma},
   date = {2024-06-06},
   url = {https://openreview.net/forum?id=66KmnMhGU5},
   urldate = {2024-07-30},
   abstract = {Inner Interpretability is a promising emerging field tasked with uncovering the inner mechanisms of AI systems, though how to develop these mechanistic theories is still much debated. Moreover, recent critiques raise issues that question its usefulness to advance the broader goals of AI. However, it has been overlooked that these issues resemble those that have been grappled with in another field: Cognitive Neuroscience. Here we draw the relevant connections and highlight lessons that can be transferred productively between fields. Based on these, we propose a general conceptual framework and give concrete methodological strategies for building mechanistic explanations in AI inner interpretability research. With this conceptual framework, Inner Interpretability can fend off critiques and position itself on a productive path to explain AI systems.},
-  eventtitle = {Forty-First {{International Conference}} on {{Machine Learning}}},
   langid = {english},
   file = {C:\Users\felix\Zotero\storage\TT78LFKT\Vilas et al. - 2024 - Position An Inner Interpretability Framework for .pdf}
 }
