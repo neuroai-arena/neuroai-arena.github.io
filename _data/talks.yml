@@ -1,3 +1,26 @@
+- title: ARENA Journal Club 
+  speaker: Emin Celik
+  date: 24 September 2024, 12:00 - 14:00
+  location: "Online: [Zoom] https://uni-frankfurt.zoom.us/j/4671141696" 
+
+- title: "ARENA Lecture Series: Beyond mapping of the human brain: characterizing the causal role of large-scale network interactions in supporting complex cognition"
+  speaker: Dr Michal Ramot
+  date: 7th October 2024 , 12:00 – 14:00
+  location: PEG, Seminar room 5G 170, Westend Campus, Goethe University
+  abstract: "Neuroimaging has greatly extended our capacity to study the workings of the human brain. Despite the wealth of knowledge this tool has generated however, there are still critical gaps in our understanding. While tremendous progress has been made in mapping areas of the brain that are specialized for particular stimuli, or cognitive processes, we still know very little about how large-scale interactions between different cortical networks facilitate the integration of information and the execution of complex tasks. Yet even the simplest behavioral tasks are complex, requiring integration over multiple cognitive domains. Our knowledge falls short not only in understanding how this integration takes place, but also in what drives the profound variation in behavior that can be observed on almost every task, even within the typically developing (TD) population. The search for the neural underpinnings of individual differences is important not only philosophically, but also in the service of precision medicine. We approach these questions using a three-pronged approach. First, we create a battery of behavioral tasks from which we can calculate objective measures for different aspects of the behaviors of interest, with sufficient variance across the TD population. Second, using these individual differences in behavior, we identify the neural variance which explains the behavioral variance at the network level. Finally, using covert neurofeedback, we perturb the networks hypothesized to correspond to each of these components, thus directly testing their casual contribution. I will discuss our overall approach, as well as a few of the new directions we are currently pursuing." 
+
+- title: "ARENA Workshop: How babies built basic representations of the world around"
+  speaker: Dr Stephanie Theves
+  date: 11th October 2024 , 13:00 – 14:30
+  location: PEG 1G 131, Westend Campus, Goethe University
+  description: "How does the human brain transform experiences into concepts and how do we use those representations flexibly? Recent evidence suggests that the ability to extract commonalities and to mark distinction across experiences to build generalisable knowledge is supported by the same brain mechanisms that create cognitive maps of physical spaces. In my talk I will present a series of behavioral and neuroimaging (fMRI) studies  that suggest that the hippocampal-entorhinal system encodes the structure of behaviorally relevant conceptual spaces, thereby supporting processes like rapid updating of category boundaries as well as the abstraction of category prototypes and inference of new states. Finally, I will consider the relation between representational mechanisms in the hippocampus and general cognitive performance."
+
+- title: "ARENA Workshop: How babies built basic representations of the world around"
+  speaker: Professor Moritz Köster
+  date: 11th October 2024 , 15:00 – 16:30
+  location: PEG 1G 131, Westend Campus, Goethe University
+  description: "Human flexible adaptation relies on both individual learning mechanisms and the (culture-)specific learning environments we grow up in. With my research I aim to illuminate the ontogenetic foundations of this adaptation process in the infant years. I will report about infants’ neural mechanisms for the acquisition of basic physical concepts (such as object categories and physical events), focusing on the theta rhythm and predictive processing, and how these early developing concepts are shaped by social and cultural learning experiences, beginning in the first year of life. Given the topic of the workshop I will emphasize on the predictive processing account and how it may inform our understanding of early learning processes and the theta-gamma neural code, as a neural mechanism that may implement a fundamental and ontogenetically preserved neural principle for making predictions and updating predictive models. To summarize, my talk will span from a more general perspective of the interplay between the individual and the environment in human early development, down to the neural level and basic learning mechanisms that may facilitate adaptation in the developing brain."
+
 - title: "ARENA Journal Club"
   speaker: "Arthur Aubret"
   date: "30th July 2024, 12:00 - 14:00"
