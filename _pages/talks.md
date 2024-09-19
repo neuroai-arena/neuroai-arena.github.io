@@ -17,7 +17,8 @@ permalink: /talks/
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 {% assign i = 1 %}
-{% for talks in site.data.talks %}
+{% assign sort_talks = site.data.talks | orderby: 'date_js' %}
+{% for talks in sort_talks %}
 <div style="margin-bottom: 20px;">
   <div id="boxcolor">
     <h5 style='font-weight:bold; color: #2F3E46'> {{talks.title}} </h5>

@@ -1,60 +1,64 @@
-- title: "ARENA Workshop: How babies built basic representations of the world around"
-  speaker: Dr Stephanie Theves
-  date: 11th October 2024 , 13:00 – 14:30
-  location: PEG 1G 131, Westend Campus, Goethe University
-  abstract: "How does the human brain transform experiences into concepts and how do we use those representations flexibly? Recent evidence suggests that the ability to extract commonalities and to mark distinction across experiences to build generalisable knowledge is supported by the same brain mechanisms that create cognitive maps of physical spaces. In my talk I will present a series of behavioral and neuroimaging (fMRI) studies  that suggest that the hippocampal-entorhinal system encodes the structure of behaviorally relevant conceptual spaces, thereby supporting processes like rapid updating of category boundaries as well as the abstraction of category prototypes and inference of new states. Finally, I will consider the relation between representational mechanisms in the hippocampus and general cognitive performance."
 
 - title: "ARENA Workshop: How babies built basic representations of the world around"
   speaker: Professor Moritz Köster
   date: 11th October 2024 , 15:00 – 16:30
+  date_js: "2024-10-11T15:00:00"
   location: PEG 1G 131, Westend Campus, Goethe University
   abstract: "Human flexible adaptation relies on both individual learning mechanisms and the (culture-)specific learning environments we grow up in. With my research I aim to illuminate the ontogenetic foundations of this adaptation process in the infant years. I will report about infants’ neural mechanisms for the acquisition of basic physical concepts (such as object categories and physical events), focusing on the theta rhythm and predictive processing, and how these early developing concepts are shaped by social and cultural learning experiences, beginning in the first year of life. Given the topic of the workshop I will emphasize on the predictive processing account and how it may inform our understanding of early learning processes and the theta-gamma neural code, as a neural mechanism that may implement a fundamental and ontogenetically preserved neural principle for making predictions and updating predictive models. To summarize, my talk will span from a more general perspective of the interplay between the individual and the environment in human early development, down to the neural level and basic learning mechanisms that may facilitate adaptation in the developing brain."
 
 - title: "ARENA Lecture Series: Beyond mapping of the human brain: characterizing the causal role of large-scale network interactions in supporting complex cognition"
   speaker: Dr Michal Ramot
   date: 7th October 2024 , 12:00 – 14:00
+  date_js: "2024-10-07T12:00:00"
   location: PEG, Seminar room 5G 170, Westend Campus, Goethe University
-  abstract: "Neuroimaging has greatly extended our capacity to study the workings of the human brain. Despite the wealth of knowledge this tool has generated however, there are still critical gaps in our understanding. While tremendous progress has been made in mapping areas of the brain that are specialized for particular stimuli, or cognitive processes, we still know very little about how large-scale interactions between different cortical networks facilitate the integration of information and the execution of complex tasks. Yet even the simplest behavioral tasks are complex, requiring integration over multiple cognitive domains. Our knowledge falls short not only in understanding how this integration takes place, but also in what drives the profound variation in behavior that can be observed on almost every task, even within the typically developing (TD) population. The search for the neural underpinnings of individual differences is important not only philosophically, but also in the service of precision medicine. We approach these questions using a three-pronged approach. First, we create a battery of behavioral tasks from which we can calculate objective measures for different aspects of the behaviors of interest, with sufficient variance across the TD population. Second, using these individual differences in behavior, we identify the neural variance which explains the behavioral variance at the network level. Finally, using covert neurofeedback, we perturb the networks hypothesized to correspond to each of these components, thus directly testing their casual contribution. I will discuss our overall approach, as well as a few of the new directions we are currently pursuing." 
+  abstract: "Neuroimaging has greatly extended our capacity to study the workings of the human brain. Despite the wealth of knowledge this tool has generated however, there are still critical gaps in our understanding. While tremendous progress has been made in mapping areas of the brain that are specialized for particular stimuli, or cognitive processes, we still know very little about how large-scale interactions between different cortical networks facilitate the integration of information and the execution of complex tasks. Yet even the simplest behavioral tasks are complex, requiring integration over multiple cognitive domains. Our knowledge falls short not only in understanding how this integration takes place, but also in what drives the profound variation in behavior that can be observed on almost every task, even within the typically developing (TD) population. The search for the neural underpinnings of individual differences is important not only philosophically, but also in the service of precision medicine. We approach these questions using a three-pronged approach. First, we create a battery of behavioral tasks from which we can calculate objective measures for different aspects of the behaviors of interest, with sufficient variance across the TD population. Second, using these individual differences in behavior, we identify the neural variance which explains the behavioral variance at the network level. Finally, using covert neurofeedback, we perturb the networks hypothesized to correspond to each of these components, thus directly testing their casual contribution. I will discuss our overall approach, as well as a few of the new directions we are currently pursuing."
 
 - title: ARENA Journal Club 
   speaker: Emin Celik
   date: 24 September 2024, 12:00 - 14:00
-  location: "Online: [Zoom] https://uni-frankfurt.zoom.us/j/4671141696" 
+  date_js: "2024-09-24T12:00:00"
+  location: "Online: [Zoom] https://uni-frankfurt.zoom.us/j/4671141696"
 
 - title: "ARENA Journal Club"
   speaker: "Arthur Aubret"
   date: "30th July 2024, 12:00 - 14:00"
+  date_js: "2024-07-30T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Lecture Series: Decoding Mental Disorders: Pharmacological Challenges and LLM-Brain Interfaces"
   speaker: "PD Dr. med. Oliver Grimm, MSc "
   date: "23rd July 2024, 14:00 – 16:00"
+  date_js: "2024-07-23T14:00:00"
   location: "PEG, Room 5G 170, Westend Campus, Goethe University"
   abstract: "AI language models like ChatGPT are transforming psychiatry, offering potential for improved diagnosis, treatment planning, and patient support. These models also provide insights into brain function, showing similarities with various mental states.
 The LOEWE DYNAMIC Center is embarking on innovative research projects that aim to understand psychopathology from a dynamic network perspective. For this endeavour, Grimm and colleagues are interested in the alignment between brain activity and large language models (LLMs) to advance our understanding of mental disorders. Upcoming studies will utilize pharmacological fMRI (Grimm et al. 2021) and MEG techniques, focusing on the effects of ketamine and dopaminergic agents on processing in the brain. The talk will discuss, how LLM brain alignment might help with that and how collaboration within the ARENA framework is of interest.
-The research might explore several key areas of alignment between human brain function and LLM processing via pharmacological challenge or in psychiatric patients. Key areas of study include next-word prediction, surprise calculation, or contextual embeddings. This research builds on recent findings of shared computational principles between human brains and LLMs, aiming to provide novel insights into language processing and its alterations in mental disorders. Studies have shown that both systems engage in continuous next-word prediction, calculate post-onset surprise, and rely on contextual embeddings for word representation (Goldstein et al., 2022). By investigating how pharmacological challenge tasks modulate these alignment patterns, the planned studies aim to gain novel insights into the neural basis of language processing and its potential alterations in mental disorders. The talk will offer some background from psychiatry, AI and discuss the research plan as well as collaboration opportunities. "
+The research might explore several key areas of alignment between human brain function and LLM processing via pharmacological challenge or in psychiatric patients. Key areas of study include next-word prediction, surprise calculation, or contextual embeddings. This research builds on recent findings of shared computational principles between human brains and LLMs, aiming to provide novel insights into language processing and its alterations in mental disorders. Studies have shown that both systems engage in continuous next-word prediction, calculate post-onset surprise, and rely on contextual embeddings for word representation (Goldstein et al., 2022). By investigating how pharmacological challenge tasks modulate these alignment patterns, the planned studies aim to gain novel insights into the neural basis of language processing and its potential alterations in mental disorders. The talk will offer some background from psychiatry, AI and discuss the research plan as well as collaboration opportunities."
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiDt4tmu2LgbvrZ4WCpyCM/video1027046210.mp4"
 
 - title: "ARENA Journal Club"
   speaker: "Iryna Schommartz"
   date: "25th June 2024, 12:00 - 14:00"
+  date_js: "2024-06-25T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Journal Club"
   speaker: "Cosimo Iaia"
   date: "28th May 2024, 12:00 - 14:00"
+  date_js: "2024-05-28T12:00:00"
   location: "Online"
 
 - title: "ARENA Lecture Series: The Science and the Engineering of Intelligence"
   speaker: "Professor Tomaso A. Poggio"
   date: "24th May 2024, 12:00 – 14:00"
+  date_js: "2024-05-24T12:00:00"
   abstract: "In recent years, artiﬁcial intelligence researchers have built impressive systems. Two of my former postdocs — Demis Hassabis and Amnon Shashua — are behind two main recent success stories of AI: AlphaGo and Mobileye, based on two key algorithms, both originally suggested by discoveries in neuroscience: deep learning and reinforcement learning. But now recent engineering advances of the last 4 years — such as transformers, perceivers and MLP mixers— prompt new questions: will science or engineering win the race for AI? Do we need to understand the brain in order to build intelligent machines? or not? A related question is whether there exist theoretical principles underlying those architectures, including the human brain, that perform so well in learning tasks. A theory of deep learning could solve many of today’s problems around AI, such as explainability and control. Though we do not have a full theory as yet, there are very good reasons to believe in the existence of some fundamental principles of learning and intelligence. I will describe one of them which revolves around the curse of dimensionality. Others are about key properties of transformers and LLMs such as ChatGPT. I will argue that in the race for intelligence, understanding fundamental principles of learning and applying them to brains and machines is a compelling and urgent need."
   location: "PEG, Seminar room 1G 161  , Westend Campus, Goethe University"
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4"
-  
+
 - title: "ARENA Lecture Series: A European perspective on structural barriers to women`s career progression in neuroscience"
   speaker: "Teresa Spano, Ashly Bourke"
   date: "07th May 2024, 12:00 - 14:00"
+  date_js: "2024-05-07T12:00:00"
   abstract: "Despite an unprecedented number of women entering neuroscience, and decades-long recruitment and retention efforts, women continue to be disproportionately underrepresented in European academic tenure-track faculty and leadership positions. This Perspective focuses on two major career points where women exhibit diminished representation: the transition from postdoctoral fellow to junior professor and the promotion to more senior (tenured) faculty positions. We discuss below recently implemented country-specific and Europe-wide initiatives supporting equal career progression and propose further concrete steps to be taken to break down the structural barriers that prevent women’s progression up the academic career ladder as European neuroscientists."
   location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
   recording:  "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fihTr4GQLTkzYcGQ8NNic/video1728784654.mp4"
@@ -62,12 +66,14 @@ The research might explore several key areas of alignment between human brain fu
 - title: "ARENA Journal Club"
   speaker: "Bhavin Choksi and Martina Vilas"
   date: "30th April 2024, 12:00 - 14:00"
+  date_js: "2024-04-30T12:00:00"
   abstract: "Getting Aligned on Representational Alignment"
   location: "Online"
 
 - title: "ARENA Lecture Series: Distilling the core visual and semantic dimensions underlying mental representations of objects"
   speaker: "Martin Hebart"
   date: "9th April 2024 , 12:00 - 14:00"
+  date_js: "2024-04-09T12:00:00"
   abstract: "Understanding the nature of our mental representations is a central aim of the cognitive sciences. In this talk, I will discuss past, present, and future work from our lab targeted at (1) unraveling the nature of these representations, (2) revealing their neural substrate along the ventral visual system, and (3) identifying the representations uniquely associated with vision and semantics. To achieve these aims, we draw on a range of methods ranging from computational modeling of large-scale online behavioral data, the development and use of densely-sampled neuroimaging datasets comparing representations of images and words and those of sighted and blind individuals, and a direct comparison of neural representations of objects in humans and macaque monkeys. Together, our present results support a multifaceted view where humans make sense of the world around them by combining a set of representational dimensions to structure their environments, form categories and communicate their knowledge with others."
   location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiQ25PiMWEa97fYrc3Zx9c/video1919812684.mp4"
@@ -75,38 +81,45 @@ The research might explore several key areas of alignment between human brain fu
 - title: "ARENA Lecture Series: Frankfurter Bürger-Universität Winter Semester Event, Bridging AI and Brain; Exploring Abstract Knowledge"
   speaker: "Gemma Roig"
   date: "15th February 2024, 18:00 - 19:00"
+  date_js: "2024-02-15T18:00:00"
   abstract: "You can find the program here: [buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf](https://www.buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf)"
   location: "Goethe University, Campus Westend, Seminarhaus, room SH 3.102"
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiR4UndNKeDsEZ5tXkBmVs/Burger%20Unit%20records.mp4"
-  
+
 - title: "ARENA Lecture Series: ARENA Workshops - Computational Models for Neuroscience, introducing Net2Brain toolbox"
   speaker: "Timothy Schaumlöffel, Bhavin Choksi"
   date: "6th February 2024, 10:00 - 12:00"
+  date_js: "2024-02-06T10:00:00"
   abstract: "Welcome to our workshop on Computational Models for Neuroscience, where we will delve into the fascinating intersection of artificial intelligence and cognitive research. In recent years, deep neural networks (DNNs) have emerged as powerful computational models for understanding the complexities of the primate visual cortex. Numerous studies have highlighted the potential of DNNs in unravelling the computational principles and neurobiological mechanisms behind visual processing. <br>To facilitate this cutting-edge research, we introduce Net2Brain, a comprehensive toolbox designed to map model representations to human brain data. Unlike existing toolboxes that primarily focus on supervised image classification models, Net2Brain goes beyond by enabling the extraction of activations from diverse visual tasks, including semantic segmentation, depth estimation, and action recognition. With over 600 pre-trained DNNs and support for custom models, Net2Brain simplifies the entire process from feature extraction to analysis, offering a seamless pipeline for researchers. The toolbox computes representational dissimilarity matrices (RDMs) over activations, allowing for in-depth comparisons with brain recordings using representational similarity analysis (RSA) and weighted RSA, employing both ROI-based and searchlight analyses.<br>Net2Brain is an open-source toolbox that comes with preloaded brain data for immediate testing, and it seamlessly accommodates the integration of your own recorded data. Join us as we explore the vast potential of Net2Brain in advancing our understanding of the brain's visual processing through computational models."
   location: "PEG 5.G170, Westend Campus, Goethe University"
 
 - title: "ARENA Lecture Series: ARENA Workshops - MNE-Python"
   speaker: "Jack Taylor"
   date: "30th January 2024, 09:00 - 12:00"
+  date_js: "2024-01-30T09:00:00"
   abstract: "MNE-Python is a library that has rapidly become one of the most widely used tools for M/EEG analysis. In this brief workshop, after a recap on the basics of the event-related potential (ERP) approach to M/EEG analysis, we'll walk through an analysis of some example data in MNE-Python and explore options for pre-processing and epoching the data. Finally, most likely in R, we will explore options for fitting robust models to epoched data that can be used to describe patterns and test hypotheses."
   location: "PEG 5.170, Westend Campus, Goethe University"
 
 - title: "ARENA Journal Club"
   speaker: "Vicky Nicholls"
   date: "28th November 2023"
+  date_js: "2023-11-28T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Timothy Schaumlöffel and Arthur Aubret"
   date: "24th October. 2023"
+  date_js: "2023-10-24T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Iryna Schommartz"
   date: "26th September. 2023"
+  date_js: "2023-09-26T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Cosimo Iaia"
   date: "25th July. 2023"
+  date_js: "2023-07-25T00:00:00"
   location: "Online"
