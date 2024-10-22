@@ -1,3 +1,22 @@
+- title: "ARENA Lecture Series: Neural Representations Underlying Flexible Behavior"
+  speaker: Prof. Mona Garvert
+  date: 26th November 2024 , 12:00 – 14:00 
+  date_js: "2024-11-26T12:00:00"
+  location: PEG building, seminar room 1G 150, Westend Campus, Goethe University
+  abstract:  "In our ever-changing world, the ability to adapt to novel situations is essential. This flexibility relies on our ability to draw from past experiences and apply general principles to new situations. For example, when choosing from a menu in an unfamiliar restaurant, we instinctively apply past dining experiences to guide our decision. Such generalization is a cornerstone of adaptive behavior, allowing us to make informed decisions without relearning strategies for every new scenario. In this talk, I explore how the human brain enables such behavior. I will demonstrate that the brain constructs hippocampal cognitive maps, traditionally known for encoding spatial relationships, to also represent other types of relational knowledge, providing a flexible foundation for generalization and novel inference. When stimuli can be part of multiple relational maps, the orbitofrontal cortex selectively activates relevant maps tailored to the specific task. Additionally, our research reveals that with time and consolidation, the brain refines these cognitive maps into more abstract representations, capturing the broader relational structure of experiences beyond specific stimuli. In summary, our findings illustrate the remarkable adaptability of neural representations in the human brain. They demonstrate how these representations are not just static archives of past experiences but are dynamic tools actively reshaped to aid decision-making and behavior in ever-changing environments."
+  
+- title: ARENA Journal Club
+  speaker: Santiago Galella
+  date: 19 November 2024, 12:00 - 14:00
+  date_js: "2024-11-19T12:00:00"
+  location: Online [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)
+
+- title: ARENA Journal Club
+  speaker: Vicky Nicholls
+  date: 22 October 2024, 12:00 - 14:00
+  data_js: "2024-10-22T12:00:00"
+  location: Online [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)
+
 - title: "ARENA Workshop: How babies built basic representations of the world around"
   speaker: Dr. Stephanie Theves
   date: 11th October 2024 , 13:00 – 14:30
@@ -24,7 +43,7 @@
   speaker: Emin Celik
   date: 24 September 2024, 12:00 - 14:00
   date_js: "2024-09-24T12:00:00"
-  location: "Online: [Zoom] https://uni-frankfurt.zoom.us/j/4671141696"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Journal Club"
   speaker: "Arthur Aubret"
