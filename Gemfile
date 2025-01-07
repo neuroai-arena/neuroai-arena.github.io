@@ -10,4 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-scholar"
   gem "kramdown-parser-gfm"
   gem "jekyll-github-metadata"
+  gem "csv"
+  gem "observer"
 end
