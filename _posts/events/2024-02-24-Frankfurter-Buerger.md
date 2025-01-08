@@ -7,7 +7,7 @@ tags:
 author_profile: false
 location: Goethe University, Campus Westend, Seminarhaus, room SH 3.102
 abstract: "You can find the program here: <a href='https://www.buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf'>Program Brochure</a>"
-speaker: Dr. Teresa Spano & Dr. Ashley Bourke
+speaker: Prof. Dr. Gemma Roig 
 recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiR4UndNKeDsEZ5tXkBmVs/Burger%20Unit%20records.mp4"
 header: 
   teaser: "./assets/images/posts/3.jpg"
