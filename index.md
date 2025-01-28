@@ -16,7 +16,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 <div class="row justify-content-center">
-  <div class="col-sm-7" >
+  <div class="col-sm-9" >
     <br>
     <div class="image">
       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 300px;align: left">
@@ -55,10 +55,6 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
     </div>
     <br>
     <br>
-  </div>
-  <div id="twitter" class="col-sm-3" >
-    <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ARENA_ResUnit?ref_src=twsrc%5Etfw">Tweets by ARENA_ResUnit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-    <p><span class="small">To see the integrated timeline, make sure you're logged into Twitter/X.</span></p>
   </div>
 </div>
 

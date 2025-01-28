@@ -1,3 +1,33 @@
+
+- title: "ARENA Workshop: What is Gender- and Diversity-sensitive Leadership and how to get there"
+  speaker: Sabine Blackmore
+  date: 25th February 2025, 09:00 – 14:00
+  date_js: "2025-02-25T09:00:00"
+  location: PEG 1G 131, Westend Campus, Goethe University
+  abstract: "The demands placed on leaders in the academic system have fundamentally changed over the research performance and reputation were once the key qualifications of a leader in science, today such as personnel management and development as well as conflict management are indispensable diversity sensitivity are also part of modern leadership in research institutions in order to meet leadership and 'excellence in all areas'. In this workshop we discuss:
+  1. What is gender- and diversity leadership in academia?
+     Forms of leadership in terms of gender and diversity (G&D)
+     Leadership tasks and questions regarding G&D
+  2. (Un)equal structures?: The academic system under the microscope
+     Implicit gender stereotypes and biases in research and science and their effects
+     Gendered requirements of leadership in academia
+  3. How to…
+     Hands-on approach to specific leadership situations in terms of G&D"
+
+- title: "ARENA Lecture Series: Taming the neuroscience literature with predictive and explanatory models"
+  speaker: Prof. Bradley Love
+  date: 4th February 2025, 12:00 – 14:00
+  date_js: "2025-02-04T12:00:00"
+  location: DIPF building, Room Erwin Stein (1. OG), Westend Campus, Goethe University
+  abstract: "Models can help scientists make sense of an exponentially growing literature. In the first part of the talk, I will discuss using models as predictive tools. In the BrainGPT.org project, we use large language models (LLMs) to order the scientific literature. On a benchmark, BrainBench, that involves predicting experimental results from methods, we find that LLMs exceed the capabilities of human experts. Because the confidence of LLMs is calibrated, they can team with neuroscientists to accelerate scientific discovery. In the second part of the talk, I focus on models that can provide explanations bridging behaviour and brain measures. Unlike predictive models, explanatory models can offer interpretations of key results. I'll discuss work that suggests intuitive cell types (e.g., place, grid, concept cells, etc.) are of limited scientific value and naturally arise in complex networks, including random networks. In this example, the explanatory model is serving as a baseline which should be surpassed prior to making strong scientific claims. I'll end by noting the complementary roles explanatory and predictive models play."
+
+- title: "ARENA Lecture Series: Why is a raven like a writing desk? Mapping and tracking visual object representations"
+  speaker: Prof. Heida Sigurðardóttir
+  date: 6th February 2025, 12:00 – 14:00
+  date_js: "2025-02-06T12:00:00"
+  location: PEG building, Seminar room 5G 170, Westend Campus, Goethe University
+  abstract: "Why is a raven like a writing desk? The answer to this riddle, famously posed by the Mad Hatter in Alice’s Adventures in Wonderland, may simply be that it is not. A raven is a living, moving, behaving, breathing being. A writing desk is none of those things. Not only are ravens and writing desks conceptually different, but they also look nothing alike. Change the look of a raven and it would not be a raven anymore. Semantics and visual qualities are inherently entangled. In this talk, I will present some work that we have been doing on how objects differ visually and semantically, and how people utilize this information as evidenced by individual differences in behavior, special abilities and disabilities, and developmental trajectories."
+
 - title: "ARENA Lecture Series: Neural Representations Underlying Flexible Behavior"
   speaker: Prof. Mona Garvert
   date: 26th November 2024 , 12:00 – 14:00 
