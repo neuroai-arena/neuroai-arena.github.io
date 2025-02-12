@@ -9,6 +9,7 @@ permalink: /projects/
 
 <h3 style="text-align:center;font-weight:bold">Projects </h3>
 
+
 {% assign number_printed = 0 %}
 {% for proj in site.data.projects %}
 
