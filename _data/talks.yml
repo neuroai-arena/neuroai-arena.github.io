@@ -1,25 +1,10 @@
-
-- title: "ARENA Workshop: What is Gender- and Diversity-sensitive Leadership and how to get there"
-  speaker: Sabine Blackmore
-  date: 25th February 2025, 09:00 – 14:00
-  date_js: "2025-02-25T09:00:00"
-  location: PEG 1G 131, Westend Campus, Goethe University
-  abstract: "The demands placed on leaders in the academic system have fundamentally changed over the research performance and reputation were once the key qualifications of a leader in science, today such as personnel management and development as well as conflict management are indispensable diversity sensitivity are also part of modern leadership in research institutions in order to meet leadership and 'excellence in all areas'. In this workshop we discuss:
-  1. What is gender- and diversity leadership in academia?
-     Forms of leadership in terms of gender and diversity (G&D)
-     Leadership tasks and questions regarding G&D
-  2. (Un)equal structures?: The academic system under the microscope
-     Implicit gender stereotypes and biases in research and science and their effects
-     Gendered requirements of leadership in academia
-  3. How to…
-     Hands-on approach to specific leadership situations in terms of G&D"
-
 - title: "ARENA Lecture Series: Taming the neuroscience literature with predictive and explanatory models"
   speaker: Prof. Bradley Love
   date: 4th February 2025, 12:00 – 14:00
   date_js: "2025-02-04T12:00:00"
   location: DIPF building, Room Erwin Stein (1. OG), Westend Campus, Goethe University
   abstract: "Models can help scientists make sense of an exponentially growing literature. In the first part of the talk, I will discuss using models as predictive tools. In the BrainGPT.org project, we use large language models (LLMs) to order the scientific literature. On a benchmark, BrainBench, that involves predicting experimental results from methods, we find that LLMs exceed the capabilities of human experts. Because the confidence of LLMs is calibrated, they can team with neuroscientists to accelerate scientific discovery. In the second part of the talk, I focus on models that can provide explanations bridging behaviour and brain measures. Unlike predictive models, explanatory models can offer interpretations of key results. I'll discuss work that suggests intuitive cell types (e.g., place, grid, concept cells, etc.) are of limited scientific value and naturally arise in complex networks, including random networks. In this example, the explanatory model is serving as a baseline which should be surpassed prior to making strong scientific claims. I'll end by noting the complementary roles explanatory and predictive models play."
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiGyscA5LoRADb2dfrh58X/video1783023175.mp4"
 
 - title: "ARENA Lecture Series: Why is a raven like a writing desk? Mapping and tracking visual object representations"
   speaker: Prof. Heida Sigurðardóttir
@@ -27,6 +12,7 @@
   date_js: "2025-02-06T12:00:00"
   location: PEG building, Seminar room 5G 170, Westend Campus, Goethe University
   abstract: "Why is a raven like a writing desk? The answer to this riddle, famously posed by the Mad Hatter in Alice’s Adventures in Wonderland, may simply be that it is not. A raven is a living, moving, behaving, breathing being. A writing desk is none of those things. Not only are ravens and writing desks conceptually different, but they also look nothing alike. Change the look of a raven and it would not be a raven anymore. Semantics and visual qualities are inherently entangled. In this talk, I will present some work that we have been doing on how objects differ visually and semantically, and how people utilize this information as evidenced by individual differences in behavior, special abilities and disabilities, and developmental trajectories."
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi3438hAKHMd5YFowzbqaC/video1406903026.mp4"
 
 - title: "ARENA Lecture Series: Neural Representations Underlying Flexible Behavior"
   speaker: Prof. Mona Garvert
@@ -34,7 +20,7 @@
   date_js: "2024-11-26T12:00:00"
   location: PEG building, seminar room 1G 150, Westend Campus, Goethe University
   abstract:  "In our ever-changing world, the ability to adapt to novel situations is essential. This flexibility relies on our ability to draw from past experiences and apply general principles to new situations. For example, when choosing from a menu in an unfamiliar restaurant, we instinctively apply past dining experiences to guide our decision. Such generalization is a cornerstone of adaptive behavior, allowing us to make informed decisions without relearning strategies for every new scenario. In this talk, I explore how the human brain enables such behavior. I will demonstrate that the brain constructs hippocampal cognitive maps, traditionally known for encoding spatial relationships, to also represent other types of relational knowledge, providing a flexible foundation for generalization and novel inference. When stimuli can be part of multiple relational maps, the orbitofrontal cortex selectively activates relevant maps tailored to the specific task. Additionally, our research reveals that with time and consolidation, the brain refines these cognitive maps into more abstract representations, capturing the broader relational structure of experiences beyond specific stimuli. In summary, our findings illustrate the remarkable adaptability of neural representations in the human brain. They demonstrate how these representations are not just static archives of past experiences but are dynamic tools actively reshaped to aid decision-making and behavior in ever-changing environments."
-  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiE75hKu41E3hXsamoEiQ8/video1208723741.mp4"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi3FsZaw4GCod6TETzScqB/video1208723741.mp4 "
 
 
 - title: ARENA Journal Club
@@ -69,7 +55,7 @@
   date_js: "2024-10-07T12:00:00"
   location: PEG, Seminar room 5G 170, Westend Campus, Goethe University
   abstract: "Neuroimaging has greatly extended our capacity to study the workings of the human brain. Despite the wealth of knowledge this tool has generated however, there are still critical gaps in our understanding. While tremendous progress has been made in mapping areas of the brain that are specialized for particular stimuli, or cognitive processes, we still know very little about how large-scale interactions between different cortical networks facilitate the integration of information and the execution of complex tasks. Yet even the simplest behavioral tasks are complex, requiring integration over multiple cognitive domains. Our knowledge falls short not only in understanding how this integration takes place, but also in what drives the profound variation in behavior that can be observed on almost every task, even within the typically developing (TD) population. The search for the neural underpinnings of individual differences is important not only philosophically, but also in the service of precision medicine. We approach these questions using a three-pronged approach. First, we create a battery of behavioral tasks from which we can calculate objective measures for different aspects of the behaviors of interest, with sufficient variance across the TD population. Second, using these individual differences in behavior, we identify the neural variance which explains the behavioral variance at the network level. Finally, using covert neurofeedback, we perturb the networks hypothesized to correspond to each of these components, thus directly testing their casual contribution. I will discuss our overall approach, as well as a few of the new directions we are currently pursuing."
-  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiAAdpqTZnBmVUsLM76jU9/video1218937865.mp4" 
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiEzpHFdzWncH9hSNnDWnU/video1218937865.mp4" 
 
 - title: ARENA Journal Club 
   speaker: Emin Celik
@@ -111,7 +97,7 @@ The research might explore several key areas of alignment between human brain fu
   date_js: "2024-05-24T12:00:00"
   abstract: "In recent years, artiﬁcial intelligence researchers have built impressive systems. Two of my former postdocs — Demis Hassabis and Amnon Shashua — are behind two main recent success stories of AI: AlphaGo and Mobileye, based on two key algorithms, both originally suggested by discoveries in neuroscience: deep learning and reinforcement learning. But now recent engineering advances of the last 4 years — such as transformers, perceivers and MLP mixers— prompt new questions: will science or engineering win the race for AI? Do we need to understand the brain in order to build intelligent machines? or not? A related question is whether there exist theoretical principles underlying those architectures, including the human brain, that perform so well in learning tasks. A theory of deep learning could solve many of today’s problems around AI, such as explainability and control. Though we do not have a full theory as yet, there are very good reasons to believe in the existence of some fundamental principles of learning and intelligence. I will describe one of them which revolves around the curse of dimensionality. Others are about key properties of transformers and LLMs such as ChatGPT. I will argue that in the race for intelligence, understanding fundamental principles of learning and applying them to brains and machines is a compelling and urgent need."
   location: "PEG, Seminar room 1G 161  , Westend Campus, Goethe University"
-  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiJbUQhDaYcLaKT1bBJBiV/video1622060837.mp4"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiVa6MBKn9Zikwan2JCnAW/video1622060837.mp4"
 
 - title: "ARENA Lecture Series: A European perspective on structural barriers to women`s career progression in neuroscience"
   speaker: "Teresa Spano, Ashly Bourke"
@@ -119,7 +105,7 @@ The research might explore several key areas of alignment between human brain fu
   date_js: "2024-05-07T12:00:00"
   abstract: "Despite an unprecedented number of women entering neuroscience, and decades-long recruitment and retention efforts, women continue to be disproportionately underrepresented in European academic tenure-track faculty and leadership positions. This Perspective focuses on two major career points where women exhibit diminished representation: the transition from postdoctoral fellow to junior professor and the promotion to more senior (tenured) faculty positions. We discuss below recently implemented country-specific and Europe-wide initiatives supporting equal career progression and propose further concrete steps to be taken to break down the structural barriers that prevent women’s progression up the academic career ladder as European neuroscientists."
   location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
-  recording:  "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fihTr4GQLTkzYcGQ8NNic/video1728784654.mp4"
+  recording:  "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi45n1V1ybmqJjJQDaj7AB/video1728784654.mp4"
 
 - title: "ARENA Journal Club"
   speaker: "Bhavin Choksi and Martina Vilas"
@@ -134,7 +120,7 @@ The research might explore several key areas of alignment between human brain fu
   date_js: "2024-04-09T12:00:00"
   abstract: "Understanding the nature of our mental representations is a central aim of the cognitive sciences. In this talk, I will discuss past, present, and future work from our lab targeted at (1) unraveling the nature of these representations, (2) revealing their neural substrate along the ventral visual system, and (3) identifying the representations uniquely associated with vision and semantics. To achieve these aims, we draw on a range of methods ranging from computational modeling of large-scale online behavioral data, the development and use of densely-sampled neuroimaging datasets comparing representations of images and words and those of sighted and blind individuals, and a direct comparison of neural representations of objects in humans and macaque monkeys. Together, our present results support a multifaceted view where humans make sense of the world around them by combining a set of representational dimensions to structure their environments, form categories and communicate their knowledge with others."
   location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
-  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiQ25PiMWEa97fYrc3Zx9c/video1919812684.mp4"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiUh5xw1XimQZkdTLBHkLP/video1919812684.mp4"
 
 - title: "ARENA Lecture Series: Frankfurter Bürger-Universität Winter Semester Event, Bridging AI and Brain; Exploring Abstract Knowledge"
   speaker: "Gemma Roig"
@@ -142,7 +128,7 @@ The research might explore several key areas of alignment between human brain fu
   date_js: "2024-02-15T18:00:00"
   abstract: "You can find the program here: [buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf](https://www.buerger.uni-frankfurt.de/143422054/programmbroschure-frankfurter-burger-universitat-wintersemester-2023-24.pdf)"
   location: "Goethe University, Campus Westend, Seminarhaus, room SH 3.102"
-  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiR4UndNKeDsEZ5tXkBmVs/Burger%20Unit%20records.mp4"
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiShw9eFaiRcwW7aXFGES/Burger%20Unit%20records.mp4"
 
 - title: "ARENA Workshops - Computational Models for Neuroscience, introducing Net2Brain toolbox"
   speaker: "Timothy Schaumlöffel, Bhavin Choksi"
