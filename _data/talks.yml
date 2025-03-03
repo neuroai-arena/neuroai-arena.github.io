@@ -3,8 +3,7 @@
   date: 12 March 2025
   date_js: "2025-02-06T12:00:00"
   location: TeaP Conference 2025
-  abstract: Description: 
-How knowledge is represented in the human mind and brain is one of the most fundamental 
+  abstract: How knowledge is represented in the human mind and brain is one of the most fundamental 
 questions of cognitive and brain sciences. It is central to many domains of cognition - from 
 visual perception and object recognition, learning of regularities and semantic knowledge 
 about the world, to language processing. However, an overarching framework that is rich 
@@ -23,9 +22,7 @@ data while subjects listen to this audiobook. At the end, we will discuss to wha
 concerted efforts of psychologists and computer scientists improve the understanding of how 
 representations emerge and are coded across different types of neural architecture. 
 
- 
-
-Talk 1: Computational Modeling of the Development of Abstract Object Representations 
+Talk 1 Computational Modeling of the Development of Abstract Object Representations 
 Jochen Triesch 
 Goethe-Universität Frankfurt 
 
@@ -51,10 +48,10 @@ what computational principles seem to underlie the emergence of abstract object
 representations in infants and toddlers. 
 
 
-Talk 2: Eye gaze patterns and reinstatement in children, adults and artificial intelligence 
+Talk 2 Eye gaze patterns and reinstatement in children, adults and artificial intelligence 
 models during naturalistic viewing 
-Authors: Iryna Schommartz1,2, Bhavin Choksi3, Gemma Roig3, Yee Lee Shing1,2. 
-Affiliations:  
+Authors Iryna Schommartz1,2, Bhavin Choksi3, Gemma Roig3, Yee Lee Shing1,2. 
+Affiliations
 1Department of Psychology, Goethe University Frankfurt 
 2IDeA – Center for Individual Development and Adaptive Education 
 3Computer Science Department, Goethe University Frankfurt 
@@ -81,12 +78,12 @@ building foveation-based AI models.
  
 
 
-Talk 3: Representations of hierarchical scene information in the brain 
+Talk 3 Representations of hierarchical scene information in the brain 
 Victoria I. Nicholls1, Lea Widmayer1, Melissa Võ1,2 
 1 Goethe University Frankfurt, Department of Psychology, Scene Grammar Lab 
 2 Neuro-Cognitive Psychology, Department of Psychology, LMU Munich 
 
-Our knowledge of scenes is thought to have a hierarchical structure: at the lowest level are 
+Our knowledge of scenes is thought to have a hierarchical structure. At the lowest level are 
 often smaller, local objects e.g. a soap, followed by so-called “anchors”, often larger objects 
 like a sink. Together they form a “phrase”, a meaningful and functionally organized sub-set 
 of a scene. Multiple phrases combined form a scene. What has not been established so far is 
@@ -106,7 +103,7 @@ information. This implies automatic representations of functional groupings of o
 within scenes that may not be maintained in working memory if not immediately required 
 by the task.  
 
-Talk 4: Large Language Models as Artificial Semantic Annotators 
+Talk 4 Large Language Models as Artificial Semantic Annotators 
 Emin Çelik, Mariya Toneva 
 MPI for Software Systems, Saarbrücken, Germany 
 
