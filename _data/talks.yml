@@ -3,20 +3,7 @@
   date:  12 March 2025
   date_js: "2025-02-06T12:00:00"
   location: TeaP Conference 2025
-  abstract: How knowledge is represented in the human mind and brain is one of the most fundamental questions of cognitive and brain sciences. It is central to many domains of cognition - from visual perception and object recognition, learning of regularities and semantic knowledge about the world, to language processing. However, an overarching framework that is rich enough to capture knowledge representations at various depths and levels of abstraction is 
-still lacking. In this regard, recent developments in artificial intelligence (AI), in particular Deep 
-Neural Networks (DNNs), are making promising advances and will be exemplified in the talks 
-of this symposium. In Talk 1, Triesch will present novel learning approaches for DNNs that 
-exploit the temporal and/or multimodal structure of sensory information during infants’ 
-extended interactions with objects. In Talk 2, Schommartz will present how gaze fixations 
-during natural scene viewing differ between children and adults, and how predictions from 
-AI models can help to understand the age differences. In Talk 3, Nicholls will present a study 
-that examines to what extent hierarchical scene knowledge is represented on a neural level 
-during object recognition. In Talk 4, Çelik will present a study that demonstrates LLMs as 
-useful tools to semantically annotate a large pool of words out-of-context and modelling brain 
-data while subjects listen to this audiobook. At the end, we will discuss to what extent such 
-concerted efforts of psychologists and computer scientists improve the understanding of how 
-representations emerge and are coded across different types of neural architecture. 
+  abstract: 
   recording: 
   
 - title: "A compositional neural code of invariant visual word recognition"
