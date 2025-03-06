@@ -1,3 +1,10 @@
+- title: "Improving Semantic Understanding in Speech Language Models via Brain-tuning"
+  authors: Omer Moussa, Dietrich Klakow, Mariya Toneva
+  link:
+    url: https://arxiv.org/pdf/2410.09230 
+    display: International Conference on Learning Representations (ICLR 2025)
+  highlight: 0
+  
 - title: "Self-Supervised Learning of Color Constancy"
   authors: Markus R. Ernst, Francisco M. López, Arthur Aubret, Roland W. Fleming, Jochen Triesch
   link:
