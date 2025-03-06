@@ -3,7 +3,128 @@
   date: 12 March 2025
   date_js: "2025-02-06T12:00:00"
   location: TeaP Conference 2025
-  abstract:
+  abstract: |
+    How knowledge is represented in the human mind and brain is one of the most fundamental 
+questions of cognitive and brain sciences. It is central to many domains of cognition - from 
+visual perception and object recognition, learning of regularities and semantic knowledge 
+about the world, to language processing. However, an overarching framework that is rich 
+enough to capture knowledge representations at various depths and levels of abstraction is 
+still lacking. In this regard, recent developments in artificial intelligence (AI), in particular Deep 
+Neural Networks (DNNs), are making promising advances and will be exemplified in the talks 
+of this symposium. In Talk 1, Triesch will present novel learning approaches for DNNs that 
+exploit the temporal and/or multimodal structure of sensory information during infants’ 
+extended interactions with objects. In Talk 2, Schommartz will present how gaze fixations 
+during natural scene viewing differ between children and adults, and how predictions from 
+AI models can help to understand the age differences. In Talk 3, Nicholls will present a study 
+that examines to what extent hierarchical scene knowledge is represented on a neural level 
+during object recognition. In Talk 4, Çelik will present a study that demonstrates LLMs as 
+useful tools to semantically annotate a large pool of words out-of-context and modelling brain 
+data while subjects listen to this audiobook. At the end, we will discuss to what extent such 
+concerted efforts of psychologists and computer scientists improve the understanding of how 
+representations emerge and are coded across different types of neural architecture. 
+
+ 
+
+Talk 1: Computational Modeling of the Development of Abstract Object Representations 
+Jochen Triesch 
+Goethe-Universität Frankfurt 
+
+What are the origins of abstract knowledge about objects? Infants and toddlers learn about 
+objects quite differently from today’s artificial intelligence systems. Here we aim to better 
+understand these processes by developing computational models of how infants and 
+toddlers acquire abstract object representations and the ability to recognize objects and 
+object categories independent of viewpoint, distance, etc. For this, we have developed 
+novel learning approaches for deep neural networks that exploit the temporal and/or 
+multimodal structure of sensory information during extended interactions with objects. For 
+example, we harness head-mounted eye tracking in toddlers and train computational 
+models with toddlers’ first person visual input, demonstrating that strong object 
+representations can result from just minutes of such experience. Furthermore, we highlight 
+the benefits of toddlers’ gaze behavior for successful learning. We also consider learning in 
+models receiving computer rendered visual inputs, where we can precisely control the input 
+statistics. We show how additional linguistic input, even if rare and noisy, promotes the 
+formation of abstract object categories. Furthermore, we demonstrate how our time-based 
+learning approach can lead to the emergence of very abstract concepts such as „kitchen 
+object“ or „garden object“. Finally, we study the role of behavior and knowledge of 
+executed manipulation actions (e.g. how an object was turned) and demonstrate how this 
+additional information can further enrich the learned representations. Overall, we elucidate 
+what computational principles seem to underlie the emergence of abstract object 
+representations in infants and toddlers. 
+
+
+Talk 2: Eye gaze patterns and reinstatement in children, adults and artificial intelligence 
+models during naturalistic viewing 
+Authors: Iryna Schommartz1,2, Bhavin Choksi3, Gemma Roig3, Yee Lee Shing1,2. 
+Affiliations:  
+1Department of Psychology, Goethe University Frankfurt 
+2IDeA – Center for Individual Development and Adaptive Education 
+3Computer Science Department, Goethe University Frankfurt 
+
+In developmental research, differences in cognition and perception during image viewing 
+can result in varied processing and subsequent memory of scene elements. Additionally, 
+scan paths during scene perception may provide insights into pattern completion for 
+partially incomplete images. However, the extent to which eye-gaze patterns predict 
+subsequent memory and how these patterns differ between children and adults remains 
+unclear. To investigate this, we measured the gaze fixations while children (aged 6 to 11) 
+and young adults (aged 19 to 30) viewed 60 naturalistic images. Later, gaze fixations were 
+measured during image reinstatement on the blank screen after being cued with partially 
+occluded images. Using the representational similarity analysis of the fixation-based heat 
+maps, we observed that adults exhibited higher encoding-retrieval eye-gaze reinstatement 
+than children, suggesting a prolonged developmental trajectory for eye-gaze reinstatement. 
+It correlated with greater memory accuracy, reflecting the consolidation of scan paths. 
+Further, we analyzed the differences between the scan paths in children and adults using 
+MultiMatch—a metric measuring the similarity between scan paths across multiple 
+dimensions. We observed consistent differences between the scan paths made by adults 
+and children. We also used various state-of-the-art AI models to uncover further if they can 
+preferentially predict the scanpaths of an age group. We aim to thoroughly investigate and 
+discuss our findings, and their implications for both, cognitive neuroscience as well as for 
+building foveation-based AI models. 
+ 
+
+
+Talk 3: Representations of hierarchical scene information in the brain 
+Victoria I. Nicholls1, Lea Widmayer1, Melissa Võ1,2 
+1 Goethe University Frankfurt, Department of Psychology, Scene Grammar Lab 
+2 Neuro-Cognitive Psychology, Department of Psychology, LMU Munich 
+
+Our knowledge of scenes is thought to have a hierarchical structure: at the lowest level are 
+often smaller, local objects e.g. a soap, followed by so-called “anchors”, often larger objects 
+like a sink. Together they form a “phrase”, a meaningful and functionally organized sub-set 
+of a scene. Multiple phrases combined form a scene. What has not been established so far is 
+whether this hierarchical scene knowledge is represented on a neural level, which brain 
+regions might be involved, and the dynamics of accessing this knowledge. To examine this, 
+participants were presented with an isolated object (local or anchor) either as a word label, 
+image, or target word in the context of a search task, followed by a blank period while we 
+recorded MEG. During the blank period participants were instructed to imagine the object. 
+Using representational similarity analysis (RSA) with models representing the different levels 
+of scene knowledge, we analysed each stimulus presentation and blank period to determine 
+whether participants access representations about the objects only, or additionally access 
+phrase and scene representations. During the stimulus period we found peaks for object, 
+phrase, and scene category models from 100-200ms post-stimulus onset. During the blank 
+period we found no such peaks. This suggests that even when seeing isolated objects 
+participants automatically access also representations of scene and even phrasal 
+information. This implies automatic representations of functional groupings of objects 
+within scenes that may not be maintained in working memory if not immediately required 
+by the task.  
+
+Talk 4: Large Language Models as Artificial Semantic Annotators 
+Emin Çelik, Mariya Toneva 
+MPI for Software Systems, Saarbrücken, Germany 
+
+Comprehensive study of how the semantic representation of a word changes with context via 
+human behavior or brain recordings is difficult due to the sheer number of possible contexts. 
+Here, we considered large language models (LLMs) as a model organism that is tasked with 
+assessing word meaning. As a first step, we tested whether LLMs can rate a large set of 
+individual words across a number of semantic properties similarly to the way humans do. The 
+words included abstract and concrete nouns, verbs, and adjectives. The semantic properties 
+also covered a wide range, from sensory and motor to social and emotion-related properties. 
+Specifically, we used GPT-4 Turbo and Llama3.1-8B to produce such ratings by using prompts 
+that mimicked the original queries presented to human raters. The prompts additionally 
+included a few words and their corresponding ratings to facilitate accurate rating generation. 
+We found that there was a close match between these rating estimates and those produced 
+by humans. Overall, our results suggest that LLMs are useful tools to semantically annotate a 
+large pool of words out-of-context. In the future, we plan to use our method to annotate a 
+whole book with words in context and model fMRI and MEG data while subjects listen to this 
+audiobook. 
   recording: 
   
 - title: "A compositional neural code of invariant visual word recognition"
