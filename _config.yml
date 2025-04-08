@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fab fa-brands fa-bluesky"
+      icon: <i class='fa-brands fa-bluesky'></i>
       url: "https://web-cdn.bsky.app/profile/arena-researchunit.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
