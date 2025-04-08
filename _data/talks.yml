@@ -1,3 +1,11 @@
+- title: "ARENA Journal Club"
+  speaker: Bhavin Choksi 
+  date: 8th April 2025 , 12:00 – 14:00
+  date_js: "2025-02-06T12:00:00"
+  location: Online (Zoom link https://uni-frankfurt.zoom.us/j/4671141696)
+  abstract:
+  recording: 
+
 - title: "ARENA Symposium - Abstract Representations in Neural Architectures: From Human Cognition to Artificial Intelligence"
   speaker: For more information, see Description
   date: 12 March 2025
@@ -43,7 +51,7 @@
   date_js: "2025-02-06T12:00:00"
   location: PEG building, Seminar room 5G 170, Westend Campus, Goethe University
   abstract: Humans exhibit a remarkable ability to read words accurately even when their internal letters are jumbled, pointing to a robust yet flexible orthographic processing system. Concurrently, reading expertise refines the visual system to distinguish highly similar letters and track their relative positions, enabling us to differentiate between words like FORM and FROM across varying sizes and locations. To probe whether a common neural mechanism underlies these capabilities, we developed cognitive and computational models of invariant word recognition. First, behavioral experiments clarified how letters integrate into word forms. Next, convolutional neural networks trained to recognize words revealed precise mechanism of how word-selective units, which emerged with literacy training, encode letter identity, and positions relative to word boundaries. Finally, using 7T fMRI and MEG, we localized this “ordinal” code in the anterior ventral visual pathway (VWFA) and observed its emergence around 220 ms post-stimulus. This unified framework explains both our resilience to letter transpositions and our precise encoding of letter order, offering novel insights into the neuronal mechanisms underlying invariant word recognition in both human brains and artificial systems.  
-  recording: 
+  recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi3438hAKHMd5YFowzbqaC/video1406903026.mp4"
   
 - title: "ARENA Lecture Series: Taming the neuroscience literature with predictive and explanatory models"
   speaker: Prof. Bradley Love
