@@ -66,7 +66,7 @@ author:
   bio    : "The Fiebach Lab investigates the neural underpinnings of human cognition, specializing in areas such as perception, memory, decision-making, and their implications for education and cognitive training. <br>"
   links:
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-brands fa-bluesky"
       url: "https://web-cdn.bsky.app/profile/arena-researchunit.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-brands fa-bluesky"
       url: "https://web-cdn.bsky.app/profile/arena-researchunit.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
