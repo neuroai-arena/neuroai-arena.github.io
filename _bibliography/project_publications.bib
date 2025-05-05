@@ -2,6 +2,86 @@
 ---
 References
 ==========
+
+@misc{cerdas2025brainactiv,
+	title={Brain{ACTIV}: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation},
+	author={Diego Garcia Cerdas and Christina Sartzetaki and Magnus Petersen and Gemma Roig and Pascal Mettes and Iris Groen},
+	booktitle={The Thirteenth International Conference on Learning Representations},
+	year={2025},
+	url={https://openreview.net/forum?id=CGON8Btleu},
+	abstract={The human brain efficiently represents visual inputs through specialized neural populations that selectively respond to specific categories. Advancements in generative modeling have enabled data-driven discovery of neural selectivity using brain-optimized image synthesis. However, current methods independently generate one sample at a time, without enforcing structural constraints on the generations; thus, these individual images have no explicit point of comparison, making it hard to discern which image features drive neural response selectivity. To address this issue, we introduce Brain Activation Control Through Image Variation (BrainACTIV), a method for manipulating a reference image to enhance or decrease activity in a target cortical region using pretrained diffusion models. Starting from a reference image allows for fine-grained and reliable offline identification of optimal visuo-semantic properties, as well as producing controlled stimuli for novel neuroimaging studies. We show that our manipulations effectively modulate predicted fMRI responses and agree with hypothesized preferred categories in established regions of interest, while remaining structurally close to the reference image. Moreover, we demonstrate how our method accentuates differences between brain regions that are selective to the same category, and how it could be used to explore neural representation of brain regions with unknown selectivities. Hence, BrainACTIV holds the potential to formulate robust hypotheses about brain representation and to facilitate the production of naturalistic stimuli for neuroscientific experiments.},
+	file={https://openreview.net/pdf?id=CGON8Btleu},
+	doi={}
+}
+
+@misc{sartzetaki2025one,
+	title={One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment},
+	author={Christina Sartzetaki and Gemma Roig and Cees G. M. Snoek and Iris Groen},
+	booktitle={The Thirteenth International Conference on Learning Representations},
+	year={2025},
+	url={https://openreview.net/forum?id=LM4PYXBId5},
+	abstract={What can we learn from comparing video models to human brains, arguably the most efficient and effective video processing systems in existence? Our work takes a step towards answering this question by performing the first large-scale benchmarking of deep video models on representational alignment to the human brain, using publicly available models and a recently released video brain imaging (fMRI) dataset. We disentangle four factors of variation in the models (temporal modeling, classification task, architecture, and training dataset) that affect alignment to the brain, which we measure by conducting Representational Similarity Analysis across multiple brain regions and model layers. We show that temporal modeling is key for alignment to brain regions involved in early visual processing, while a relevant classification task is key for alignment to higher-level regions. Moreover, we identify clear differences between the brain scoring patterns across layers of CNNs and Transformers, and reveal how training dataset biases transfer to alignment with functionally selective brain areas. Additionally, we uncover a negative correlation of computational complexity to brain alignment. Measuring a total of 99 neural networks and 10 human brains watching videos, we aim to forge a path that widens our understanding of temporal and semantic video representations in brains and machines, ideally leading towards more efficient video models and more mechanistic explanations of processing in the human brain.},
+	file={https://openreview.net/pdf?id=LM4PYXBId5},
+	doi={}	
+}
+
+@misc{kuhn2025cognitive,
+	title={Cognitive Neural Architecture Search Reveals Hierarchical Entailment},
+	author={Lukas Kuhn and sari sadiya and Gemma Roig},
+	booktitle={Second Workshop on Representational Alignment at ICLR 2025},
+	year={2025},
+	url={https://openreview.net/forum?id=IJhPRtA7EM},
+	abstract={Recent neuroscience research has challenged the traditionally assumed hierarchical structure of the ventral visual pathway, suggesting that the brain is more shallow than previously thought. Here, we demonstrate that optimizing convolutional network architectures for brain-alignment via evolutionary neural architecture search results in models with clear representational hierarchies. Despite having random weights, these networks achieve brain-alignment scores surpassing even pretrained classification models, as measured by both regression and representational similarity analysis. Furthermore, through traditional supervised training, architectures optimized for alignment with late ventral regions become competitive classification models. These findings suggest that hierarchical structure is a fundamental mechanism of primate visual processing. Finally, this work demonstrates the potential of neural architecture search as a framework for computational cognitive neuroscience research that could reduce the field's reliance on manually designed convolutional networks.},
+	file={https://openreview.net/pdf?id=IJhPRtA7EM},
+	doi={}	
+}
+
+@misc{cerdas2025brainactiv,
+	title={Brain{ACTIV}: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation},
+	author={Diego Garcia Cerdas and Christina Sartzetaki and Magnus Petersen and Gemma Roig and Pascal Mettes and Iris Groen},
+	booktitle={The Thirteenth International Conference on Learning Representations},
+	year={2025},
+	url={https://openreview.net/forum?id=CGON8Btleu},
+	abstract={The human brain efficiently represents visual inputs through specialized neural populations that selectively respond to specific categories. Advancements in generative modeling have enabled data-driven discovery of neural selectivity using brain-optimized image synthesis. However, current methods independently generate one sample at a time, without enforcing structural constraints on the generations; thus, these individual images have no explicit point of comparison, making it hard to discern which image features drive neural response selectivity. To address this issue, we introduce Brain Activation Control Through Image Variation (BrainACTIV), a method for manipulating a reference image to enhance or decrease activity in a target cortical region using pretrained diffusion models. Starting from a reference image allows for fine-grained and reliable offline identification of optimal visuo-semantic properties, as well as producing controlled stimuli for novel neuroimaging studies. We show that our manipulations effectively modulate predicted fMRI responses and agree with hypothesized preferred categories in established regions of interest, while remaining structurally close to the reference image. Moreover, we demonstrate how our method accentuates differences between brain regions that are selective to the same category, and how it could be used to explore neural representation of brain regions with unknown selectivities. Hence, BrainACTIV holds the potential to formulate robust hypotheses about brain representation and to facilitate the production of naturalistic stimuli for neuroscientific experiments.},
+	file={https://openreview.net/pdf?id=CGON8Btleu},
+	doi={}
+}
+
+@misc{sartzetaki2025one,
+	title={One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment},
+	author={Christina Sartzetaki and Gemma Roig and Cees G. M. Snoek and Iris Groen},
+	booktitle={The Thirteenth International Conference on Learning Representations},
+	year={2025},
+	url={https://openreview.net/forum?id=LM4PYXBId5},
+	abstract={What can we learn from comparing video models to human brains, arguably the most efficient and effective video processing systems in existence? Our work takes a step towards answering this question by performing the first large-scale benchmarking of deep video models on representational alignment to the human brain, using publicly available models and a recently released video brain imaging (fMRI) dataset. We disentangle four factors of variation in the models (temporal modeling, classification task, architecture, and training dataset) that affect alignment to the brain, which we measure by conducting Representational Similarity Analysis across multiple brain regions and model layers. We show that temporal modeling is key for alignment to brain regions involved in early visual processing, while a relevant classification task is key for alignment to higher-level regions. Moreover, we identify clear differences between the brain scoring patterns across layers of CNNs and Transformers, and reveal how training dataset biases transfer to alignment with functionally selective brain areas. Additionally, we uncover a negative correlation of computational complexity to brain alignment. Measuring a total of 99 neural networks and 10 human brains watching videos, we aim to forge a path that widens our understanding of temporal and semantic video representations in brains and machines, ideally leading towards more efficient video models and more mechanistic explanations of processing in the human brain.},
+	file={https://openreview.net/pdf?id=LM4PYXBId5},
+	doi={}
+}
+
+@misc{kuhn2025cognitive,
+	title={Cognitive Neural Architecture Search Reveals Hierarchical Entailment},
+	author={Lukas Kuhn and sari sadiya and Gemma Roig},
+	booktitle={Second Workshop on Representational Alignment at ICLR 2025},
+	year={2025},
+	url={https://openreview.net/forum?id=IJhPRtA7EM}
+	abstract={Recent neuroscience research has challenged the traditionally assumed hierarchical structure of the ventral visual pathway, suggesting that the brain is more shallow than previously thought. Here, we demonstrate that optimizing convolutional network architectures for brain-alignment via evolutionary neural architecture search results in models with clear representational hierarchies. Despite having random weights, these networks achieve brain-alignment scores surpassing even pretrained classification models, as measured by both regression and representational similarity analysis. Furthermore, through traditional supervised training, architectures optimized for alignment with late ventral regions become competitive classification models. These findings suggest that hierarchical structure is a fundamental mechanism of primate visual processing. Finally, this work demonstrates the potential of neural architecture search as a framework for computational cognitive neuroscience research that could reduce the field's reliance on manually designed convolutional networks.},
+	file={https://openreview.net/pdf?id=IJhPRtA7EM},
+	doi={}
+}
+
+@misc{moussa2025improvingsemanticunderstandingspeech,
+      title={Improving Semantic Understanding in Speech Language Models via Brain-tuning}, 
+      author={Omer Moussa and Dietrich Klakow and Mariya Toneva},
+      year={2025},
+      eprint={2410.09230},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.09230},
+      abstract = {Speech language models align with human brain responses to natural language to an impressive degree. However, current models rely heavily on low-level speech features, indicating they lack brain-relevant semantics which limits their utility as model organisms of semantic processing in the brain. In this work, we address this limitation by inducing brain-relevant bias directly into the models via fine-tuning with fMRI recordings of people listening to natural stories, a process we name brain-tuning. After testing it on 3 different pretrained model families, we show that brain-tuning not only improves overall alignment with new brain recordings in semantic language regions, but also reduces the reliance on low-level speech features for this alignment. Excitingly, we further show that brain-tuning leads to 1) consistent improvements in performance on a range of downstream tasks and 2) a representational space with increased semantic preference. Our results provide converging evidence, for the first time, that incorporating brain signals into the training of language models improves the models' semantic understanding.},
+      file = {https://arxiv.org/pdf/2410.09230},
+      doi = {https://doi.org/10.48550/arXiv.2410.09230}
+}
+
 @misc{moussa2025improvingsemanticunderstandingspeech,
       title={Improving Semantic Understanding in Speech Language Models via Brain-tuning}, 
       author={Omer Moussa and Dietrich Klakow and Mariya Toneva},
