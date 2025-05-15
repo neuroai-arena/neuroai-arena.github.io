@@ -1,8 +1,15 @@
+- title: "Net2Brain: a toolbox to compare artificial vision models with human brain responses"
+  authors: Bersch, Domenic and Vilas, Martina G. and Saba-Sadiya, Sari and Schaumlöffel, Timothy and Dwivedi, Kshitij and Sartzetaki, Christina and Cichy, Radoslaw M. and Roig, Gemma
+  link: 
+    url: https://www.frontiersin.org/articles/10.3389/fninf.2025.1515873/full
+    display: IEEE International Conference on Development and Learning (ICDL 2024)
+  highlight: 0
+
 - title: "Self-Supervised Learning of Color Constancy"
   authors: Markus R. Ernst, Francisco M. López, Arthur Aubret, Roland W. Fleming, Jochen Triesch
   link:
     url: https://arxiv.org/pdf/2404.08127
-    display: IEEE International Conference on Development and Learning (ICDL 2024)
+    display: Frontiers in Neuroinformatics
   highlight: 0
 
 - title: "Learning Object Semantic Similarity with Self-Supervision"
