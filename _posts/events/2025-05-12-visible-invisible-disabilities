@@ -1,0 +1,20 @@
+---
+title: "Visible and invisible disabilities – Past, Present and Future"
+date: 2025-05-12
+datetime: 12th May 2025
+tags:
+- events
+author_profile: false
+location: PEG 1G 135, Westend Campus, Goethe University
+abstract: "Rebecca Gerwert Vaz de Carvalho and Karen Schallert, both living with multiple sclerosis, encourage a conversation about the significance of visible and invisible disabilities, historical contexts and necessary changes in the present, especially for people with disabilities at universities."
+speaker: Karen Schallert and Rebecca Gerwert
+header: 
+  teaser: "./assets/images/posts/3.jpg"
+---
+
+<p><strong>Speaker:</strong> {{ page.speaker }}</p>
+<p><strong>Date:</strong> {{ page.datetime }}</p>
+<p><strong>Location:</strong> {{ page.location }}</p>
+
+<h3>Abstract</h3>
+<p>{{ page.abstract }}</p>
