@@ -1,6 +1,6 @@
 - title: "ARENA Workshop: Aligning Humans and Language Models: how to investigate emergent properties of geometrical spaces"
   speaker: Dr. Cosimo Iaia and Dr. Bhavin Choksi
-  date: 07 October 2025, 12:00 - 14:00
+  date: 07th October 2025, 12:00 - 14:00
   date_js: "2025-10-07T12:00:00"
   location: PEG Building, Room 5G 170, Westend Campus, Goethe University
   abstract: "Studying abstract representations has a long history in both cognitive neuroscience and computer science. In recent years cognitive scientist, neuroscientist, psychologists, and linguists have leveraged advancement in machine learning and AI to study the nature of representations across multiple domains, and whether these representations are shared between humans and machines (Sucholutsky, Muttenthaler et al. 2023).This workshop will be split into sections. In the first section we will demonstrate how to extract vector representations from language models and how to model meaning in a geometrical space, according to a prior hypothesis. In the second sections we will show how to measure the degree of agreement between human behavior and language models through Representational similarity analysis (RSA, Kriegeskorte et al., 2008). Lastly, we will demonstrate how to directly interpret information related to theoretically informed variables from word representations in a geometrical space, replicating some recent results (Iaia et al., 2025)."
