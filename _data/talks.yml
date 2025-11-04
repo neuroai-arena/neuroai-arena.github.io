@@ -1,9 +1,48 @@
+
+
+
+- title: "ARENA Symposium: Abstract Representations in Neural Architectures"
+  speaker: For more information, see Description
+  date: 7 - 10  March 2026
+  date_js: "2025-03-07T12:00:00"
+  location: Cognitive Neuroscience Society (CNS) 2026 Annual Meeting
+  abstract: "Abstract representations are fundamental to human cognition, allowing us to generalize beyond specific instances and to navigate complex environments efficiently. From recognizing objects and scenes to guiding visual search and supporting language, abstract knowledge enables flexible behavior across domains. Yet, a comprehensive framework that captures how such representations are organized, how they emerge at different levels of abstraction and modalities, and how they develop across the lifespan is still lacking. This symposium brings together converging evidence from neuroimaging (fMRI, EEG, MEG), eye-tracking, and artificial intelligence (AI), with a particular focus on deep neural networks (DNNs), to investigate the neural architectures of abstract representation at different depth, modalities and developmental stages. Four talks will be organized around two themes: (1) Abstract representations at different depths, with Santiago discussing how the brain represents abstract object features e.g. topology and geometry and Victoria presenting work on representations in visual search scene templates in the brain; (2) Development and modeling of abstract represenations using AI with Iryna examining how temporal and spatial gaze patterns during naturalistic viewing align across the human lifespan and AI models, and Bhavin exploring how multimodal abstract representations can be modeled.
+Together, these perspectives highlight how combining AI modeling, neuro-computational approaches, machine learning and behavioral data can advance our understanding of hierarchically organized knowledge along different degrees.<br><br>
+
+  <b>Talk 1: The geometry and topology of abstract representations</b><br><br>
+  <b>Santiago Galella<sup>1, Matthias Kaschube<sup>1</b><br>
+  <i>1Frankfurt Institute for Advanced Studies (FIAS)</i><br><br>
+  Understanding how neural systems encode abstract representations is a central question in neuroscience and machine learning. Such representations allow both brains and machines to generalize across changing sensory inputs, yet their organization remains poorly understood. We address this through two complementary studies, examining the geometry and topology of neural representations during visual processing. First, we study how representational dimensionality evolves throughout visual processing in humans and artificial networks. Using fMRI data from participants viewing natural images, we find that dimensionality increases systematically across cortical areas, reflecting an expansion of representational space. This growth corresponds with the ability to decode abstract features such as movement or naturalness, suggesting a link between higher dimensionality and abstraction. In contrast, artificial models show different trajectories: while early layers expand dimensionality, late stages often collapse it, leading to distinct geometric trends compared to biological systems, which may reflect differences in abstraction. Second, we introduce MAPS (Manifolds of Artificial Parametric Scenes), a synthetic dataset in which object properties vary along well-defined parametric manifolds. Using MAPS, we examine how pretrained models embed these transformations, uncovering geometric signatures of invariance and topological structures such as circles, cylinders, and tori. These patterns reveal how models abstract over continuous changes in high-level scene properties, such as distance, size, or lighting, providing a controlled setting to study the geometry and topology of abstraction. Together, these findings show how geometry and topology offer principled tools for probing abstraction, bridging insights between biological and artificial representations.
+
+  <b>Talk 2: Representations of visual search templates in the brain</b><br><br>
+  <b>Victoria Nichols<sup>1, Melissa Võ<sup>1</b><br>
+  <i><sup>1</sup>Ludwig-Maximillians-Universität München</i><br>
+  
+  Our knowledge of scenes is thought to have a hierarchical structure: at the lowest level are often smaller, local objects e.g. a soap, followed by so-called “anchors”, often larger objects like a sink. Together they form a “phrase”, a meaningful and functionally organized sub-set of a scene. Multiple phrases combined form a scene. What has not been established so far is whether this hierarchical scene knowledge is represented on a neural level, which brain regions might be involved, and the dynamics of accessing this knowledge. To examine this, participants were presented with an isolated object (local or anchor) either as a word label, image, or target word in the context of a search task, followed by a blank period while we recorded MEG. During the blank period participants were instructed to imagine the object. Using representational similarity analysis (RSA) with models representing the different levels of scene knowledge, we analysed each stimulus presentation and blank period to determine whether participants access representations about the objects only, or additionally access phrase and scene representations. During the stimulus period we found peaks for object, and phrase category models from 100-200ms post-stimulus onset. During the blank period we found peaks for scene category information. This suggests that even when seeing isolated objects participants automatically access also representations of scene and even phrasal information. This implies automatic representations of functional groupings of objects within scenes that may not be maintained in working memory if not immediately required by the task.<br><br>
+
+  <b>Talk 3: Tracing Minds and Machines: Scanpaths and Memory Reinstatement in Humans across the Lifespan and in AI Models</b><br><br>
+  <b> Iryna Schommartz<sup>1,2</sup>, Bhavin Choksi<sup>3</sup>, Gemma Roig<sup>3</sup>, Ben de Haas<sup>4</sup>, Yee Lee Shing<sup>1,2</sup></b><br>
+  <i><sup>1</sup>Goethe University Frankfurt</i><br>
+  <i><sup>2</sup>IDeA – Center for Individual Development and Adaptive Education</i><br>
+  <i><sup>3</sup>Hessian AI, The Hessian Center for Artificial Intelligence</i><br>
+  <i><sup>4</sup>University of Giessen</i><br><br>
+  
+The visual world presents us with a rich array of complex scenes. However, individual differences in visual sampling during naturalistic viewing –– as reflected by the temporal and spatial characteristics of the scanpath and their relationship with memory for sampled information –– remain poorly understood. Here we employ state of the art DeepGaze III artificial intelligence model to predict scanpath characteristics and align them with scanpath characteristics of human participants across a lifespan. We also investigate with representational similarity analysis how gaze can be reinstated during retrieval differentially under increasing pattern completion load. 
+To investigate this, we measured the gaze fixations while children (aged 5 to 12, N=85), young adults (aged 19 to 30, N = 42) and older adults (aged 65 to 80, N = 40) viewed 60 naturalistic images. Our results show that canonical eye gaze patterns emerge during development, moderated by semantic categories. AI-human alignment in gaze patterns is relatively high across age groups, but may reflect different mechanisms leading the scanpath (bottom-up perceptual for children vs top-down semantic for adults). Higher alignment with AI-generated canonical scanpath predicts better subsequent recognition sensitivity across all age groups. Additionally, we show that successfully encoded scenes can be reconstructed with gaze patterns, presumably through pattern completion. This process emerges in late childhood, remains stable in young adults and disappears in older adults. Taken together, our findings provide implications for both, lifespan cognitive neuroscience as well as for building foveation-based AI models.<br><br>
+
+  <b>Talk 4: Investigating methods to build better multimodal representations--for AI and Neuroscience</b><br><br>
+  <b>Bhavin Choksi<sup>1</sup>, Timothy Schaumloeffel<sup>2</sup>, Gemma Roig<sup>1,2</sup></b><br>
+  <i><sup>1</sup>Hessian AI, The Hessian Center for Artificial Intelligence</i><br>
+  <i><sup>2</sup>Goethe University Frankfurt</i><br><br>
+ 
+ How to learn representations in a context with multiple modalities has been an active research question. While the recent advances in AI models has led to an ever increasing list of multimodal models, the improvement in their performance often stems from the increased dataset sizes used for their optimization, providing little insights how to best combine various modalities. To address this, we built various multimodal models in a data controlled setup. The models differed only in their specific training paradigms and architectures, and were always trained from scratch. Such a controlled approach allowed us to compare these models, and also the different strategies, in their ability to perform on standard machine learning tasks. Using methods like Representational Similarity Analysis (RSA) and Centered Kernel Alignment (CKA), we also investigated the structures of the representational spaces learned due to different paradigms. We found that optimization done using semantic information, regardless of the specific method, had a unique role in shaping the representations within the models."<br><br>
+ 
+
 - title: "ARENA Workshop: A Crash Course in Structural and Functional Neuroanatomy for Cognitive Neuroscientists - Day 3"
   speaker: "Professor Christian Fiebach"
   date: "03 November 2025, 14:00 – 16:30"
   date_js: "2025-11-03T12:00:00"
   location: "PEG building, Room 3G 170, Westend Campus, Goethe University, Frankfurt am Main"
-  recording: "https://next.hessenbox.de/index.php/s/iQJoiEzLwxf3z4s"
   abstract: |
     <p>This session will focus on: <b>Parietal Cortex</b>; <b>Frontal Lobes</b>; <b>Network Perspective on Human Brain Function</b>.</p>
 
@@ -128,7 +167,7 @@
   <b>Emin Çelik, Mariya Toneva</b><br>
   <i>MPI for Software Systems, Saarbrücken, Germany</i><br><br>
   Comprehensive study of how the semantic representation of a word changes with context via human behavior or brain recordings is difficult due to the sheer number of possible contexts. Here, we considered large language models (LLMs) as a model organism that is tasked with assessing word meaning. As a first step, we tested whether LLMs can rate a large set of individual words across a number of semantic properties similarly to the way humans do. The words included abstract and concrete nouns, verbs, and adjectives. The semantic properties also covered a wide range, from sensory and motor to social and emotion-related properties. Specifically, we used GPT-4 Turbo and Llama3.1-8B to produce such ratings by using prompts that mimicked the original queries presented to human raters. We found that there was a close match between these rating estimates and those produced by humans. Overall, our results suggest that LLMs are useful tools to semantically annotate a large pool of words out-of-context. In the future, we plan to use our method to annotate a whole book with words in context and model fMRI and MEG data while subjects listen to this audiobook."
-  recording: 
+  
     
 - title: "A compositional neural code of invariant visual word recognition"
   speaker: Dr. Aakash Agrawal 
