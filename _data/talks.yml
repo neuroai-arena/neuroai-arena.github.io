@@ -25,8 +25,7 @@
     <p><b>15:30 - 16:00</b><br>
     Network Perspective on Human Brain Function: localization vs. network neuroscience.<br>
     Functional network models: Mesulam, DMN, TPN vs. TNN, etc. Perception-Action-Cycle (Fuster).</p>
-
-
+    
 - title: "ARENA Workshop: Aligning Humans and Language Models: how to investigate emergent properties of geometrical spaces"
   speaker: Dr. Cosimo Iaia and Dr. Bhavin Choksi
   date: 07th October 2025, 12:00 - 14:00
@@ -126,7 +125,7 @@
   <b>Emin Çelik, Mariya Toneva</b><br>
   <i>MPI for Software Systems, Saarbrücken, Germany</i><br><br>
   Comprehensive study of how the semantic representation of a word changes with context via human behavior or brain recordings is difficult due to the sheer number of possible contexts. Here, we considered large language models (LLMs) as a model organism that is tasked with assessing word meaning. As a first step, we tested whether LLMs can rate a large set of individual words across a number of semantic properties similarly to the way humans do. The words included abstract and concrete nouns, verbs, and adjectives. The semantic properties also covered a wide range, from sensory and motor to social and emotion-related properties. Specifically, we used GPT-4 Turbo and Llama3.1-8B to produce such ratings by using prompts that mimicked the original queries presented to human raters. We found that there was a close match between these rating estimates and those produced by humans. Overall, our results suggest that LLMs are useful tools to semantically annotate a large pool of words out-of-context. In the future, we plan to use our method to annotate a whole book with words in context and model fMRI and MEG data while subjects listen to this audiobook."
-  
+  recording: 
     
 - title: "A compositional neural code of invariant visual word recognition"
   speaker: Dr. Aakash Agrawal 
