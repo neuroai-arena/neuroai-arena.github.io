@@ -27,18 +27,18 @@
     Functional network models: Mesulam, DMN, TPN vs. TNN, etc. Perception-Action-Cycle (Fuster).</p>
     
 - title: "ARENA Workshop: Aligning Humans and Language Models: how to investigate emergent properties of geometrical spaces"
-  speaker: "Dr. Cosimo Iaia and Dr. Bhavin Choksi"
-  date: "07 October 2025, 12:00 - 14:00"
+  speaker: Dr. Cosimo Iaia and Dr. Bhavin Choksi
+  date: 07th October 2025, 12:00 - 14:00
   date_js: "2025-10-07T12:00:00"
-  location: "PEG Building, Room 5G 170, Westend Campus, Goethe University"
+  location: PEG Building, Room 5G 170, Westend Campus, Goethe University
   abstract: "Studying abstract representations has a long history in both cognitive neuroscience and computer science. In recent years cognitive scientist, neuroscientist, psychologists, and linguists have leveraged advancement in machine learning and AI to study the nature of representations across multiple domains, and whether these representations are shared between humans and machines (Sucholutsky, Muttenthaler et al. 2023).This workshop will be split into sections. In the first section we will demonstrate how to extract vector representations from language models and how to model meaning in a geometrical space, according to a prior hypothesis. In the second sections we will show how to measure the degree of agreement between human behavior and language models through Representational similarity analysis (RSA, Kriegeskorte et al., 2008). Lastly, we will demonstrate how to directly interpret information related to theoretically informed variables from word representations in a geometrical space, replicating some recent results (Iaia et al., 2025)."
 
 
 - title: "ARENA Workshop: Brain in Two Days: A Crash Course in Structural and Functional Neuroanatomy for Cognitive Neuroscientists - Day 2"
-  speaker: "Professor Christian Fiebach"
-  date: "23 July 2025, 14:30 – 17:30"
+  speaker: Professor Christian Fiebach
+  date: 23th July 2025, 14:30 – 17:30
   date_js: "2025-07-30T10:00:00"
-  location: "Seminar Haus, Room SH 0.106, Westend Campus, Goethe University, Frankfurt am Main"
+  location: Seminar Haus, Room SH 0.106, Westend Campus, Goethe University, Frankfurt am Main
   abstract: "This crash course provides an overview of:<br>
   <b>(i) Gross brain anatomy</b> (e.g., central vs. peripheral nervous system, brain lobes);<br>
   <b>(ii) Functionally relevant systems</b> (e.g., prefrontal cortex, language system);<br>
@@ -47,18 +47,18 @@
   On <b>Day 2</b> the <b>main focus</b> is on Language System; Parietal Cortex; Frontal Lobes; Functional Networks in the Brain."
 
 - title: "ARENA Lecture Series: Unifying Social Learning Mechanisms through Representational Exchange"
-  speaker: "Dr. Charley Wu"
-  date: "22 July 2025, 12:00 - 14:00"
+  speaker: Dr. Charley Wu
+  date: 22th July 2025, 12:00 - 14:00
   date_js: "2025-07-22T12:00:00"
-  location: "PEG Building, Room 5G 170, Westend Campus, Goethe University"
+  location: PEG Building, Room 5G 170, Westend Campus, Goethe University
   abstract: "Social learning shapes our behavior, helping us navigate complex environments more efficiently. Yet theories often treat individual learning mechanisms and social influence as distinct processes. I introduce the Representational Exchange Framework, which integrates diverse forms of social learning — policy-based, value-based, and model-based — under a unified computational hierarchy, balancing computational cost against flexibility and compositionality. I provide support across three studies. First, using a collective foraging experiment programmed in the game Minecraft, I combine visual field analyses with rich spatial trajectories to show how people dynamically integrate social and asocial learning mechanisms, where the degree of adaptivity best predicts individual performance. Second, I present a socially correlated bandit task to demonstrate how people flexibly integration social information about value, despite individual differences (e.g., preferences or goals). We demonstrate that our new social generalization model is the best normative model (via evolutionary simulations), while also providing the best predictions of human behavior across 2 experiments. Lastly, ongoing research employing a novel card task tests arbitration across policy-, value-, and model-based strategies, where with fMRI data, we hope to provide new insights into how cost-benefit evaluations guide social learning decisions. Together, these findings reveal fundamental principles underlying adaptive decision-making across multiple levels of social learning."
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi4Ujn1BeND3arPAoL8Drt/video1747485677.mp4"
   
 - title: "ARENA Workshop: Brain in Two Days: A Crash Course in Structural and Functional Neuroanatomy for Cognitive Neuroscientists - Day 1"
-  speaker: "Professor Christian Fiebach"
-  date: "15 July 2025, 12:30 – 16:30"
+  speaker: Professor Christian Fiebach
+  date: 15th July 2025, 12:30 – 16:30
   date_js: "2025-07-15T12:30:00"
-  location: "PEG Building, Room 5G 170, Westend Campus, Goethe University, Frankfurt am Main"
+  location: PEG Building, Room 5G 170, Westend Campus, Goethe University, Frankfurt am Main
   abstract: "<b>This crash course will provide an overview of:</b><br>
   <b>(i) Gross brain anatomy</b> (e.g., central vs. peripheral nervous system, brain lobes);<br>
   <b>(ii) Functionally relevant systems</b> (e.g., prefrontal cortex, language system);<br>
@@ -73,31 +73,34 @@
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiEeR7iTkBZm5vxLuvnMNc/video1411375035.mp4"
 
 - title: "ARENA Journal Club"
-  speaker: "Iryna Schommartz"
-  date: "24 June 2025, 12:00 - 14:00"
+  speaker: Iryna Schommartz
+  date: 24th June 2025, 12:00 - 14:00
   date_js: "2025-06-24T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
-
+  abstract:
+  recording: 
   
 - title: "ARENA Journal Club"
-  speaker: "Cosimo Iaia"
-  date: "13 May 2025 , 12:00 – 14:00"
+  speaker: Cosimo Iaia
+  date: 13th May 2025 , 12:00 – 14:00
   date_js: "2025-02-06T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
- 
+  abstract:
+  recording: 
 
 - title: "ARENA Journal Club"
-  speaker: "Bhavin Choksi" 
-  date: "8 April 2025 , 12:00 – 14:00"
+  speaker: Bhavin Choksi 
+  date: 8th April 2025 , 12:00 – 14:00
   date_js: "2025-02-06T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
- 
+  abstract:
+  recording: 
 
 - title: "ARENA Symposium - Abstract Representations in Neural Architectures: From Human Cognition to Artificial Intelligence"
-  speaker: "For more information, see Description"
-  date: "12 March 2025"
+  speaker: For more information, see Description
+  date: 12 March 2025
   date_js: "2025-02-06T12:00:00"
-  location: "TeaP Conference 2025"
+  location: TeaP Conference 2025
   abstract: "How knowledge is represented in the human mind and brain is one of the most fundamental questions of cognitive and brain sciences. It is central to many domains of cognition—from visual perception and object recognition, learning of regularities and semantic knowledge about the world, to language processing. However, an overarching framework that is rich enough to capture knowledge representations at various depths and levels of abstraction is still lacking. In this regard, recent developments in artificial intelligence (AI), in particular Deep Neural Networks (DNNs), are making promising advances and will be exemplified in the talks of this symposium. In Talk 1, Triesch will present novel learning approaches for DNNs that exploit the temporal and/or multimodal structure of sensory information during infants’ extended interactions with objects. In Talk 2, Schommartz will present how gaze fixations during natural scene viewing differ between children and adults, and how predictions from AI models can help to understand the age differences. In Talk 3, Nicholls will present a study that examines to what extent hierarchical scene knowledge is represented on a neural level during object recognition. In Talk 4, Çelik will present a study that demonstrates LLMs as useful tools to semantically annotate a large pool of words out-of-context and modeling brain data while subjects listen to this audiobook. At the end, we will discuss to what extent such concerted efforts of psychologists and computer scientists improve the understanding of how representations emerge and are coded across different types of neural architecture.<br><br>
 
   <b>Talk 1: Computational Modeling of the Development of Abstract Object Representations</b><br><br>
@@ -125,87 +128,87 @@
   recording: 
     
 - title: "A compositional neural code of invariant visual word recognition"
-  speaker: "Dr. Aakash Agrawal" 
-  date: "11 March 2025 , 12:30 – 14:00"
+  speaker: Dr. Aakash Agrawal 
+  date: 11th March 2025 , 12:30 – 14:00
   date_js: "2025-02-06T12:00:00"
-  location: "PEG building, room 5G 129, Westend Campus, Goethe University"
-  abstract: "Humans exhibit a remarkable ability to read words accurately even when their internal letters are jumbled, pointing to a robust yet flexible orthographic processing system. Concurrently, reading expertise refines the visual system to distinguish highly similar letters and track their relative positions, enabling us to differentiate between words like FORM and FROM across varying sizes and locations. To probe whether a common neural mechanism underlies these capabilities, we developed cognitive and computational models of invariant word recognition. First, behavioral experiments clarified how letters integrate into word forms. Next, convolutional neural networks trained to recognize words revealed precise mechanism of how word-selective units, which emerged with literacy training, encode letter identity, and positions relative to word boundaries. Finally, using 7T fMRI and MEG, we localized this “ordinal” code in the anterior ventral visual pathway (VWFA) and observed its emergence around 220 ms post-stimulus. This unified framework explains both our resilience to letter transpositions and our precise encoding of letter order, offering novel insights into the neuronal mechanisms underlying invariant word recognition in both human brains and artificial systems."
+  location: PEG building, room 5G 129, Westend Campus, Goethe University
+  abstract: Humans exhibit a remarkable ability to read words accurately even when their internal letters are jumbled, pointing to a robust yet flexible orthographic processing system. Concurrently, reading expertise refines the visual system to distinguish highly similar letters and track their relative positions, enabling us to differentiate between words like FORM and FROM across varying sizes and locations. To probe whether a common neural mechanism underlies these capabilities, we developed cognitive and computational models of invariant word recognition. First, behavioral experiments clarified how letters integrate into word forms. Next, convolutional neural networks trained to recognize words revealed precise mechanism of how word-selective units, which emerged with literacy training, encode letter identity, and positions relative to word boundaries. Finally, using 7T fMRI and MEG, we localized this “ordinal” code in the anterior ventral visual pathway (VWFA) and observed its emergence around 220 ms post-stimulus. This unified framework explains both our resilience to letter transpositions and our precise encoding of letter order, offering novel insights into the neuronal mechanisms underlying invariant word recognition in both human brains and artificial systems.
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiCHCzNkbRtuDMkmEDBLrY/video1023311821.mp4"
   
 - title: "ARENA Lecture Series: Why is a raven like a writing desk? Mapping and tracking visual object representations"
-  speaker: "Prof. Heida Sigurðardóttir"
-  date: "6 February 2025, 12:00 – 14:00"
+  speaker: Prof. Heida Sigurðardóttir
+  date: 6th February 2025, 12:00 – 14:00
   date_js: "2025-02-06T12:00:00"
-  location: "PEG building, Seminar room 5G 170, Westend Campus, Goethe University"
-  abstract: "Humans exhibit a remarkable ability to read words accurately even when their internal letters are jumbled, pointing to a robust yet flexible orthographic processing system. Concurrently, reading expertise refines the visual system to distinguish highly similar letters and track their relative positions, enabling us to differentiate between words like FORM and FROM across varying sizes and locations. To probe whether a common neural mechanism underlies these capabilities, we developed cognitive and computational models of invariant word recognition. First, behavioral experiments clarified how letters integrate into word forms. Next, convolutional neural networks trained to recognize words revealed precise mechanism of how word-selective units, which emerged with literacy training, encode letter identity, and positions relative to word boundaries. Finally, using 7T fMRI and MEG, we localized this “ordinal” code in the anterior ventral visual pathway (VWFA) and observed its emergence around 220 ms post-stimulus. This unified framework explains both our resilience to letter transpositions and our precise encoding of letter order, offering novel insights into the neuronal mechanisms underlying invariant word recognition in both human brains and artificial systems." 
+  location: PEG building, Seminar room 5G 170, Westend Campus, Goethe University
+  abstract: Humans exhibit a remarkable ability to read words accurately even when their internal letters are jumbled, pointing to a robust yet flexible orthographic processing system. Concurrently, reading expertise refines the visual system to distinguish highly similar letters and track their relative positions, enabling us to differentiate between words like FORM and FROM across varying sizes and locations. To probe whether a common neural mechanism underlies these capabilities, we developed cognitive and computational models of invariant word recognition. First, behavioral experiments clarified how letters integrate into word forms. Next, convolutional neural networks trained to recognize words revealed precise mechanism of how word-selective units, which emerged with literacy training, encode letter identity, and positions relative to word boundaries. Finally, using 7T fMRI and MEG, we localized this “ordinal” code in the anterior ventral visual pathway (VWFA) and observed its emergence around 220 ms post-stimulus. This unified framework explains both our resilience to letter transpositions and our precise encoding of letter order, offering novel insights into the neuronal mechanisms underlying invariant word recognition in both human brains and artificial systems.  
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi3438hAKHMd5YFowzbqaC/video1406903026.mp4"
   
 - title: "ARENA Lecture Series: Taming the neuroscience literature with predictive and explanatory models"
-  speaker: "Prof. Bradley Love"
-  date: "4 February 2025, 12:00 – 14:00"
+  speaker: Prof. Bradley Love
+  date: 4th February 2025, 12:00 – 14:00
   date_js: "2025-02-04T12:00:00"
-  location: "DIPF building, Room Erwin Stein (1. OG), Westend Campus, Goethe University"
+  location: DIPF building, Room Erwin Stein (1. OG), Westend Campus, Goethe University
   abstract: "Models can help scientists make sense of an exponentially growing literature. In the first part of the talk, I will discuss using models as predictive tools. In the BrainGPT.org project, we use large language models (LLMs) to order the scientific literature. On a benchmark, BrainBench, that involves predicting experimental results from methods, we find that LLMs exceed the capabilities of human experts. Because the confidence of LLMs is calibrated, they can team with neuroscientists to accelerate scientific discovery. In the second part of the talk, I focus on models that can provide explanations bridging behaviour and brain measures. Unlike predictive models, explanatory models can offer interpretations of key results. I'll discuss work that suggests intuitive cell types (e.g., place, grid, concept cells, etc.) are of limited scientific value and naturally arise in complex networks, including random networks. In this example, the explanatory model is serving as a baseline which should be surpassed prior to making strong scientific claims. I'll end by noting the complementary roles explanatory and predictive models play."
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiGyscA5LoRADb2dfrh58X/video1783023175.mp4"
 
 - title: "ARENA Lecture Series: Neural Representations Underlying Flexible Behavior"
-  speaker: "Prof. Mona Garvert"
-  date: "26 November 2024 , 12:00 – 14:00" 
+  speaker: Prof. Mona Garvert
+  date: 26th November 2024 , 12:00 – 14:00 
   date_js: "2024-11-26T12:00:00"
-  location: "PEG building, seminar room 1G 150, Westend Campus, Goethe University"
+  location: PEG building, seminar room 1G 150, Westend Campus, Goethe University
   abstract:  "In our ever-changing world, the ability to adapt to novel situations is essential. This flexibility relies on our ability to draw from past experiences and apply general principles to new situations. For example, when choosing from a menu in an unfamiliar restaurant, we instinctively apply past dining experiences to guide our decision. Such generalization is a cornerstone of adaptive behavior, allowing us to make informed decisions without relearning strategies for every new scenario. In this talk, I explore how the human brain enables such behavior. I will demonstrate that the brain constructs hippocampal cognitive maps, traditionally known for encoding spatial relationships, to also represent other types of relational knowledge, providing a flexible foundation for generalization and novel inference. When stimuli can be part of multiple relational maps, the orbitofrontal cortex selectively activates relevant maps tailored to the specific task. Additionally, our research reveals that with time and consolidation, the brain refines these cognitive maps into more abstract representations, capturing the broader relational structure of experiences beyond specific stimuli. In summary, our findings illustrate the remarkable adaptability of neural representations in the human brain. They demonstrate how these representations are not just static archives of past experiences but are dynamic tools actively reshaped to aid decision-making and behavior in ever-changing environments."
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi3FsZaw4GCod6TETzScqB/video1208723741.mp4 "
 
 
-- title: "ARENA Journal Club"
-  speaker: "Santiago Galella"
-  date: "19 November 2024, 12:00 - 14:00"
+- title: ARENA Journal Club
+  speaker: Santiago Galella
+  date: 19 November 2024, 12:00 - 14:00
   date_js: "2024-11-19T12:00:00"
   location: Online [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)
 
-- title: "ARENA Journal Club"
-  speaker: "Vicky Nicholls"
-  date: "22 October 2024, 12:00 - 14:00"
+- title: ARENA Journal Club
+  speaker: Vicky Nicholls
+  date: 22 October 2024, 12:00 - 14:00
   data_js: "2024-10-22T12:00:00"
-  location: "Online [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+  location: Online [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)
 
 - title: "ARENA Workshop: The role of cognitive maps in structure learning and reasoning"
-  speaker: "Dr. Stephanie Theves"
-  date: "11 October 2024 , 13:00 – 14:30"
+  speaker: Dr. Stephanie Theves
+  date: 11th October 2024 , 13:00 – 14:30
   date_js: "2024-10-11T13:00:00"
-  location: "PEG 1G 131, Westend Campus, Goethe University"
+  location: PEG 1G 131, Westend Campus, Goethe University
   abstract: "How does the human brain transform experiences into concepts and how do we use those representations flexibly? Recent evidence suggests that the ability to extract commonalities and to mark distinction across experiences to build generalisable knowledge is supported by the same brain mechanisms that create cognitive maps of physical spaces. In my talk I will present a series of behavioral and neuroimaging (fMRI) studies  that suggest that the hippocampal-entorhinal system encodes the structure of behaviorally relevant conceptual spaces, thereby supporting processes like rapid updating of category boundaries as well as the abstraction of category prototypes and inference of new states. Finally, I will consider the relation between representational mechanisms in the hippocampus and general cognitive performance."
 
 - title: "ARENA Workshop: How babies built basic representations of the world around"
-  speaker: "Professor Moritz Köster"
-  date: "11 October 2024 , 15:00 – 16:30"
+  speaker: Professor Moritz Köster
+  date: 11th October 2024 , 15:00 – 16:30
   date_js: "2024-10-11T15:00:00"
-  location: "PEG 1G 131, Westend Campus, Goethe University"
+  location: PEG 1G 131, Westend Campus, Goethe University
   abstract: "Human flexible adaptation relies on both individual learning mechanisms and the (culture-)specific learning environments we grow up in. With my research I aim to illuminate the ontogenetic foundations of this adaptation process in the infant years. I will report about infants’ neural mechanisms for the acquisition of basic physical concepts (such as object categories and physical events), focusing on the theta rhythm and predictive processing, and how these early developing concepts are shaped by social and cultural learning experiences, beginning in the first year of life. Given the topic of the workshop I will emphasize on the predictive processing account and how it may inform our understanding of early learning processes and the theta-gamma neural code, as a neural mechanism that may implement a fundamental and ontogenetically preserved neural principle for making predictions and updating predictive models. To summarize, my talk will span from a more general perspective of the interplay between the individual and the environment in human early development, down to the neural level and basic learning mechanisms that may facilitate adaptation in the developing brain."
 
 - title: "ARENA Lecture Series: Beyond mapping of the human brain: characterizing the causal role of large-scale network interactions in supporting complex cognition"
-  speaker: "Dr Michal Ramot"
-  date: "7 October 2024 , 12:00 – 14:00"
+  speaker: Dr Michal Ramot
+  date: 7th October 2024 , 12:00 – 14:00
   date_js: "2024-10-07T12:00:00"
-  location: "PEG, Seminar room 5G 170, Westend Campus, Goethe University"
+  location: PEG, Seminar room 5G 170, Westend Campus, Goethe University
   abstract: "Neuroimaging has greatly extended our capacity to study the workings of the human brain. Despite the wealth of knowledge this tool has generated however, there are still critical gaps in our understanding. While tremendous progress has been made in mapping areas of the brain that are specialized for particular stimuli, or cognitive processes, we still know very little about how large-scale interactions between different cortical networks facilitate the integration of information and the execution of complex tasks. Yet even the simplest behavioral tasks are complex, requiring integration over multiple cognitive domains. Our knowledge falls short not only in understanding how this integration takes place, but also in what drives the profound variation in behavior that can be observed on almost every task, even within the typically developing (TD) population. The search for the neural underpinnings of individual differences is important not only philosophically, but also in the service of precision medicine. We approach these questions using a three-pronged approach. First, we create a battery of behavioral tasks from which we can calculate objective measures for different aspects of the behaviors of interest, with sufficient variance across the TD population. Second, using these individual differences in behavior, we identify the neural variance which explains the behavioral variance at the network level. Finally, using covert neurofeedback, we perturb the networks hypothesized to correspond to each of these components, thus directly testing their casual contribution. I will discuss our overall approach, as well as a few of the new directions we are currently pursuing."
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiEzpHFdzWncH9hSNnDWnU/video1218937865.mp4" 
 
-- title: "ARENA Journal Club" 
-  speaker: "Emin Celik"
-  date: "24 September 2024, 12:00 - 14:00"
+- title: ARENA Journal Club 
+  speaker: Emin Celik
+  date: 24 September 2024, 12:00 - 14:00
   date_js: "2024-09-24T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Journal Club"
   speaker: "Arthur Aubret"
-  date: "30 July 2024, 12:00 - 14:00"
+  date: "30th July 2024, 12:00 - 14:00"
   date_js: "2024-07-30T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Lecture Series: Decoding Mental Disorders: Pharmacological Challenges and LLM-Brain Interfaces"
   speaker: "PD Dr. med. Oliver Grimm, MSc "
-  date: "23 July 2024, 14:00 – 16:00"
+  date: "23rd July 2024, 14:00 – 16:00"
   date_js: "2024-07-23T14:00:00"
   location: "PEG, Room 5G 170, Westend Campus, Goethe University"
   abstract: "AI language models like ChatGPT are transforming psychiatry, offering potential for improved diagnosis, treatment planning, and patient support. These models also provide insights into brain function, showing similarities with various mental states.
@@ -215,13 +218,13 @@ The research might explore several key areas of alignment between human brain fu
 
 - title: "ARENA Journal Club"
   speaker: "Iryna Schommartz"
-  date: "25 June 2024, 12:00 - 14:00"
+  date: "25th June 2024, 12:00 - 14:00"
   date_js: "2024-06-25T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
 
 - title: "ARENA Journal Club"
   speaker: "Cosimo Iaia"
-  date: "28 May 2024, 12:00 - 14:00"
+  date: "28th May 2024, 12:00 - 14:00"
   date_js: "2024-05-28T12:00:00"
   location: "Online"
 
@@ -243,14 +246,14 @@ The research might explore several key areas of alignment between human brain fu
 
 - title: "ARENA Journal Club"
   speaker: "Bhavin Choksi and Martina Vilas"
-  date: "30 April 2024, 12:00 - 14:00"
+  date: "30th April 2024, 12:00 - 14:00"
   date_js: "2024-04-30T12:00:00"
   abstract: "Getting Aligned on Representational Alignment"
   location: "Online"
 
 - title: "ARENA Lecture Series: Distilling the core visual and semantic dimensions underlying mental representations of objects"
   speaker: "Martin Hebart"
-  date: "9 April 2024 , 12:00 - 14:00"
+  date: "9th April 2024 , 12:00 - 14:00"
   date_js: "2024-04-09T12:00:00"
   abstract: "Understanding the nature of our mental representations is a central aim of the cognitive sciences. In this talk, I will discuss past, present, and future work from our lab targeted at (1) unraveling the nature of these representations, (2) revealing their neural substrate along the ventral visual system, and (3) identifying the representations uniquely associated with vision and semantics. To achieve these aims, we draw on a range of methods ranging from computational modeling of large-scale online behavioral data, the development and use of densely-sampled neuroimaging datasets comparing representations of images and words and those of sighted and blind individuals, and a direct comparison of neural representations of objects in humans and macaque monkeys. Together, our present results support a multifaceted view where humans make sense of the world around them by combining a set of representational dimensions to structure their environments, form categories and communicate their knowledge with others."
   location: "Seminar room 5G 170,PEG, Westend Campus, Goethe University"
@@ -280,24 +283,24 @@ The research might explore several key areas of alignment between human brain fu
 
 - title: "ARENA Journal Club"
   speaker: "Vicky Nicholls"
-  date: "28 November 2023"
+  date: "28th November 2023"
   date_js: "2023-11-28T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Timothy Schaumlöffel and Arthur Aubret"
-  date: "24 October 2023"
+  date: "24th October. 2023"
   date_js: "2023-10-24T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Iryna Schommartz"
-  date: "26 September 2023"
+  date: "26th September. 2023"
   date_js: "2023-09-26T00:00:00"
   location: "Online"
 
 - title: "ARENA Journal Club"
   speaker: "Cosimo Iaia"
-  date: "25 July 2023"
+  date: "25th July. 2023"
   date_js: "2023-07-25T00:00:00"
   location: "Online"
