@@ -29,7 +29,7 @@
     <i><sup>1</sup>Hessian AI, The Hessian Center for Artificial Intelligence</i><br>
     <i><sup>2</sup>Goethe University Frankfurt</i><br><br>
     How to learn representations in a context with multiple modalities has been an active research question. While recent advances in AI models have led to an ever-increasing list of multimodal models, the improvement in their performance often stems from the increased dataset sizes used for their optimization, providing little insight into how to best combine various modalities. To address this, we built various multimodal models in a data-controlled setup. The models differed only in their specific training paradigms and architectures and were always trained from scratch. Such a controlled approach allowed us to compare these models, and also the different strategies, in their ability to perform on standard machine learning tasks. Using methods like Representational Similarity Analysis (RSA) and Centered Kernel Alignment (CKA), we also investigated the structures of the representational spaces learned due to different paradigms. We found that optimization done using semantic information, regardless of the specific method, had a unique role in shaping the representations within the models.
-
+recording: "https://next.hessenbox.de/index.php/s/iQJoiEzLwxf3z4s"
 
 - title: "ARENA Workshop: A Crash Course in Structural and Functional Neuroanatomy for Cognitive Neuroscientists - Day 3"
   speaker: "Professor Christian Fiebach"
