@@ -1,6 +1,6 @@
 - title: "ARENA Symposium: Abstract Representations in Neural Architectures"
   speaker: For more information, see Description
-  date: 07-10 March 2026
+  date: 07 March 2026
   date_js: "2026-03-07T12:00:00"
   location: "Cognitive Neuroscience Society (CNS) 2026 Annual Meeting"
   abstract: "Abstract representations are fundamental to human cognition, allowing us to generalize beyond specific instances and to navigate complex environments efficiently. From recognizing objects and scenes to guiding visual search and supporting language, abstract knowledge enables flexible behavior across domains. Yet, a comprehensive framework that captures how such representations are organized, how they emerge at different levels of abstraction and modalities, and how they develop across the lifespan is still lacking.
@@ -17,7 +17,7 @@ Understanding how neural systems encode abstract representations is a central qu
   <i><sup>1</sup>Ludwig-Maximillians-Universität München</i><br><br>
   Our knowledge of scenes is thought to have a hierarchical structure: at the lowest level are often smaller, local objects e.g. a soap, followed by so-called “anchors”, often larger objects like a sink. Together they form a “phrase”, a meaningful and functionally organized sub-set of a scene. Multiple phrases combined form a scene. What has not been established so far is whether this hierarchical scene knowledge is represented on a neural level, which brain regions might be involved, and the dynamics of accessing this knowledge. To examine this, participants were presented with an isolated object (local or anchor) either as a word label, image, or target word in the context of a search task, followed by a blank period while we recorded MEG. During the blank period participants were instructed to imagine the object. Using representational similarity analysis (RSA) with models representing the different levels of scene knowledge, we analysed each stimulus presentation and blank period to determine whether participants access representations about the objects only, or additionally access phrase and scene representations. During the stimulus period we found peaks for object, and phrase category models from 100-200ms post-stimulus onset. During the blank period we found peaks for scene category information. This suggests that even when seeing isolated objects participants automatically access also representations of scene and even phrasal information. This implies automatic representations of functional groupings of objects within scenes that may not be maintained in working memory if not immediately required by the task.<br><br>
   
-  <b>Talk 3: Tracing Minds and Machines: Scanpaths and Memory Reinstatement in Humans across the Lifespan and in AI Models</b><br><br>
+  <b>Talk 3: "Tracing Minds and Machines: Scanpaths and Memory Reinstatement in Humans across the Lifespan and in AI Models"</b><br><br>
   <b> Iryna Schommartz<sup>1,2</sup>, Bhavin Choksi<sup>3</sup>, Gemma Roig<sup>3</sup>, Ben de Haas<sup>4</sup>, Yee Lee Shing<sup>1,2</sup></b><br>
   <i><sup>1</sup>Goethe University Frankfurt</i><br>
   <i><sup>2</sup>IDeA – Center for Individual Development and Adaptive Education</i><br>
@@ -27,7 +27,7 @@ The visual world presents us with a rich array of complex scenes. However, indiv
 To investigate this, we measured the gaze fixations while children (aged 5 to 12, N=85), young adults (aged 19 to 30, N = 42) and older adults (aged 65 to 80, N = 40) viewed 60 naturalistic images. Our results show that canonical eye gaze patterns emerge during development, moderated by semantic categories. AI-human alignment in gaze patterns is relatively high across age groups, but may reflect different mechanisms leading the scanpath (bottom-up perceptual for children vs top-down semantic for adults). Higher alignment with AI-generated canonical scanpath predicts better subsequent recognition sensitivity across all age groups. Additionally, we show that successfully encoded scenes can be reconstructed with gaze patterns, presumably through pattern completion. This process emerges in late childhood, remains stable in young adults and disappears in older adults. Taken together, our findings provide implications for both, lifespan cognitive neuroscience as well as for building foveation-based AI models.<br><br>
 
   
-  <b>Talk 4: Investigating methods to build better multimodal representations--for AI and Neuroscience</b><br><br>
+  <b>Talk 4: "Investigating methods to build better multimodal representations--for AI and Neuroscience"</b><br><br>
   <b>Bhavin Choksi<sup>1</sup>, Timothy Schaumloeffel<sup>2</sup>, Gemma Roig<sup>1,2</sup></b><br>
   <i><sup>1</sup>Goethe University Frankfurt</i><br>
   <i><sup>2</sup>The Hessian Center for Artificial Intelligence</i><br><br>
