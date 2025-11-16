@@ -1,11 +1,13 @@
-- title: "ARENA Lecture Series: Discovering data-driven models and computational theories of neural dynamics" 
+- title: "ARENA Lecture Series: Discovering data-driven models and computational theories of neural dynamics"
   speaker: "Dr. Richard Gao"
   date: "25 November 2025, 12:00 – 14:00"
   date_js: "2025-11-25T12:00:00"
   location: "PEG building, Room 2G 121, Westend Campus, Goethe University, Frankfurt am Main"
   abstract: |
-  How does cognition emerge from the complex interaction of biological elements in the brain? Neural dynamics offers a bridge between structure and function, where population activity is shaped by a variety of circuit properties and harnessed for computations at multiple timescales. In dissecting these relationships, we are now amassing brain measurements at an unprecedented scale. But while machine learning excels at uncovering associations in large datasets, how AI can complement and advance mechanistic theories of neural dynamics remains an open question. 
-  In this talk, I highlight how recent developments in probabilistic generative models and sequence models can power complementary approaches for linking neural dynamics with structure and function in a data-driven manner: First, I discuss how simulation-based inference enables estimation of circuit properties from experimental recordings using a mechanistic model with interpretable parameters. Second, I detail recent works using state space models and diffusion models to synthesize realistic recordings of neural activity in field potential and spiking data. To close, I discuss next steps for inducing brain-informed dynamics to enable efficient and robust dynamic information processing in artificial sequence models.<br><br>
+    How does cognition emerge from the complex interaction of biological elements in the brain? Neural dynamics offers a bridge between structure and function, where population activity is shaped by a variety of circuit properties and harnessed for computations at multiple timescales. In dissecting these relationships, we are now amassing brain measurements at an unprecedented scale. But while machine learning excels at uncovering associations in large datasets, how AI can complement and advance mechanistic theories of neural dynamics remains an open question.
+    
+    In this talk, I highlight how recent developments in probabilistic generative models and sequence models can power complementary approaches for linking neural dynamics with structure and function in a data-driven manner: First, I discuss how simulation-based inference enables estimation of circuit properties from experimental recordings using a mechanistic model with interpretable parameters. Second, I detail recent works using state space models and diffusion models to synthesize realistic recordings of neural activity in field potential and spiking data. To close, I discuss next steps for inducing brain-informed dynamics to enable efficient and robust dynamic information processing in artificial sequence models.<br><br>
+  recording: ""
 
 
 - title: "ARENA Symposium: Abstract Representations in Neural Architectures"
