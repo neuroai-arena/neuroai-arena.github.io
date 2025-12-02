@@ -8,8 +8,8 @@
 
 - title: "ARENA Lecture Series: Uncovering the Neural Mechanisms of Conceptual and Spatial Cognition through Tasks, Theory-based Analysis, and Interventions"
   speaker: "Dr. Rob Mok"
-  date: "14 October 2025, 9:00 – 11:00"
-  date_js: "2025-10-14T12:00:00"
+  date: "09 December 2025, 9:00 – 11:00"
+  date_js: "2025-12-09T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
   abstract: |
     In computational cognitive neuroscience (CCN), we aim to understand the brain by building theoretical models that can explain and predict brain function. However, many approaches do not tell us how brains or models work. High accuracy on machine learning benchmarks and brain-model correlations do not by themselves provide any scientific explanation, and at best provide hints. I propose a minimum of three elements required for good theoretical explanations in CCN: Task (performing brains and models), Theory-based Analysis (e.g., mechanism), and Interventions (e.g., to test mechanism role/causality) - TTI. I will present several projects where we have used some or all of these to understand concept and category representations in the brain.
