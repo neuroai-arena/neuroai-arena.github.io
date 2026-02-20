@@ -21,7 +21,7 @@
 
 - title: "Bridging Levels of Abstraction in Brains and Natural Language Processing Machines"
   pi: "Mariya Toneva"
-  students: "Emin Celik" "Camila Kolling"
+  students: "Emin Celik, Camila Kolling"
   info: "This project aims to improve our understanding of how semantic knowledge at various levels of abstraction is represented in the human brain and to elucidate how these insights can be integrated into NLP machines. To this end, we will leverage machine learning tools that allow us to establish a data-driven connection between three important sources of information about linguistic meaning: fMRI/MEG recordings of people comprehending language, deep NLP models, and human judgements about fine-grained semantic properties of words."
 
 - title: "Emergence of Abstract Representations in Contextualized Multi-modal Models"
