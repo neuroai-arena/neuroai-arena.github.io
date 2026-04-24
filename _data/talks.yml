@@ -277,7 +277,7 @@
   abstract: "Human flexible adaptation relies on both individual learning mechanisms and the (culture-)specific learning environments we grow up in. With my research I aim to illuminate the ontogenetic foundations of this adaptation process in the infant years. I will report about infants’ neural mechanisms for the acquisition of basic physical concepts (such as object categories and physical events), focusing on the theta rhythm and predictive processing, and how these early developing concepts are shaped by social and cultural learning experiences, beginning in the first year of life. Given the topic of the workshop I will emphasize on the predictive processing account and how it may inform our understanding of early learning processes and the theta-gamma neural code, as a neural mechanism that may implement a fundamental and ontogenetically preserved neural principle for making predictions and updating predictive models. To summarize, my talk will span from a more general perspective of the interplay between the individual and the environment in human early development, down to the neural level and basic learning mechanisms that may facilitate adaptation in the developing brain."
 
 - title: "ARENA Lecture Series: Beyond mapping of the human brain: characterizing the causal role of large-scale network interactions in supporting complex cognition"
-  speaker: Dr Michal Ramot
+  speaker: Dr. Michal Ramot
   date: 7th October 2024 , 12:00 – 14:00
   date_js: "2024-10-07T12:00:00"
   location: PEG, Seminar room 5G 170, Westend Campus, Goethe University
@@ -327,11 +327,10 @@ The research might explore several key areas of alignment between human brain fu
   recording: "https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fiVa6MBKn9Zikwan2JCnAW/video1622060837.mp4"
 
 - title: ARENA Workshop: Development of Visual Representations in Humans + Machines
-  speaker: "For more information, see Description" 
+  speaker: For more information, see Description 
   date: "20th May 2024" 
   date_js: "2024-05-20T12:00:00"
-  abstract: "How do we learn to visually understand our environment ? Recent advances showcase the potential ground-breaking role of new machine learning models to answer that question; for instance, it is now possible to apply bio-plausible computational learning principles on realistic egocentric views and compare the outcome to those of biological systems. Yet, this novel methodology requires a cross-disciplinary expertise, between psychology, neuroscience, and machine learning. In this workshop, we aim to boost this burgeoning research by bringing together cross-disciplinary researchers interested in the development of visual representations. The focus will be on examining the latest advances in the development of visual representations. Through keynote presentations, we will highlight the existing disparities between human and machine vision, encouraging interdisciplinary exchange and collaborative endeavour. 
-  More info::https://icdl-dvrhm.github.io/" 
+  abstract: "How do we learn to visually understand our environment? Recent advances showcase the potential ground-breaking role of new machine learning models to answer that question; for instance, it is now possible to apply bio-plausible computational learning principles on realistic egocentric views and compare the outcome to those of biological systems. Yet, this novel methodology requires a cross-disciplinary expertise, between psychology, neuroscience, and machine learning. In this workshop, we aim to boost this burgeoning research by bringing together cross-disciplinary researchers interested in the development of visual representations. The focus will be on examining the latest advances in the development of visual representations. Through keynote presentations, we will highlight the existing disparities between human and machine vision, encouraging interdisciplinary exchange and collaborative endeavour. More info on https://icdl-dvrhm.github.io/" 
   location: "DVRHM Workshop @ ICDL 2024"
   recording: ""
 
