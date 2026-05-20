@@ -1,3 +1,11 @@
+- title: "ARENA Lecture Series: Attention and perception in memory systems"
+  speaker: "Dr. Mariam Aly"
+  date: "9th June 2026, 15:30 - 17:00"
+  date_js: "2026-06-09T12:00:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom-x.de/my/dadvar)"
+  abstract: "The traditional way of studying the mind and brain is to divide it into different components, which are then largely explored separately. Some researchers may study perception, others might focus on attention, and yet others might investigate memory. This approach has been useful, but fails to account for a burgeoning line of work showing that the mind is not neatly divided along these psychological constructs. I will argue that different aspects of cognition can be united by considering common representations and computations. Specifically, I will show that the canonical memory system of the brain, the hippocampus, draws on a core set of representations and computations to contribute broadly to attention, perception, and memory. To do this, I leverage a multimodal approach spanning behavioral studies, fMRI, lesion studies, pharmacological manipulations, and eye tracking. Across these investigations, I will demonstrate that the hippocampus critically contributes to attention and perception via its relational representations, its ability to create distinct representations for competing memories, and its capacity to switch between computational states that prioritize external vs. internal attention. Together, this research highlights how many aspects of cognition can be united by considering the underlying representations and computations in the mind." 
+
+
 - title: "ARENA Symposium: Abstract Representations in Neural Architectures"
   speaker: "For more information, see Description"
   date: "7th-10th March 2026"
@@ -33,17 +41,6 @@
     <i><sup>2</sup>The Hessian Center for Artificial Intelligence</i><br><br>
     How to learn representations in a context with multiple modalities has been an active research question. While the recent advances in AI models has led to an ever increasing list of multimodal models, the improvement in their performance often stems from the increased dataset sizes used for their optimization, providing little insights how to best combine various modalities. To address this, we built various multimodal models in a data controlled setup. The models differed only in their specific training paradigms and architectures, and were always trained from scratch. Such a controlled approach allowed us to compare these models, and also the different strategies, in their ability to perform on standard machine learning tasks. Using methods like Representational Similarity Analysis (RSA) and Centered Kernel Alignment (CKA), we also investigated the structures of the representational spaces learned due to different paradigms. We found that optimization done using semantic information, regardless of the specific method, had a unique role in shaping the representations within the models.
   recording: ""
-  
-
-- title: "ARENA Lecture Series: Seeing social interactions"
-  speaker: "Dr.Leyla Isik" 
-  date: "24th February 2026, 15:00 – 17:00"
-  date_js: "2026-02-24T12:00:00"
-  location: "Online: [Zoom](https://uni-frankfurt.zoom-x.de/my/dadvar)"
-  abstract: "Humans see the world in rich social detail. We effortlessly recognize not only objects and people in our environment, but also social interactions between people. The ability to perceive and understand others’ interactions is critical to function in our social world, yet the underlying neural computations remain poorly understood. In this talk, I will first argue that social interaction perception should be studied with the same computational vision tools that are now widely applied to other areas of vision, like scene and object recognition. I will then present our recent research using a large-scale, naturalistic video dataset and condition-rich fMRI experiment, demonstrating that social interaction information is extracted hierarchically by the visual system along the recently proposed lateral visual pathway. In ongoing work with this same dataset, we find that, unlike static scene and object vision, current AI vision models do a poor job of matching human behavior and neural responses to dynamic, social scenes. To help close this gap, we developed a novel graph neural network model, SocialGNN, that instantiates insights from cognitive (neuro)science. SocialGNN reproduces human judgments of social interactions in both controlled and natural videos using only visual information, without any explicit model of agents’ minds or the physical world. Critically, the model’s relational, graph-based structure and processing are required for accurate social interaction recognition. Together, this research suggests that social interaction recognition is a core human ability that relies on structured visual representations, highlighting a path forward for better human-aligned AI."
-
-  recording: 
-
 
 - title: "ARENA Lecture Series: Processing past present and future in the auditory brain"
   speaker: "Professor Federico De Martino"
