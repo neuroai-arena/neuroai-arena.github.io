@@ -4,7 +4,7 @@
   date_js: "2026-06-09T12:00:00"
   location: "Online: [Zoom](https://uni-frankfurt.zoom-x.de/my/dadvar)"
   abstract: "The traditional way of studying the mind and brain is to divide it into different components, which are then largely explored separately. Some researchers may study perception, others might focus on attention, and yet others might investigate memory. This approach has been useful, but fails to account for a burgeoning line of work showing that the mind is not neatly divided along these psychological constructs. I will argue that different aspects of cognition can be united by considering common representations and computations. Specifically, I will show that the canonical memory system of the brain, the hippocampus, draws on a core set of representations and computations to contribute broadly to attention, perception, and memory. To do this, I leverage a multimodal approach spanning behavioral studies, fMRI, lesion studies, pharmacological manipulations, and eye tracking. Across these investigations, I will demonstrate that the hippocampus critically contributes to attention and perception via its relational representations, its ability to create distinct representations for competing memories, and its capacity to switch between computational states that prioritize external vs. internal attention. Together, this research highlights how many aspects of cognition can be united by considering the underlying representations and computations in the mind." 
-
+  recording: "https://next.hessenbox.de/index.php/s/CfxnQpx2eQzbBFr" 
 
 - title: "ARENA Symposium: Abstract Representations in Neural Architectures"
   speaker: "For more information, see Description"
