@@ -7,6 +7,14 @@
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
   abstract:
   recording: 
+  
+- title: "ARENA Lecture Series: Attention and perception in memory systems"
+  speaker: "Dr. Mariam Aly"
+  date: "9th June 2026, 15:30 - 17:00"
+  date_js: "2026-06-09T12:00:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom-x.de/my/dadvar)"
+  abstract: "The traditional way of studying the mind and brain is to divide it into different components, which are then largely explored separately. Some researchers may study perception, others might focus on attention, and yet others might investigate memory. This approach has been useful, but fails to account for a burgeoning line of work showing that the mind is not neatly divided along these psychological constructs. I will argue that different aspects of cognition can be united by considering common representations and computations. Specifically, I will show that the canonical memory system of the brain, the hippocampus, draws on a core set of representations and computations to contribute broadly to attention, perception, and memory. To do this, I leverage a multimodal approach spanning behavioral studies, fMRI, lesion studies, pharmacological manipulations, and eye tracking. Across these investigations, I will demonstrate that the hippocampus critically contributes to attention and perception via its relational representations, its ability to create distinct representations for competing memories, and its capacity to switch between computational states that prioritize external vs. internal attention. Together, this research highlights how many aspects of cognition can be united by considering the underlying representations and computations in the mind." 
+  recording: "https://next.hessenbox.de/index.php/s/CfxnQpx2eQzbBFr"
 
 - title: "ARENA Journal Club"
   speaker: Iryna Schommartz
@@ -23,7 +31,7 @@
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
   abstract:
   recording: 
-
+  
 - title: "ARENA Journal Club"
   speaker: Vicky Nicholls
   date: 17th March 2026,
@@ -31,40 +39,7 @@
   location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
   abstract:
   recording: 
-
-- title: "ARENA Journal Club"
-  speaker: Coismo Iaia
-  date: 10th February 2026,
-  date_js: "2026-02-10T12:00:00"
-  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
-  abstract:
-  recording: 
   
-- title: "ARENA Journal Club"
-  speaker: Santiago Galella
-  date: 13th January 2026,
-  date_js: "2026-01-10T12:00:00"
-  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
-  abstract:
-  recording: 
-
-- title: "ARENA Journal Club"
-  speaker: Vicky Nicholls
-  date: 04th November 2025,
-  date_js: "2025-11-10T12:00:00"
-  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
-  abstract:
-  recording: 
-
-
-- title: "ARENA Lecture Series: Attention and perception in memory systems"
-  speaker: "Dr. Mariam Aly"
-  date: "9th June 2026, 15:30 - 17:00"
-  date_js: "2026-06-09T12:00:00"
-  location: "Online: [Zoom](https://uni-frankfurt.zoom-x.de/my/dadvar)"
-  abstract: "The traditional way of studying the mind and brain is to divide it into different components, which are then largely explored separately. Some researchers may study perception, others might focus on attention, and yet others might investigate memory. This approach has been useful, but fails to account for a burgeoning line of work showing that the mind is not neatly divided along these psychological constructs. I will argue that different aspects of cognition can be united by considering common representations and computations. Specifically, I will show that the canonical memory system of the brain, the hippocampus, draws on a core set of representations and computations to contribute broadly to attention, perception, and memory. To do this, I leverage a multimodal approach spanning behavioral studies, fMRI, lesion studies, pharmacological manipulations, and eye tracking. Across these investigations, I will demonstrate that the hippocampus critically contributes to attention and perception via its relational representations, its ability to create distinct representations for competing memories, and its capacity to switch between computational states that prioritize external vs. internal attention. Together, this research highlights how many aspects of cognition can be united by considering the underlying representations and computations in the mind." 
-  recording: "https://next.hessenbox.de/index.php/s/CfxnQpx2eQzbBFr"
-
 - title: "ARENA Symposium: Abstract Representations in Neural Architectures"
   speaker: "For more information, see Description"
   date: "7th-10th March 2026"
@@ -101,6 +76,14 @@
     How to learn representations in a context with multiple modalities has been an active research question. While the recent advances in AI models has led to an ever increasing list of multimodal models, the improvement in their performance often stems from the increased dataset sizes used for their optimization, providing little insights how to best combine various modalities. To address this, we built various multimodal models in a data controlled setup. The models differed only in their specific training paradigms and architectures, and were always trained from scratch. Such a controlled approach allowed us to compare these models, and also the different strategies, in their ability to perform on standard machine learning tasks. Using methods like Representational Similarity Analysis (RSA) and Centered Kernel Alignment (CKA), we also investigated the structures of the representational spaces learned due to different paradigms. We found that optimization done using semantic information, regardless of the specific method, had a unique role in shaping the representations within the models.
   recording: ""
 
+- title: "ARENA Journal Club"
+  speaker: Coismo Iaia
+  date: 10th February 2026,
+  date_js: "2026-02-10T12:00:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+  abstract:
+  recording: 
+  
 - title: "ARENA Lecture Series: Processing past present and future in the auditory brain"
   speaker: "Professor Federico De Martino"
   date: "27th January 2026, 12:00 – 14:00"
@@ -109,7 +92,14 @@
   abstract: "To deal with dynamic changes in the soundscape and adjust our behaviour accordingly, a key function of our brain is to predict future states of the world. This has led to a transformative way of thinking about brain function. That is, what we perceive does not reflect the sensory stimulus itself, but rather a combination of the stimulus and an internal (generative) model of its causes. This idea has led to several theoretical advances some of which are capitalized by Predictive Coding (PC). PC assumes that generative models are formed through the exchange of prediction errors (feedforward) and predictions (feedback) across hierarchical processing stages. In addition, PC assumes that prediction errors are modulated by the precision of currently available predictions. In humans the evidence grounding PC principles onto fundamental neurocomputational units (i.e. cortical layers, subdivisions of subcortical structures) is limited and this hampers our understanding of how PC supports the processing of sounds in context in the human brain. Ultra-high field fMRI at high spatial resolution offers a unique opportunity to investigate how computations are embedded in the mesoscopic (cortical) architecture of the human brain (in vivo and non-invasively). Laminar fMRI has already been used to investigate predictive processes in the human visual cortex. In this talk I will describe recent advances in imaging the auditory pathway at UHF and results from studies investigating how predictions and prediction errors are processed in auditory cortical layers. I will also show how ultra-high field fMRI can be combined with biophysical and computational approaches as well as other imaging modalities (MEG) to gain further insights into the computations underlying our perceptual abilities. "
   recording: "https://next.hessenbox.de/index.php/s/SbALYJif3597fTg"
 
-
+- title: "ARENA Journal Club"
+  speaker: Santiago Galella
+  date: 13th January 2026,
+  date_js: "2026-01-10T12:00:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+  abstract:
+  recording: 
+  
 - title: "Internal Talk by Mercator Fellow"
   speaker: "Professor Tomaso A. Poggio"
   date: "12th December 2025, 15:30 – 17:30"
@@ -128,8 +118,6 @@
     First, I will present a non-spatial account of place and grid cells where a task-performing, clustering algorithm explains key findings in both spatial and conceptual domains. Then, I will present a multi-level version of this model by extending it with a neural population and a neural flocking learning rule, for a mechanistic explanation of how neural assemblies in the hippocampal formation form concept and spatial representations, bridging behavior, cognitive constructs, and neurons. Finally, I will present recent work using deep neural networks to model age-related dedifferentiation in category representations, and present a novel explanation for dedifferentiation based on white matter neurodegeneration from an intervention-based (lesion, noise) approach. In sum, I will argue that the combination of these three elements are essential to building good explanations of the brain, and careful consideration on each component is required to make progress on explaining the brain. <br><br>
   recording: "https://next.hessenbox.de/index.php/s/8jAJ2qAKcSgF2SJ"
 
-
-
 - title: "ARENA Lecture Series: Discovering data-driven models and computational theories of neural dynamics"
   speaker: "Dr. Richard Gao"
   date: "25th November 2025, 12:00 – 14:00"
@@ -140,6 +128,15 @@
     
     In this talk, I highlight how recent developments in probabilistic generative models and sequence models can power complementary approaches for linking neural dynamics with structure and function in a data-driven manner: First, I discuss how simulation-based inference enables estimation of circuit properties from experimental recordings using a mechanistic model with interpretable parameters. Second, I detail recent works using state space models and diffusion models to synthesize realistic recordings of neural activity in field potential and spiking data. To close, I discuss next steps for inducing brain-informed dynamics to enable efficient and robust dynamic information processing in artificial sequence models.<br><br>
   recording: "https://next.hessenbox.de/index.php/s/Fztce5e4dA8Qa8J "
+
+
+- title: "ARENA Journal Club"
+  speaker: Vicky Nicholls
+  date: 04th November 2025,
+  date_js: "2025-11-10T12:00:00"
+  location: "Online: [Zoom](https://uni-frankfurt.zoom.us/j/4671141696)"
+  abstract:
+  recording: 
 
 
 - title: "ARENA Workshop: A Crash Course in Structural and Functional Neuroanatomy for Cognitive Neuroscientists - Day 3"
